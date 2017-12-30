@@ -1,0 +1,3 @@
+[submodule "ccd_pcb/parts/kicad-lib"]
+	path = ccd_pcb/parts/kicad-lib
+	url = https://github.com/cvra/kicad-lib

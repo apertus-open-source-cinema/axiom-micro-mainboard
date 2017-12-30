@@ -1,4 +1,4 @@
-update=Sat 30 Dec 2017 02:26:02 AM CET
+update=Sat 30 Dec 2017 04:29:00 AM CET
 version=1
 last_client=kicad
 [pcbnew]
@@ -62,3 +62,4 @@ LibName30=atmel
 LibName31=contrib
 LibName32=valves
 LibName33=parts/ar0330cm
+LibName34=parts/kicad-lib/components/_linear-regulators
