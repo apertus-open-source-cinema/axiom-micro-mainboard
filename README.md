@@ -1,17 +1,13 @@
 # AXIOM micro
 A cheap open source camera.
 
-While deveolping code for the AXIOM Beta, I wanted to have a working development
-platform, without spending 3000€. This lead to the creation of the AXIOM Micro, wich
+While deveolping code for the AXIOM Beta, we wanted to have a cheap, working development
+platform.   
+This lead to the creation of the AXIOM Micro, which
 uses a FPGA SoC of the same family (Xilinx Zynq) but is imlemented using much lower
 cost components. This leads to a highly reduced overall image quality, which is quite
-bad for cinematography but not that important for Playing around and prototyping new ideas.
+bad for cinematography but not that important for Playing around and prototyping new ideas and concepts.
 
-To reduce work, 
-
-
-## links
-* CCD: https://www.mouser.de/productdetail/on-semiconductor/ar0330cm1c12suw90?qs=sGAEpiMZZMuo%252bmZx5g6tFJ1ALI4MDLIMwiop2Z94wjM%3D
-* FPGA Board: https://shop.trenz-electronic.de/de/28797-Z-turn-Lite-MYS-7Z010-L-C-S-mit-Xilinx-Zynq-7010-512-MB-DDR3-4-GB-e.MMC-Flash
-* Board to board connector socket: https://www.digikey.de/product-detail/de/samtec-inc/BTH-060-01-F-D-A/SAM9193-ND/6677930
+To reduce work, most parts of the software of the AXIOM Beta should be used. Only the bitstream
+should be a custom development, that doesnt have to be upstreamed.
 
