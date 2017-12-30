@@ -13,4 +13,5 @@ To reduce work,
 ## links
 * CCD: https://www.mouser.de/productdetail/on-semiconductor/ar0330cm1c12suw90?qs=sGAEpiMZZMuo%252bmZx5g6tFJ1ALI4MDLIMwiop2Z94wjM%3D
 * FPGA Board: https://shop.trenz-electronic.de/de/28797-Z-turn-Lite-MYS-7Z010-L-C-S-mit-Xilinx-Zynq-7010-512-MB-DDR3-4-GB-e.MMC-Flash
+* Board to board connector socket: https://www.digikey.de/product-detail/de/samtec-inc/BTH-060-01-F-D-A/SAM9193-ND/6677930
 
