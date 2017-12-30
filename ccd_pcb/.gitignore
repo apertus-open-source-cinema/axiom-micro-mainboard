@@ -9,6 +9,7 @@
 _autosave-*
 *.tmp
 *.bak
+*-cache.lib
 
 # Netlist files (exported from Eeschema)
 *.net
