@@ -3,7 +3,6 @@ LIBS:power
 LIBS:device
 LIBS:switches
 LIBS:relays
-LIBS:motors
 LIBS:transistors
 LIBS:conn
 LIBS:linear
@@ -35,7 +34,6 @@ LIBS:ar0330cm
 LIBS:_linear-regulators
 LIBS:z-turn-lite
 LIBS:pcie-36-axiom
-LIBS:ccd_pcb-cache
 EELAYER 25 0
 EELAYER END
 $Descr A3 16535 11693
@@ -1792,4 +1790,6 @@ Text GLabel 1950 9850 0    60   Input ~ 0
 IO1_N
 Text GLabel 1950 9750 0    60   Input ~ 0
 IO0_N
+Text GLabel 6800 6550 0    60   Input ~ 0
+IOVCC
 $EndSCHEMATC
