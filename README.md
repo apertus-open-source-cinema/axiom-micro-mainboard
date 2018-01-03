@@ -1,6 +1,8 @@
 # AXIOM micro
 A cheap open source camera.
 
+![a preview of the cad model](assets/pcbstack_preview.png)
+
 While deveolping code for the AXIOM Beta, we wanted to have a cheap, working development
 platform.   
 This lead to the creation of the AXIOM Micro, which
