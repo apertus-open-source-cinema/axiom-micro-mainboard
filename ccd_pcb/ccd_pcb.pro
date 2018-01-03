@@ -1,4 +1,4 @@
-update=Mo 01 Jan 2018 23:10:35 CET
+update=Mi 03 Jan 2018 17:05:11 CET
 version=1
 last_client=kicad
 [pcbnew]
@@ -66,3 +66,4 @@ LibName34=parts/kicad-lib/components/_linear-regulators
 LibName35=parts/z-turn-lite
 LibName36=parts/pcie-36-axiom
 LibName37=parts/axiom-shield
+LibName38=parts/kicad-pmod/pmod
