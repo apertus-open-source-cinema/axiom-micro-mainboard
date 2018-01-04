@@ -3,4 +3,4 @@
 	url = https://github.com/cvra/kicad-lib
 [submodule "ccd_pcb/parts/kicad-pmod"]
 	path = ccd_pcb/parts/kicad-pmod
-	url = https://github.com/mithro/kicad-pmod
+	url = https://github.com/leftshift/kicad-pmod
