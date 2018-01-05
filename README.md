@@ -33,7 +33,7 @@ should be a custom development, that doesnt have to be upstreamed.
 
 ### General
 * AXIOM Beta compatible plugin module and shield slots
-* ~ 150€ BOM cost
+* ~ 150€ BOM cost  (see [bom.csv](bom.csv))
 
 ## Developing
 To develop the PCBs, simply clone this repository with 
