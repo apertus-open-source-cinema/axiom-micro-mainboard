@@ -1,4 +1,4 @@
-update=Mi 03 Jan 2018 17:05:11 CET
+update=Fr 05 Jan 2018 00:33:55 CET
 version=1
 last_client=kicad
 [pcbnew]
@@ -67,3 +67,4 @@ LibName35=parts/z-turn-lite
 LibName36=parts/pcie-36-axiom
 LibName37=parts/axiom-shield
 LibName38=parts/kicad-pmod/pmod
+LibName39=parts/voltage-translators
