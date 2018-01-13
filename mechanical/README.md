@@ -8,4 +8,4 @@ holding the plugin modules.
 The same mecanical interface for plugin modules is present. Two PCIe x1 conectors are arranged in this way:
 ![plugin connector layout](../assets/plugin_layout.png)
 
-A 3D concept of the pcb stack can be found in the FreeCAD document `pcb_stack.fcstd`.
+A 3D concept of the pcb stack can be found in the solvespace document `main.slvs`.
