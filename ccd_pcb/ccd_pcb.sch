@@ -265,7 +265,7 @@ U 1 1 5A4A8131
 P 1650 2050
 F 0 "R1" V 1730 2050 50  0000 C CNN
 F 1 "1.5k" V 1650 2050 50  0000 C CNN
-F 2 "Resistors_SMD:R_0805_HandSoldering" V 1580 2050 50  0001 C CNN
+F 2 "Resistors_SMD:R_0603_HandSoldering" V 1580 2050 50  0001 C CNN
 F 3 "" H 1650 2050 50  0001 C CNN
 	1    1650 2050
 	1    0    0    -1  
@@ -276,7 +276,7 @@ U 1 1 5A4A8132
 P 1850 2050
 F 0 "R2" V 1930 2050 50  0000 C CNN
 F 1 "1.5k " V 1850 2050 50  0000 C CNN
-F 2 "Resistors_SMD:R_0805_HandSoldering" V 1780 2050 50  0001 C CNN
+F 2 "Resistors_SMD:R_0603_HandSoldering" V 1780 2050 50  0001 C CNN
 F 3 "" H 1850 2050 50  0001 C CNN
 	1    1850 2050
 	1    0    0    -1  
@@ -570,13 +570,13 @@ Text GLabel 8550 3550 2    60   Input ~ 0
 LVDSn4_N
 Text GLabel 8550 3650 2    60   Input ~ 0
 LVDSn4_P
-Text GLabel 1950 8450 0    60   Input ~ 0
+Text GLabel 1950 9950 0    60   Input ~ 0
 LVDSn3_N
-Text GLabel 1950 8550 0    60   Input ~ 0
+Text GLabel 1950 10050 0    60   Input ~ 0
 LVDSn3_P
-Text GLabel 1950 8950 0    60   Input ~ 0
+Text GLabel 1950 9750 0    60   Input ~ 0
 LVDSn2_N
-Text GLabel 1950 9050 0    60   Input ~ 0
+Text GLabel 1950 9850 0    60   Input ~ 0
 LVDSn2_P
 Text GLabel 8550 4700 2    60   Input ~ 0
 LVDSn1_N
@@ -586,45 +586,45 @@ Text GLabel 8550 5000 2    60   Input ~ 0
 LVDSn0_N
 Text GLabel 8550 5100 2    60   Input ~ 0
 LVDSn0_P
-Text GLabel 1950 8750 0    60   Input ~ 0
+Text GLabel 1950 10550 0    60   Input ~ 0
 LVDSn5_N
-Text GLabel 1950 8850 0    60   Input ~ 0
+Text GLabel 1950 10650 0    60   Input ~ 0
 LVDSn5_P
-Text GLabel 1950 8250 0    60   Input ~ 0
+Text GLabel 1950 10350 0    60   Input ~ 0
 LVDSn4_N
-Text GLabel 1950 8350 0    60   Input ~ 0
+Text GLabel 1950 10450 0    60   Input ~ 0
 LVDSn4_P
-Text GLabel 1950 9250 0    60   Input ~ 0
-LVDSn1_N
-Text GLabel 1950 9350 0    60   Input ~ 0
-LVDSn1_P
 Text GLabel 1950 9450 0    60   Input ~ 0
-LVDSn0_N
+LVDSn1_N
 Text GLabel 1950 9550 0    60   Input ~ 0
+LVDSn1_P
+Text GLabel 1950 9250 0    60   Input ~ 0
+LVDSn0_N
+Text GLabel 1950 9350 0    60   Input ~ 0
 LVDSn0_P
-Text GLabel 3900 8450 2    60   Input ~ 0
-LVDSs5_N
-Text GLabel 3900 8550 2    60   Input ~ 0
-LVDSs5_P
-Text GLabel 3900 8750 2    60   Input ~ 0
-LVDSs4_N
-Text GLabel 3900 8850 2    60   Input ~ 0
-LVDSs4_P
-Text GLabel 3900 8250 2    60   Input ~ 0
-LVDSs3_N
-Text GLabel 3900 8350 2    60   Input ~ 0
-LVDSs3_P
-Text GLabel 3900 8950 2    60   Input ~ 0
-LVDSs2_N
-Text GLabel 3900 9050 2    60   Input ~ 0
-LVDSs2_P
-Text GLabel 3900 9250 2    60   Input ~ 0
-LVDSs1_N
-Text GLabel 3900 9350 2    60   Input ~ 0
-LVDSs1_P
 Text GLabel 3900 9450 2    60   Input ~ 0
-LVDSs0_N
+LVDSs5_N
 Text GLabel 3900 9550 2    60   Input ~ 0
+LVDSs5_P
+Text GLabel 3900 9750 2    60   Input ~ 0
+LVDSs4_N
+Text GLabel 3900 9850 2    60   Input ~ 0
+LVDSs4_P
+Text GLabel 3900 9250 2    60   Input ~ 0
+LVDSs3_N
+Text GLabel 3900 9350 2    60   Input ~ 0
+LVDSs3_P
+Text GLabel 3900 10550 2    60   Input ~ 0
+LVDSs2_N
+Text GLabel 3900 10650 2    60   Input ~ 0
+LVDSs2_P
+Text GLabel 3900 10350 2    60   Input ~ 0
+LVDSs1_N
+Text GLabel 3900 10450 2    60   Input ~ 0
+LVDSs1_P
+Text GLabel 3900 9950 2    60   Input ~ 0
+LVDSs0_N
+Text GLabel 3900 10050 2    60   Input ~ 0
 LVDSs0_P
 Text GLabel 8550 3850 2    60   Input ~ 0
 LVDSn3_N
@@ -634,41 +634,41 @@ Text GLabel 8550 4400 2    60   Input ~ 0
 LVDSn2_N
 Text GLabel 8550 4500 2    60   Input ~ 0
 LVDSn2_P
-Text GLabel 3900 10650 2    60   Input ~ 0
+Text GLabel 3900 9050 2    60   Input ~ 0
 IO7_S
-Text GLabel 3900 10550 2    60   Input ~ 0
+Text GLabel 3900 8950 2    60   Input ~ 0
 IO6_S
-Text GLabel 3900 10450 2    60   Input ~ 0
+Text GLabel 3900 8850 2    60   Input ~ 0
 IO5_S
-Text GLabel 3900 10350 2    60   Input ~ 0
+Text GLabel 3900 8750 2    60   Input ~ 0
 IO4_S
-Text GLabel 3900 10050 2    60   Input ~ 0
+Text GLabel 3900 8550 2    60   Input ~ 0
 IO3_S
-Text GLabel 3900 9950 2    60   Input ~ 0
+Text GLabel 3900 8450 2    60   Input ~ 0
 IO2_S
-Text GLabel 3900 9850 2    60   Input ~ 0
+Text GLabel 3900 8350 2    60   Input ~ 0
 IO1_S
-Text GLabel 3900 9750 2    60   Input ~ 0
+Text GLabel 3900 8250 2    60   Input ~ 0
 IO0_S
 Text GLabel 1950 10850 0    60   Input ~ 0
 SCL_N
 Text GLabel 1950 10950 0    60   Input ~ 0
 SDA_N
-Text GLabel 1950 10650 0    60   Input ~ 0
+Text GLabel 1950 9050 0    60   Input ~ 0
 IO7_N
-Text GLabel 1950 10550 0    60   Input ~ 0
+Text GLabel 1950 8950 0    60   Input ~ 0
 IO6_N
-Text GLabel 1950 10450 0    60   Input ~ 0
+Text GLabel 1950 8850 0    60   Input ~ 0
 IO5_N
-Text GLabel 1950 10350 0    60   Input ~ 0
+Text GLabel 1950 8750 0    60   Input ~ 0
 IO4_N
-Text GLabel 1950 10050 0    60   Input ~ 0
+Text GLabel 1950 8550 0    60   Input ~ 0
 IO3_N
-Text GLabel 1950 9950 0    60   Input ~ 0
+Text GLabel 1950 8450 0    60   Input ~ 0
 IO2_N
-Text GLabel 1950 9850 0    60   Input ~ 0
+Text GLabel 1950 8350 0    60   Input ~ 0
 IO1_N
-Text GLabel 1950 9750 0    60   Input ~ 0
+Text GLabel 1950 8250 0    60   Input ~ 0
 IO0_N
 $Comp
 L PMOD-Host-x2-GPIO J3
@@ -701,37 +701,37 @@ Text Notes 6000 3050 0    60   ~ 0
 Plugin Connectors
 Text Notes 10100 750  0    60   ~ 0
 PMOD Connectors
-Text GLabel 1950 6650 0    60   BiDi ~ 0
+Text GLabel 3900 6650 2    60   BiDi ~ 0
 PMOD0_N
-Text GLabel 1950 6750 0    60   BiDi ~ 0
+Text GLabel 3900 6750 2    60   BiDi ~ 0
 PMOD1_N
-Text GLabel 1950 6850 0    60   BiDi ~ 0
+Text GLabel 3900 6850 2    60   BiDi ~ 0
 PMOD2_N
-Text GLabel 1950 6950 0    60   BiDi ~ 0
+Text GLabel 3900 6950 2    60   BiDi ~ 0
 PMOD3_N
-Text GLabel 1950 7250 0    60   BiDi ~ 0
-PMOD4_N
-Text GLabel 1950 7350 0    60   BiDi ~ 0
-PMOD5_N
-Text GLabel 1950 7450 0    60   BiDi ~ 0
-PMOD6_N
-Text GLabel 1950 7550 0    60   BiDi ~ 0
-PMOD7_N
 Text GLabel 3900 7150 2    60   BiDi ~ 0
-PMOD0_S
+PMOD4_N
 Text GLabel 3900 7250 2    60   BiDi ~ 0
-PMOD1_S
+PMOD5_N
 Text GLabel 3900 7350 2    60   BiDi ~ 0
-PMOD2_S
+PMOD6_N
 Text GLabel 3900 7450 2    60   BiDi ~ 0
+PMOD7_N
+Text GLabel 3900 5650 2    60   BiDi ~ 0
+PMOD0_S
+Text GLabel 3900 5750 2    60   BiDi ~ 0
+PMOD1_S
+Text GLabel 3900 5850 2    60   BiDi ~ 0
+PMOD2_S
+Text GLabel 3900 5950 2    60   BiDi ~ 0
 PMOD3_S
-Text GLabel 3900 7750 2    60   BiDi ~ 0
+Text GLabel 3900 6150 2    60   BiDi ~ 0
 PMOD4_S
-Text GLabel 3900 7850 2    60   BiDi ~ 0
+Text GLabel 3900 6250 2    60   BiDi ~ 0
 PMOD5_S
-Text GLabel 3900 7950 2    60   BiDi ~ 0
+Text GLabel 3900 6350 2    60   BiDi ~ 0
 PMOD6_S
-Text GLabel 3900 8050 2    60   BiDi ~ 0
+Text GLabel 3900 6450 2    60   BiDi ~ 0
 PMOD7_S
 Text GLabel 10800 3650 0    60   BiDi ~ 0
 PMOD0_E
@@ -741,13 +741,13 @@ Text GLabel 10800 3950 0    60   BiDi ~ 0
 PMOD2_E
 Text GLabel 10800 4050 0    60   BiDi ~ 0
 PMOD3_E
-Text GLabel 1950 7750 0    60   BiDi ~ 0
+Text GLabel 3900 7750 2    60   BiDi ~ 0
 PMOD0_E
-Text GLabel 1950 7850 0    60   BiDi ~ 0
+Text GLabel 3900 7850 2    60   BiDi ~ 0
 PMOD1_E
-Text GLabel 1950 7950 0    60   BiDi ~ 0
+Text GLabel 3900 7950 2    60   BiDi ~ 0
 PMOD2_E
-Text GLabel 1950 8050 0    60   BiDi ~ 0
+Text GLabel 3900 8050 2    60   BiDi ~ 0
 PMOD3_E
 Text GLabel 3900 10950 2    60   Input ~ 0
 SCL_S
@@ -936,7 +936,7 @@ U 1 1 5A5A4F9D
 P 13550 4450
 F 0 "R9" V 13630 4450 50  0000 C CNN
 F 1 "100" V 13550 4450 50  0000 C CNN
-F 2 "Resistors_SMD:R_0805_HandSoldering" V 13480 4450 50  0001 C CNN
+F 2 "Resistors_SMD:R_0603_HandSoldering" V 13480 4450 50  0001 C CNN
 F 3 "" H 13550 4450 50  0001 C CNN
 	1    13550 4450
 	0    -1   -1   0   
@@ -947,7 +947,7 @@ U 1 1 5A5A555D
 P 13550 4150
 F 0 "R8" V 13630 4150 50  0000 C CNN
 F 1 "100" V 13550 4150 50  0000 C CNN
-F 2 "Resistors_SMD:R_0805_HandSoldering" V 13480 4150 50  0001 C CNN
+F 2 "Resistors_SMD:R_0603_HandSoldering" V 13480 4150 50  0001 C CNN
 F 3 "" H 13550 4150 50  0001 C CNN
 	1    13550 4150
 	0    -1   -1   0   
@@ -1023,56 +1023,56 @@ $EndComp
 $Comp
 L R R3
 U 1 1 5A502FE9
-P 4150 5500
-F 0 "R3" V 4230 5500 50  0000 C CNN
-F 1 "100" V 4150 5500 50  0000 C CNN
-F 2 "Resistors_SMD:R_0805_HandSoldering" V 4080 5500 50  0001 C CNN
-F 3 "" H 4150 5500 50  0000 C CNN
-	1    4150 5500
+P 3950 2700
+F 0 "R3" V 4030 2700 50  0000 C CNN
+F 1 "100" V 3950 2700 50  0000 C CNN
+F 2 "Resistors_SMD:R_0603_HandSoldering" V 3880 2700 50  0001 C CNN
+F 3 "" H 3950 2700 50  0000 C CNN
+	1    3950 2700
 	0    1    1    0   
 $EndComp
 $Comp
 L R R4
 U 1 1 5A503FAC
-P 4350 5850
-F 0 "R4" V 4430 5850 50  0000 C CNN
-F 1 "100" V 4350 5850 50  0000 C CNN
-F 2 "Resistors_SMD:R_0805_HandSoldering" V 4280 5850 50  0001 C CNN
-F 3 "" H 4350 5850 50  0000 C CNN
-	1    4350 5850
+P 3950 2900
+F 0 "R4" V 4030 2900 50  0000 C CNN
+F 1 "100" V 3950 2900 50  0000 C CNN
+F 2 "Resistors_SMD:R_0603_HandSoldering" V 3880 2900 50  0001 C CNN
+F 3 "" H 3950 2900 50  0000 C CNN
+	1    3950 2900
 	0    1    1    0   
 $EndComp
 $Comp
 L R R5
 U 1 1 5A504CEB
-P 4350 6150
-F 0 "R5" V 4430 6150 50  0000 C CNN
-F 1 "100" V 4350 6150 50  0000 C CNN
-F 2 "Resistors_SMD:R_0805_HandSoldering" V 4280 6150 50  0001 C CNN
-F 3 "" H 4350 6150 50  0000 C CNN
-	1    4350 6150
+P 3950 3100
+F 0 "R5" V 4030 3100 50  0000 C CNN
+F 1 "100" V 3950 3100 50  0000 C CNN
+F 2 "Resistors_SMD:R_0603_HandSoldering" V 3880 3100 50  0001 C CNN
+F 3 "" H 3950 3100 50  0000 C CNN
+	1    3950 3100
 	0    1    1    0   
 $EndComp
 $Comp
 L R R6
 U 1 1 5A504DD1
-P 4750 6350
-F 0 "R6" V 4830 6350 50  0000 C CNN
-F 1 "100" V 4750 6350 50  0000 C CNN
-F 2 "Resistors_SMD:R_0805_HandSoldering" V 4680 6350 50  0001 C CNN
-F 3 "" H 4750 6350 50  0000 C CNN
-	1    4750 6350
+P 3950 3300
+F 0 "R6" V 4030 3300 50  0000 C CNN
+F 1 "100" V 3950 3300 50  0000 C CNN
+F 2 "Resistors_SMD:R_0603_HandSoldering" V 3880 3300 50  0001 C CNN
+F 3 "" H 3950 3300 50  0000 C CNN
+	1    3950 3300
 	0    1    1    0   
 $EndComp
 $Comp
 L R R7
 U 1 1 5A50518E
-P 4950 6650
-F 0 "R7" V 5030 6650 50  0000 C CNN
-F 1 "100" V 4950 6650 50  0000 C CNN
-F 2 "Resistors_SMD:R_0805_HandSoldering" V 4880 6650 50  0001 C CNN
-F 3 "" H 4950 6650 50  0000 C CNN
-	1    4950 6650
+P 3950 3500
+F 0 "R7" V 4030 3500 50  0000 C CNN
+F 1 "100" V 3950 3500 50  0000 C CNN
+F 2 "Resistors_SMD:R_0603_HandSoldering" V 3880 3500 50  0001 C CNN
+F 3 "" H 3950 3500 50  0000 C CNN
+	1    3950 3500
 	0    1    1    0   
 $EndComp
 $Comp
@@ -1218,10 +1218,6 @@ F 3 "" H 12150 4700 50  0001 C CNN
 	1    12150 4700
 	0    1    1    0   
 $EndComp
-Wire Wire Line
-	4100 5650 4100 5750
-Wire Wire Line
-	4300 5650 4100 5650
 Connection ~ 3950 7050
 Wire Wire Line
 	3950 6550 3900 6550
@@ -1637,37 +1633,13 @@ Connection ~ 1850 2250
 Wire Wire Line
 	1650 2200 1650 2250
 Wire Wire Line
-	5300 6950 3900 6950
-Wire Wire Line
-	5300 650  5300 6950
-Wire Wire Line
-	3800 650  5300 650 
-Wire Wire Line
-	5200 6850 3900 6850
-Wire Wire Line
-	5200 750  5200 6850
-Wire Wire Line
-	3800 750  5200 750 
-Wire Wire Line
-	700  6350 1950 6350
-Wire Wire Line
 	700  900  700  6350
 Wire Wire Line
-	800  6250 1950 6250
-Wire Wire Line
 	800  1000 800  6250
-Wire Wire Line
-	900  6150 1950 6150
 Wire Wire Line
 	900  1100 900  6150
 Wire Wire Line
 	2100 1100 900  1100
-Wire Wire Line
-	1000 5850 1950 5850
-Wire Wire Line
-	1100 5750 1950 5750
-Wire Wire Line
-	1200 5650 1950 5650
 Connection ~ 1650 1650
 Wire Wire Line
 	1000 1650 1000 5850
@@ -1680,66 +1652,6 @@ Wire Wire Line
 	1100 1750 2100 1750
 Wire Wire Line
 	1850 1900 1850 1750
-Wire Wire Line
-	5100 6750 3900 6750
-Wire Wire Line
-	5100 2650 5100 6750
-Wire Wire Line
-	3800 2650 5100 2650
-Wire Wire Line
-	4800 6650 3900 6650
-Wire Wire Line
-	5000 2750 5000 6550
-Wire Wire Line
-	3800 2750 5000 2750
-Wire Wire Line
-	4900 6450 3900 6450
-Wire Wire Line
-	4900 2850 4900 6450
-Wire Wire Line
-	3800 2850 4900 2850
-Wire Wire Line
-	4600 6350 3900 6350
-Wire Wire Line
-	4800 2950 4800 6250
-Wire Wire Line
-	3800 2950 4800 2950
-Wire Wire Line
-	4500 6250 3900 6250
-Wire Wire Line
-	4700 3050 4700 6150
-Wire Wire Line
-	3800 3050 4700 3050
-Wire Wire Line
-	4200 6150 3900 6150
-Wire Wire Line
-	4600 3150 4600 6050
-Wire Wire Line
-	3800 3150 4600 3150
-Wire Wire Line
-	4500 5950 3900 5950
-Wire Wire Line
-	4500 3250 4500 5950
-Wire Wire Line
-	3800 3250 4500 3250
-Wire Wire Line
-	4200 5850 3900 5850
-Wire Wire Line
-	4400 3350 4400 5750
-Wire Wire Line
-	3800 3350 4400 3350
-Wire Wire Line
-	4100 5750 3900 5750
-Wire Wire Line
-	4300 3450 4300 5650
-Wire Wire Line
-	3800 3450 4300 3450
-Wire Wire Line
-	4000 5650 3900 5650
-Wire Wire Line
-	4000 3550 4000 5650
-Wire Wire Line
-	3800 3550 4000 3550
 Wire Wire Line
 	1950 5150 1750 5150
 Wire Wire Line
@@ -1878,26 +1790,6 @@ Connection ~ 2100 2850
 Connection ~ 2100 2750
 Connection ~ 2100 2650
 Connection ~ 2100 2550
-Wire Wire Line
-	4400 5750 4200 5750
-Wire Wire Line
-	4200 5750 4200 5850
-Wire Wire Line
-	4600 6050 4200 6050
-Wire Wire Line
-	4200 6050 4200 6150
-Wire Wire Line
-	4500 6150 4500 6250
-Wire Wire Line
-	4700 6150 4500 6150
-Wire Wire Line
-	4800 6250 4600 6250
-Wire Wire Line
-	4600 6250 4600 6350
-Wire Wire Line
-	5000 6550 4800 6550
-Wire Wire Line
-	4800 6550 4800 6650
 Connection ~ 7950 2500
 Connection ~ 7350 2200
 Connection ~ 7200 2500
@@ -1959,34 +1851,114 @@ Connection ~ 12350 3350
 Wire Wire Line
 	12350 4700 12300 4700
 Connection ~ 11950 4700
-Connection ~ 4000 5500
-Connection ~ 4300 5500
-Connection ~ 4200 5850
-Connection ~ 4500 5850
-Connection ~ 4200 6150
-Connection ~ 4500 6150
-Connection ~ 4600 6350
-Connection ~ 4900 6350
-Connection ~ 4800 6650
-Connection ~ 5100 6650
-Text Label 3900 2650 0    60   ~ 0
+Wire Wire Line
+	3800 2650 4200 2650
+Wire Wire Line
+	4100 2650 4100 2700
+Wire Wire Line
+	3800 2750 3800 2700
+Wire Wire Line
+	3800 2950 3800 2900
+Wire Wire Line
+	3800 3150 3800 3100
+Wire Wire Line
+	3800 3350 3800 3300
+Wire Wire Line
+	3800 3550 3800 3500
+Wire Wire Line
+	3800 3450 4200 3450
+Wire Wire Line
+	4100 3450 4100 3500
+Wire Wire Line
+	3800 3250 4200 3250
+Wire Wire Line
+	4100 3250 4100 3300
+Wire Wire Line
+	3800 3050 4200 3050
+Wire Wire Line
+	4100 3050 4100 3100
+Wire Wire Line
+	3800 2850 4200 2850
+Wire Wire Line
+	4100 2850 4100 2900
+Text GLabel 4200 2650 2    60   Input ~ 0
 SLVS0_P
-Text Label 3900 2750 0    60   ~ 0
+Text GLabel 4200 2750 2    60   Input ~ 0
 SLVS0_N
-Text Label 3900 2850 0    60   ~ 0
+Text GLabel 4200 2850 2    60   Input ~ 0
 SLVS1_P
-Text Label 3900 2950 0    60   ~ 0
+Text GLabel 4200 2950 2    60   Input ~ 0
 SLVS1_N
-Text Label 3900 3050 0    60   ~ 0
+Text GLabel 4200 3050 2    60   Input ~ 0
 SLVS2_P
-Text Label 3900 3150 0    60   ~ 0
+Text GLabel 4200 3150 2    60   Input ~ 0
 SLVS2_N
-Text Label 3900 3250 0    60   ~ 0
+Text GLabel 4200 3250 2    60   Input ~ 0
 SLVS3_P
-Text Label 3900 3350 0    60   ~ 0
+Text GLabel 4200 3350 2    60   Input ~ 0
 SLVS3_N
-Text Label 3900 3450 0    60   ~ 0
-SLVC_P
-Text Label 3900 3550 0    60   ~ 0
-SLVC_N
+Text GLabel 4200 3450 2    60   Input ~ 0
+SLVSC_P
+Text GLabel 4200 3550 2    60   Input ~ 0
+SLVSC_N
+Wire Wire Line
+	3800 2750 4200 2750
+Connection ~ 4100 2650
+Connection ~ 4100 2850
+Wire Wire Line
+	4200 2950 3800 2950
+Wire Wire Line
+	4200 3150 3800 3150
+Connection ~ 4100 3050
+Connection ~ 4100 3250
+Connection ~ 4100 3450
+Wire Wire Line
+	3800 3550 4200 3550
+Wire Wire Line
+	3800 3350 4200 3350
+Connection ~ 3800 2750
+Connection ~ 3800 2950
+Connection ~ 3800 3150
+Connection ~ 3800 3350
+Connection ~ 3800 3550
+Text GLabel 1950 7850 0    60   Input ~ 0
+SLVS0_P
+Text GLabel 1950 7750 0    60   Input ~ 0
+SLVS0_N
+Text GLabel 1950 7550 0    60   Input ~ 0
+SLVS1_P
+Text GLabel 1950 7450 0    60   Input ~ 0
+SLVS1_N
+Text GLabel 1950 6950 0    60   Input ~ 0
+SLVS2_P
+Text GLabel 1950 6850 0    60   Input ~ 0
+SLVS2_N
+Text GLabel 1950 6750 0    60   Input ~ 0
+SLVS3_P
+Text GLabel 1950 6650 0    60   Input ~ 0
+SLVS3_N
+Text GLabel 1950 7350 0    60   Input ~ 0
+SLVSC_P
+Text GLabel 1950 7250 0    60   Input ~ 0
+SLVSC_N
+Text GLabel 3800 650  2    60   Input ~ 0
+SHUTTER
+Text GLabel 3800 750  2    60   Input ~ 0
+FLASH
+Text GLabel 1950 7950 0    60   Input ~ 0
+SHUTTER
+Text GLabel 1950 8050 0    60   Input ~ 0
+FLASH
+Wire Wire Line
+	700  6350 1950 6350
+Wire Wire Line
+	800  6250 1950 6250
+Wire Wire Line
+	900  6150 1950 6150
+Wire Wire Line
+	1000 5850 1950 5850
+Wire Wire Line
+	1100 5750 1950 5750
+Wire Wire Line
+	1200 5650 1950 5650
 $EndSCHEMATC
