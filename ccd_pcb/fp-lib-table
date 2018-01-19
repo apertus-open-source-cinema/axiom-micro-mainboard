@@ -2,4 +2,5 @@
   (lib (name pmod-conn_6x2)(type KiCad)(uri /home/nein/code/apertus/micro-hardware/ccd_pcb/parts/kicad-pmod/pmod-conn_6x2.pretty)(options "")(descr ""))
   (lib (name parts)(type KiCad)(uri /home/nein/code/apertus/micro-hardware/ccd_pcb/parts)(options "")(descr ""))
   (lib (name pcie)(type KiCad)(uri /home/nein/code/apertus/micro-hardware/ccd_pcb/parts/pcie.pretty)(options "")(descr ""))
+  (lib (name mounting_hole)(type KiCad)(uri /home/nein/code/apertus/micro-hardware/ccd_pcb/parts/mounting_hole.pretty)(options "")(descr ""))
 )
