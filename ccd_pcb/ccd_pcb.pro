@@ -1,4 +1,4 @@
-update=Mon 16 Apr 2018 04:27:42 PM CEST
+update=Mo 16 Apr 2018 21:05:42 CEST
 version=1
 last_client=kicad
 [pcbnew]
@@ -69,3 +69,6 @@ LibName37=parts/pcie-36-axiom
 LibName38=parts/axiom-shield
 LibName39=parts/kicad-pmod/pmod
 LibName40=parts/voltage-translators
+LibName41=parts/ws2812
+LibName42=parts/NQBit.pretty/nqbit
+LibName43=parts/mcp1727
