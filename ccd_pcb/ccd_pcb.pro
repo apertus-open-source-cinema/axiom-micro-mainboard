@@ -1,4 +1,4 @@
-update=Mo 16 Apr 2018 21:05:42 CEST
+update=Di 17 Apr 2018 15:35:48 CEST
 version=1
 last_client=kicad
 [pcbnew]
@@ -72,3 +72,4 @@ LibName40=parts/voltage-translators
 LibName41=parts/ws2812
 LibName42=parts/NQBit.pretty/nqbit
 LibName43=parts/mcp1727
+LibName44=parts/74lvc1t45gw
