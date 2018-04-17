@@ -1,4 +1,4 @@
-update=Di 17 Apr 2018 15:35:48 CEST
+update=Di 17 Apr 2018 20:16:38 CEST
 version=1
 last_client=kicad
 [pcbnew]
@@ -73,3 +73,4 @@ LibName41=parts/ws2812
 LibName42=parts/NQBit.pretty/nqbit
 LibName43=parts/mcp1727
 LibName44=parts/74lvc1t45gw
+LibName45=parts/en12
