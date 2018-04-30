@@ -1,9 +1,9 @@
 [submodule "ccd_pcb/parts/kicad-lib"]
-	path = ccd_pcb/parts/kicad-lib
+	path = pcb/parts/kicad-lib
 	url = https://github.com/rroohhh/kicad-lib
 [submodule "ccd_pcb/parts/kicad-pmod"]
-	path = ccd_pcb/parts/kicad-pmod
+	path = pcb/parts/kicad-pmod
 	url = https://github.com/anuejn/kicad-pmod
 [submodule "ccd_pcb/parts/NQBit.pretty"]
-	path = ccd_pcb/parts/NQBit.pretty
+	path = pcb/parts/NQBit.pretty
 	url = https://github.com/nqbit/nqbit.pretty
