@@ -440,17 +440,17 @@ Text GLabel 1350 1150 0    60   Input ~ 0
 LVDSs5_N
 Text GLabel 1350 1250 0    60   Input ~ 0
 LVDSs5_P
-Text GLabel 1350 850  0    60   Input ~ 0
-LVDSs4_N
 Text GLabel 1350 950  0    60   Input ~ 0
+LVDSs4_N
+Text GLabel 1350 850  0    60   Input ~ 0
 LVDSs4_P
 Text GLabel 3300 1450 2    60   Input ~ 0
 LVDSs3_N
 Text GLabel 3300 1350 2    60   Input ~ 0
 LVDSs3_P
-Text GLabel 3300 1150 2    60   Input ~ 0
-LVDSs2_N
 Text GLabel 3300 1250 2    60   Input ~ 0
+LVDSs2_N
+Text GLabel 3300 1150 2    60   Input ~ 0
 LVDSs2_P
 Text GLabel 3300 950  2    60   Input ~ 0
 LVDSs1_N
@@ -3049,10 +3049,10 @@ Connection ~ 3300 6550
 Wire Wire Line
 	3300 6550 3300 6650
 $Comp
-L power1:+5V #PWR?
+L power1:+5V #PWR0126
 U 1 1 5B59DD88
 P 7200 3200
-F 0 "#PWR?" H 7200 3050 50  0001 C CNN
+F 0 "#PWR0126" H 7200 3050 50  0001 C CNN
 F 1 "+5V" V 7215 3328 50  0000 L CNN
 F 2 "" H 7200 3200 50  0001 C CNN
 F 3 "" H 7200 3200 50  0001 C CNN
