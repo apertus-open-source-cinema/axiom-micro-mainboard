@@ -510,7 +510,7 @@ U 1 1 5A4D18A6
 P 5350 2450
 F 0 "J4" H 5350 2400 50  0000 C CNN
 F 1 "PMODx2 North" V 5650 2150 50  0001 C CNN
-F 2 "pmod-conn_6x2:pmod_pin_array_6x2" H 5400 2750 60  0001 C CNN
+F 2 "parts:pmod_pin_array_6x2" H 5400 2750 60  0001 C CNN
 F 3 "" H 5400 2750 60  0000 C CNN
 	1    5350 2450
 	1    0    0    -1  
@@ -841,7 +841,7 @@ U 1 1 5ADC4799
 P 6500 2450
 F 0 "J5" H 6500 2400 50  0000 C CNN
 F 1 "PMODx2 North" V 6800 2150 50  0001 C CNN
-F 2 "pmod-conn_6x2:pmod_pin_array_6x2" H 6550 2750 60  0001 C CNN
+F 2 "parts:pmod_pin_array_6x2" H 6550 2750 60  0001 C CNN
 F 3 "" H 6550 2750 60  0000 C CNN
 	1    6500 2450
 	1    0    0    -1  
@@ -1350,9 +1350,9 @@ Text GLabel 1350 4050 0    60   Input ~ 0
 ENC_B
 Text Notes 6100 5100 0    60   ~ 0
 Incremental Encoder
-Text GLabel 8650 5700 0    60   Input ~ 0
+Text GLabel 8650 5650 0    60   Input ~ 0
 S_DATA
-Text GLabel 8650 5550 0    60   Input ~ 0
+Text GLabel 8650 5400 0    60   Input ~ 0
 S_CLK
 Text GLabel 8650 5850 0    60   Input ~ 0
 WS2812
@@ -1368,21 +1368,21 @@ F 3 "" H 8050 5800 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L device1:TEST TP2
+L device1:TEST SCL1
 U 1 1 5AF20D16
-P 8650 5550
-F 0 "TP2" H 8650 5850 50  0000 C BNN
-F 1 "TEST" H 8650 5800 50  0000 C CNN
-F 2 "Connectors_TestPoints:Test_Point_Pad_2.0x2.0mm" H 8650 5550 50  0001 C CNN
-F 3 "" H 8650 5550 50  0001 C CNN
-	1    8650 5550
+P 8650 5400
+F 0 "SCL1" H 8650 5700 50  0000 C BNN
+F 1 "TEST" H 8650 5650 50  0000 C CNN
+F 2 "Connectors_TestPoints:Test_Point_Pad_2.0x2.0mm" H 8650 5400 50  0001 C CNN
+F 3 "" H 8650 5400 50  0001 C CNN
+	1    8650 5400
 	0    1    1    0   
 $EndComp
 $Comp
-L device1:TEST TP1
+L device1:TEST GND1
 U 1 1 5AF20D84
 P 8050 5800
-F 0 "TP1" H 8050 6100 50  0000 C BNN
+F 0 "GND1" H 8050 6100 50  0000 C BNN
 F 1 "TEST" H 8050 6050 50  0000 C CNN
 F 2 "Connectors_TestPoints:Test_Point_Pad_2.0x2.0mm" H 8050 5800 50  0001 C CNN
 F 3 "" H 8050 5800 50  0001 C CNN
@@ -1390,21 +1390,21 @@ F 3 "" H 8050 5800 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L device1:TEST TP3
+L device1:TEST SDA1
 U 1 1 5AF2131B
-P 8650 5700
-F 0 "TP3" H 8650 6000 50  0000 C BNN
-F 1 "TEST" H 8650 5950 50  0000 C CNN
-F 2 "Connectors_TestPoints:Test_Point_Pad_2.0x2.0mm" H 8650 5700 50  0001 C CNN
-F 3 "" H 8650 5700 50  0001 C CNN
-	1    8650 5700
+P 8650 5650
+F 0 "SDA1" H 8650 5950 50  0000 C BNN
+F 1 "TEST" H 8650 5900 50  0000 C CNN
+F 2 "Connectors_TestPoints:Test_Point_Pad_2.0x2.0mm" H 8650 5650 50  0001 C CNN
+F 3 "" H 8650 5650 50  0001 C CNN
+	1    8650 5650
 	0    1    1    0   
 $EndComp
 $Comp
-L device1:TEST TP4
+L device1:TEST LED1
 U 1 1 5AF213CD
 P 8650 5850
-F 0 "TP4" H 8650 6150 50  0000 C BNN
+F 0 "LED1" H 8650 6150 50  0000 C BNN
 F 1 "TEST" H 8650 6100 50  0000 C CNN
 F 2 "Connectors_TestPoints:Test_Point_Pad_2.0x2.0mm" H 8650 5850 50  0001 C CNN
 F 3 "" H 8650 5850 50  0001 C CNN
