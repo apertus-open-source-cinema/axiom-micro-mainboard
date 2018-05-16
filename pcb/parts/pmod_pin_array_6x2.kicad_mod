@@ -1,7 +1,7 @@
-(module parts:pmod_pin_array_6x2 locked (layer F.Cu) (tedit 5AFBF701)
+(module parts:pmod_pin_array_6x2 locked (layer F.Cu) (tedit 5AFC01F0)
   (descr "QMOD Pin Header 2 x 6 pins")
   (tags CONN)
-  (fp_text reference J4 (at 3.662 -0.881 -270) (layer F.SilkS)
+  (fp_text reference J5 (at 3.662 -1.516 -270) (layer F.SilkS)
     (effects (font (size 1.016 1.016) (thickness 0.254)))
   )
   (fp_text value "PMODx2 North" (at -3.5 0 -270) (layer Dwgs.User) hide
@@ -46,5 +46,10 @@
     (offset (xyz 0 5.079999923706055 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 180))
+  )
+  (model ${KIPRJMOD}/parts/3d/Socket_Strip_Straight_2x06_Pitch2.54mm.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 90))
   )
 )
