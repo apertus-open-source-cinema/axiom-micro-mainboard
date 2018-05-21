@@ -3158,45 +3158,45 @@ F 3 "~" H 9300 5700 50  0001 C CNN
 	1    9300 5700
 	1    0    0    -1  
 $EndComp
-Text GLabel 9050 4200 0    60   BiDi ~ 0
+Text GLabel 9050 4600 0    60   BiDi ~ 0
 PMOD0_N
-Text GLabel 9050 4300 0    60   BiDi ~ 0
+Text GLabel 9050 4500 0    60   BiDi ~ 0
 PMOD1_N
 Text GLabel 9050 4400 0    60   BiDi ~ 0
 PMOD2_N
-Text GLabel 9050 4500 0    60   BiDi ~ 0
-PMOD3_N
-Text GLabel 9050 4600 0    60   BiDi ~ 0
-PMOD4_N
-Text GLabel 9550 4200 2    60   BiDi ~ 0
-PMOD5_N
-Text GLabel 9550 4300 2    60   BiDi ~ 0
-PMOD6_N
-Text GLabel 9550 4400 2    60   BiDi ~ 0
-PMOD7_N
-Text GLabel 9550 4500 2    60   BiDi ~ 0
-PMOD0_S
-Text GLabel 9550 4600 2    60   BiDi ~ 0
-PMOD1_S
-Text GLabel 9100 5800 0    60   BiDi ~ 0
-PMOD2_S
-Text GLabel 9100 5900 0    60   BiDi ~ 0
-PMOD3_S
-Text GLabel 9600 5800 2    60   BiDi ~ 0
-PMOD4_S
 Text GLabel 9600 5900 2    60   BiDi ~ 0
-PMOD5_S
-Text GLabel 9600 5600 2    60   BiDi ~ 0
-PMOD6_S
-Text GLabel 9600 5700 2    60   BiDi ~ 0
-PMOD7_S
+PMOD3_N
+Text GLabel 9550 4600 2    60   BiDi ~ 0
+PMOD4_N
+Text GLabel 9550 4500 2    60   BiDi ~ 0
+PMOD5_N
+Text GLabel 9550 4400 2    60   BiDi ~ 0
+PMOD6_N
+Text GLabel 9100 5900 0    60   BiDi ~ 0
+PMOD7_N
 Text GLabel 9100 5500 0    60   BiDi ~ 0
-PMOD0_E
+PMOD0_S
 Text GLabel 9100 5600 0    60   BiDi ~ 0
-PMOD1_E
+PMOD1_S
 Text GLabel 9100 5700 0    60   BiDi ~ 0
-PMOD2_E
+PMOD2_S
+Text GLabel 9100 5800 0    60   BiDi ~ 0
+PMOD3_S
 Text GLabel 9600 5500 2    60   BiDi ~ 0
+PMOD4_S
+Text GLabel 9600 5600 2    60   BiDi ~ 0
+PMOD5_S
+Text GLabel 9600 5700 2    60   BiDi ~ 0
+PMOD6_S
+Text GLabel 9600 5800 2    60   BiDi ~ 0
+PMOD7_S
+Text GLabel 9050 4200 0    60   BiDi ~ 0
+PMOD0_E
+Text GLabel 9550 4200 2    60   BiDi ~ 0
+PMOD1_E
+Text GLabel 9050 4300 0    60   BiDi ~ 0
+PMOD2_E
+Text GLabel 9550 4300 2    60   BiDi ~ 0
 PMOD3_E
 $Comp
 L power1:GNDD #PWR0128
