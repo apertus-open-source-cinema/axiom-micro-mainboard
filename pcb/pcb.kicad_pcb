@@ -13456,15 +13456,4 @@
       )
     )
   )
-  (zone (net 1) (net_name GNDA) (layer B.Cu) (tstamp 5B02DD0B) (hatch edge 0.508)
-    (priority 2)
-    (connect_pads no (clearance 0.05))
-    (min_thickness 0.4)
-    (fill yes (arc_segments 16) (thermal_gap 0.508) (thermal_bridge_width 0.1))
-    (polygon
-      (pts
-        (xy -92.009274 -5.98) (xy -73.657774 -5.98) (xy -73.657774 10.657) (xy -92.009274 10.657)
-      )
-    )
-  )
 )
