@@ -3268,4 +3268,6 @@ NoConn ~ 9550 4700
 NoConn ~ 9550 4800
 NoConn ~ 9050 4700
 NoConn ~ 9050 4800
+Text Notes 8350 10250 0    50   ~ 0
+Todo:\n- zynq has clock capable and not clock capable pins, we should respect that\n- jumpers for i2c on backside or completely leave them out\n- routing fpga for full shield?\n
 $EndSCHEMATC
