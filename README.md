@@ -1,8 +1,6 @@
 # AXIOM micro
 A cheap open source camera.
 
-![a preview of the cad model](assets/pcbstack_preview.png)
-
 While deveolping code for the AXIOM Beta, we wanted to have a cheap, working development
 platform.   
 This lead to the creation of the AXIOM Micro, which
@@ -33,7 +31,7 @@ should be a custom development, that doesnt have to be upstreamed.
 
 ### General
 * AXIOM Beta compatible plugin module and shield slots
-* ~ 150€ BOM cost  (see [bom.csv](bom.csv))
+* ~ 150€ BOM cost  (see [octopart](https://octopart.com/bom-tool/HYQ6fs35))
 
 ## Developing
 To develop the PCBs, simply clone this repository with 
