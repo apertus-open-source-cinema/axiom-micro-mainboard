@@ -1,0 +1,68 @@
+{
+    "manufacturer": "Lattice",
+    "name": "LFE5UM5G-25F-8BG381C Bank 50",
+    "pins": {
+        "231651c9-d067-43bf-8533-269b0c9460b0": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "HDRXN0_D0CH0",
+            "swap_group": 0
+        },
+        "3af4daad-260b-4617-8ada-89e65d6f7fcd": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "HDTXN0_D0CH1",
+            "swap_group": 0
+        },
+        "440f6453-599e-44a0-9251-b06f003d03a6": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "REFCLKP_D0",
+            "swap_group": 0
+        },
+        "728a35fa-7c4e-44fb-a830-ec983de187c8": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "HDRXP0_D0CH0",
+            "swap_group": 0
+        },
+        "794fe921-4c2a-40a3-8aba-fdc9ab7f6fb5": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "HDRXN0_D0CH1",
+            "swap_group": 0
+        },
+        "7e74d8a1-53ac-45c1-9dd4-733f2c7c0290": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "REFCLKN_D0",
+            "swap_group": 0
+        },
+        "b45f765a-801e-4c7b-8ffb-6fcfdbff5ac7": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "HDRXP0_D0CH1",
+            "swap_group": 0
+        },
+        "b76ff6b6-a6da-45f8-bb6c-44302e2c7efb": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "HDTXP0_D0CH1",
+            "swap_group": 0
+        },
+        "b8525903-c63e-4277-a420-cadfd44df0f5": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "HDTXN0_D0CH0",
+            "swap_group": 0
+        },
+        "d43141b1-b61c-486c-bcc3-7e6adccfb8fc": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "HDTXP0_D0CH0",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "89a8d83e-ea98-48c9-8561-1eda0f340c2d"
+}

@@ -1,0 +1,38 @@
+{
+    "manufacturer": "MYIR",
+    "name": "Z-turn Lite Power",
+    "pins": {
+        "4590c6ed-9f7e-496c-80fd-62b457d8f2c7": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "VDDIO_34_PL",
+            "swap_group": 0
+        },
+        "48b98ab2-e2c3-4106-9674-77cf06a85f8f": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "DGND",
+            "swap_group": 0
+        },
+        "79ffafbd-3865-4f23-87c6-25a7ce647519": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VBAT_KEY_BACK_1.8V",
+            "swap_group": 0
+        },
+        "bbfc9b4a-79b9-42a9-9f37-9525dd7a9522": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDD_5V",
+            "swap_group": 0
+        },
+        "c20785e3-a78c-46e6-8a2d-491614ff9bff": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "VDDIO_35_PL",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "ab95d4fd-b04f-4b5b-9a35-5a0cc99cd9b0"
+}

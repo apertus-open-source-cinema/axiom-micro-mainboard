@@ -1,0 +1,202 @@
+{
+    "arcs": {},
+    "can_expand": false,
+    "junctions": {
+        "11affee8-f619-4203-bbb4-961b234762ed": {
+            "position": [
+                13750000,
+                -11250000
+            ]
+        },
+        "38f5e6a3-8e08-4413-acf2-a1a0323649a1": {
+            "position": [
+                -13750000,
+                -11250000
+            ]
+        },
+        "9bfb8bb1-aaea-4a38-90d8-8e2f478c6374": {
+            "position": [
+                -13750000,
+                11250000
+            ]
+        },
+        "b5bbbdd2-a002-4304-8f7c-73546a96548c": {
+            "position": [
+                13750000,
+                11250000
+            ]
+        }
+    },
+    "lines": {
+        "2a708310-252b-4f3f-b7f7-1a6aa3851dfd": {
+            "from": "11affee8-f619-4203-bbb4-961b234762ed",
+            "layer": 0,
+            "to": "38f5e6a3-8e08-4413-acf2-a1a0323649a1",
+            "width": 0
+        },
+        "6e54cea5-afc3-4a91-a0dd-0ff22ad418c7": {
+            "from": "9bfb8bb1-aaea-4a38-90d8-8e2f478c6374",
+            "layer": 0,
+            "to": "b5bbbdd2-a002-4304-8f7c-73546a96548c",
+            "width": 0
+        },
+        "70b07c5c-d5fc-44ed-abe6-681c5badc4f9": {
+            "from": "b5bbbdd2-a002-4304-8f7c-73546a96548c",
+            "layer": 0,
+            "to": "11affee8-f619-4203-bbb4-961b234762ed",
+            "width": 0
+        },
+        "856f9fd3-35c0-4ef6-bf68-f7216be6d301": {
+            "from": "38f5e6a3-8e08-4413-acf2-a1a0323649a1",
+            "layer": 0,
+            "to": "9bfb8bb1-aaea-4a38-90d8-8e2f478c6374",
+            "width": 0
+        }
+    },
+    "name": "Z-turn Lite Power",
+    "pins": {
+        "4590c6ed-9f7e-496c-80fd-62b457d8f2c7": {
+            "decoration": {
+                "clock": false,
+                "dot": false,
+                "driver": "default",
+                "schmitt": false
+            },
+            "length": 2500000,
+            "name_orientation": "in_line",
+            "name_visible": true,
+            "orientation": "right",
+            "pad_visible": true,
+            "position": [
+                16250000,
+                8750000
+            ]
+        },
+        "48b98ab2-e2c3-4106-9674-77cf06a85f8f": {
+            "decoration": {
+                "clock": false,
+                "dot": false,
+                "driver": "default",
+                "schmitt": false
+            },
+            "length": 2500000,
+            "name_orientation": "in_line",
+            "name_visible": true,
+            "orientation": "down",
+            "pad_visible": true,
+            "position": [
+                0,
+                -13750000
+            ]
+        },
+        "79ffafbd-3865-4f23-87c6-25a7ce647519": {
+            "decoration": {
+                "clock": false,
+                "dot": false,
+                "driver": "default",
+                "schmitt": false
+            },
+            "length": 2500000,
+            "name_orientation": "in_line",
+            "name_visible": true,
+            "orientation": "left",
+            "pad_visible": true,
+            "position": [
+                -16250000,
+                0
+            ]
+        },
+        "bbfc9b4a-79b9-42a9-9f37-9525dd7a9522": {
+            "decoration": {
+                "clock": false,
+                "dot": false,
+                "driver": "default",
+                "schmitt": false
+            },
+            "length": 2500000,
+            "name_orientation": "in_line",
+            "name_visible": true,
+            "orientation": "left",
+            "pad_visible": true,
+            "position": [
+                -16250000,
+                8750000
+            ]
+        },
+        "c20785e3-a78c-46e6-8a2d-491614ff9bff": {
+            "decoration": {
+                "clock": false,
+                "dot": false,
+                "driver": "default",
+                "schmitt": false
+            },
+            "length": 2500000,
+            "name_orientation": "in_line",
+            "name_visible": true,
+            "orientation": "right",
+            "pad_visible": true,
+            "position": [
+                16250000,
+                6250000
+            ]
+        }
+    },
+    "polygons": {},
+    "text_placements": {},
+    "texts": {
+        "582fb97c-bbd3-4e3f-a831-351f6f7bca6d": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 0,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": true,
+                "shift": [
+                    13750000,
+                    12500000
+                ]
+            },
+            "size": 1500000,
+            "text": "Power",
+            "width": 0
+        },
+        "ab39f546-244a-4fb2-b059-a8f17a9dd626": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 0,
+            "origin": "center",
+            "placement": {
+                "angle": 32768,
+                "mirror": true,
+                "shift": [
+                    -13750000,
+                    -12500000
+                ]
+            },
+            "size": 1500000,
+            "text": "$VALUE",
+            "width": 0
+        },
+        "bda61b72-d05c-4880-915d-44436946d61e": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 0,
+            "origin": "center",
+            "placement": {
+                "angle": 32768,
+                "mirror": true,
+                "shift": [
+                    -13750000,
+                    12500000
+                ]
+            },
+            "size": 1500000,
+            "text": "$REFDES",
+            "width": 0
+        }
+    },
+    "type": "symbol",
+    "unit": "ab95d4fd-b04f-4b5b-9a35-5a0cc99cd9b0",
+    "uuid": "9fbdbd8a-f351-4d5c-b867-35342cbdb4aa"
+}

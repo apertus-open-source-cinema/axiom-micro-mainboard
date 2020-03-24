@@ -1,0 +1,20 @@
+{
+    "manufacturer": "",
+    "name": "Axiom plugin module I2C",
+    "pins": {
+        "a9659c50-da1f-4f78-b77d-8388993938f6": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "SCL",
+            "swap_group": 0
+        },
+        "afba9133-1972-42af-8785-8b45f32a9b79": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "SDA",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "8a9fae4e-cea0-40d1-84c9-9469359a7c8c"
+}

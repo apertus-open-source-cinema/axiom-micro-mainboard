@@ -1,0 +1,36 @@
+{
+    "gates": {
+        "0e63d45c-016c-4391-8931-892a6b4cc853": {
+            "name": "Bank 34",
+            "suffix": "Bank 34",
+            "swap_group": 0,
+            "unit": "b96d88d1-083f-4c77-b535-0c0845414ea1"
+        },
+        "2e4b0ca5-73ce-41b0-83a0-e4f291443a53": {
+            "name": "Reset",
+            "suffix": "Reset",
+            "swap_group": 0,
+            "unit": "10646e86-cd41-4200-818c-b1c765ff7c56"
+        },
+        "61a2f40c-82df-4d1b-890f-94c97c80b897": {
+            "name": "Power",
+            "suffix": "Power",
+            "swap_group": 0,
+            "unit": "ab95d4fd-b04f-4b5b-9a35-5a0cc99cd9b0"
+        },
+        "746c5fa9-68d4-46ae-9080-6ae55c889aee": {
+            "name": "Bank 35",
+            "suffix": "Bank 35",
+            "swap_group": 0,
+            "unit": "6e4e20ab-2020-4a1f-adbc-6af66325c1a2"
+        }
+    },
+    "manufacturer": "MYIR",
+    "name": "MYS-7Z010-L-C-S",
+    "prefix": "A",
+    "tags": [
+        "fpga"
+    ],
+    "type": "entity",
+    "uuid": "8d5dcd79-5a82-40ff-b1fb-c879a49323cb"
+}

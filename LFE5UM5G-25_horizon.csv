@@ -1,0 +1,381 @@
+A4,PL2A,bidirectional,Bank 7,
+A5,PL2B,bidirectional,Bank 7,
+B5,PL2C,bidirectional,Bank 7,
+C5,PL2D,bidirectional,Bank 7,
+C4,PL5A,bidirectional,Bank 7,
+A3,PL5C,bidirectional,Bank 7,
+B4,PL5B,bidirectional,Bank 7,
+B3,PL5D,bidirectional,Bank 7,
+E4,PL8A,bidirectional,Bank 7,
+C3,PL8C,bidirectional,Bank 7,
+D5,PL8B,bidirectional,Bank 7,
+D3,PL8D,bidirectional,Bank 7,
+F4,PL11A,bidirectional,Bank 7,
+E5,PL11C,bidirectional,Bank 7,
+E3,PL11B,bidirectional,Bank 7,
+F5,PL11D,bidirectional,Bank 7,
+A2,PL14A,bidirectional,Bank 7,
+B2,PL14C,bidirectional,Bank 7,VREF1_7
+B1,PL14B,bidirectional,Bank 7,
+C2,PL14D,bidirectional,Bank 7,
+C1,PL17A,bidirectional,Bank 7,
+D2,PL17C,bidirectional,Bank 7,
+D1,PL17B,bidirectional,Bank 7,
+E1,PL17D,bidirectional,Bank 7,
+H4,PL20A,bidirectional,Bank 7,GR_PCLK7_1
+H5,PL20C,bidirectional,Bank 7,GR_PCLK7_0
+G5,PL20B,bidirectional,Bank 7,
+H3,PL20D,bidirectional,Bank 7,
+G3,PL23A,bidirectional,Bank 7,PCLKT7_1
+F2,PL23C,bidirectional,Bank 7,PCLKT7_0
+F3,PL23B,bidirectional,Bank 7,PCLKC7_1
+E2,PL23D,bidirectional,Bank 7,PCLKC7_0
+G2,PL26A,bidirectional,Bank 6,PCLKT6_1
+H2,PL26C,bidirectional,Bank 6,PCLKT6_0
+F1,PL26B,bidirectional,Bank 6,PCLKC6_1
+G1,PL26D,bidirectional,Bank 6,PCLKC6_0
+J4,PL29A,bidirectional,Bank 6,GR_PCLK6_0
+J3,PL29C,bidirectional,Bank 6,GR_PCLK6_1
+J5,PL29B,bidirectional,Bank 6,
+K3,PL29D,bidirectional,Bank 6,
+K2,PL32A,bidirectional,Bank 6,
+H1,PL32C,bidirectional,Bank 6,
+J1,PL32B,bidirectional,Bank 6,
+K1,PL32D,bidirectional,Bank 6,
+K4,PL35A,bidirectional,Bank 6,
+L4,PL35C,bidirectional,Bank 6,
+K5,PL35B,bidirectional,Bank 6,VREF1_6
+L5,PL35D,bidirectional,Bank 6,
+M4,PL38A,bidirectional,Bank 6,
+N4,PL38C,bidirectional,Bank 6,
+N5,PL38B,bidirectional,Bank 6,
+P5,PL38D,bidirectional,Bank 6,
+N3,PL41A,bidirectional,Bank 6,
+L3,PL41C,bidirectional,Bank 6,
+M3,PL41B,bidirectional,Bank 6,
+L2,PL41D,bidirectional,Bank 6,
+N2,PL44A,bidirectional,Bank 6,
+L1,PL44C,bidirectional,Bank 6,
+M1,PL44B,bidirectional,Bank 6,
+N1,PL44D,bidirectional,Bank 6,
+P1,PL47A,bidirectional,Bank 6,
+P2,PL47B,bidirectional,Bank 6,
+P3,PL47C,bidirectional,Bank 6,LLC_GPLL0T_IN
+P4,PL47D,bidirectional,Bank 6,LLC_GPLL0C_IN
+R1,PB4A,bidirectional,Bank 8,D7/IO7
+U1,PB6A,bidirectional,Bank 8,D5/MISO2/IO5
+T1,PB4B,bidirectional,Bank 8,D6/IO6
+V1,PB6B,bidirectional,Bank 8,D4/MOSI2/IO4
+W1,PB9A,bidirectional,Bank 8,D3/IO3
+V2,PB11A,bidirectional,Bank 8,D1/MISO/IO1
+Y2,PB9B,bidirectional,Bank 8,D2/IO2
+W2,PB11B,bidirectional,Bank 8,D0/MOSI/IO0
+T2,PB13A,bidirectional,Bank 8,SN/CSN
+R2,PB15A,bidirectional,Bank 8,HOLDN/DI/BUSY/CSSPIN/CEN
+U2,PB13B,bidirectional,Bank 8,CS1N
+R3,PB15B,bidirectional,Bank 8,DOUT/CSON
+T3,PB18A,bidirectional,Bank 8,WRITEN
+V3,INITN,bidirectional,Bank 8,
+U3,CCLK,bidirectional,Bank 8,MCLK/SCK
+W3,PROGRAMN,input,Bank 8,
+Y3,DONE,bidirectional,Bank 8,
+T4,CFG_1,input,Bank 8,
+R4,CFG_2,input,Bank 8,
+U4,CFG_0,input,Bank 8,
+V4,TDO,output,Bank 40,
+T5,TCK,input,Bank 40,
+R5,TDI,input,Bank 40,
+U5,TMS,input,Bank 40,
+W4,HDTXP0_D0CH0,output,Bank 50,
+T7,VCCHTX0_D0CH0,power_input,Power,
+W5,HDTXN0_D0CH0,output,Bank 50,
+Y5,HDRXP0_D0CH0,input,Bank 50,
+T8,VCCHRX0_D0CH0,power_input,Power,
+Y6,HDRXN0_D0CH0,input,Bank 50,
+Y7,HDRXP0_D0CH1,input,Bank 50,
+T9,VCCHRX1_D0CH1,power_input,Power,
+Y8,HDRXN0_D0CH1,input,Bank 50,
+W8,HDTXP0_D0CH1,output,Bank 50,
+T10,VCCHTX1_D0CH1,power_input,Power,
+W9,HDTXN0_D0CH1,output,Bank 50,
+W10,RESERVED,not_connected,Bank 8,
+W11,RESERVED,not_connected,Bank 8,
+Y11,REFCLKP_D0,input,Bank 50,
+Y12,REFCLKN_D0,input,Bank 50,
+T17,PR47D,bidirectional,Bank 3,LRC_GPLL0C_IN
+U16,PR47C,bidirectional,Bank 3,LRC_GPLL0T_IN
+U17,PR47B,bidirectional,Bank 3,
+U18,PR47A,bidirectional,Bank 3,
+T18,PR44D,bidirectional,Bank 3,
+R18,PR44B,bidirectional,Bank 3,
+U19,PR44C,bidirectional,Bank 3,
+T19,PR44A,bidirectional,Bank 3,
+U20,PR41D,bidirectional,Bank 3,
+R20,PR41B,bidirectional,Bank 3,
+T20,PR41C,bidirectional,Bank 3,
+P20,PR41A,bidirectional,Bank 3,
+P18,PR38D,bidirectional,Bank 3,
+N20,PR38B,bidirectional,Bank 3,
+P19,PR38C,bidirectional,Bank 3,
+N19,PR38A,bidirectional,Bank 3,
+R17,PR35D,bidirectional,Bank 3,
+P16,PR35B,bidirectional,Bank 3,VREF1_3
+R16,PR35C,bidirectional,Bank 3,
+N17,PR35A,bidirectional,Bank 3,
+P17,PR32D,bidirectional,Bank 3,
+M17,PR32B,bidirectional,Bank 3,
+N18,PR32C,bidirectional,Bank 3,
+N16,PR32A,bidirectional,Bank 3,
+M18,PR29D,bidirectional,Bank 3,
+L17,PR29B,bidirectional,Bank 3,
+L18,PR29C,bidirectional,Bank 3,GR_PCLK3_1
+L16,PR29A,bidirectional,Bank 3,GR_PCLK3_0
+M19,PR26D,bidirectional,Bank 3,PCLKC3_0
+M20,PR26B,bidirectional,Bank 3,PCLKC3_1
+L19,PR26C,bidirectional,Bank 3,PCLKT3_0
+L20,PR26A,bidirectional,Bank 3,PCLKT3_1
+K20,PR23D,bidirectional,Bank 2,PCLKC2_0
+K19,PR23B,bidirectional,Bank 2,PCLKC2_1
+J20,PR23C,bidirectional,Bank 2,PCLKT2_0
+J19,PR23A,bidirectional,Bank 2,PCLKT2_1
+K18,PR20D,bidirectional,Bank 2,
+H20,PR20B,bidirectional,Bank 2,
+J18,PR20C,bidirectional,Bank 2,GR_PCLK2_0
+G19,PR20A,bidirectional,Bank 2,GR_PCLK2_1
+G20,PR17D,bidirectional,Bank 2,
+F19,PR17B,bidirectional,Bank 2,
+F20,PR17C,bidirectional,Bank 2,
+E20,PR17A,bidirectional,Bank 2,
+E19,PR14D,bidirectional,Bank 2,
+D19,PR14B,bidirectional,Bank 2,
+D20,PR14C,bidirectional,Bank 2,VREF1_2
+C20,PR14A,bidirectional,Bank 2,
+J16,PR11D,bidirectional,Bank 2,
+H17,PR11B,bidirectional,Bank 2,
+J17,PR11C,bidirectional,Bank 2,
+H18,PR11A,bidirectional,Bank 2,
+H16,PR8D,bidirectional,Bank 2,
+G18,PR8B,bidirectional,Bank 2,
+G16,PR8C,bidirectional,Bank 2,
+F17,PR8A,bidirectional,Bank 2,
+F18,PR5D,bidirectional,Bank 2,
+E17,PR5B,bidirectional,Bank 2,
+E18,PR5C,bidirectional,Bank 2,
+D18,PR5A,bidirectional,Bank 2,
+F16,PR2D,bidirectional,Bank 2,
+E16,PR2C,bidirectional,Bank 2,
+D17,PR2B,bidirectional,Bank 2,S0_IN
+C18,PR2A,bidirectional,Bank 2,
+B20,PT67B,bidirectional,Bank 1,
+B19,PT65B,bidirectional,Bank 1,
+A19,PT67A,bidirectional,Bank 1,
+A18,PT65A,bidirectional,Bank 1,
+B18,PT62B,bidirectional,Bank 1,
+C17,PT60B,bidirectional,Bank 1,
+A17,PT62A,bidirectional,Bank 1,
+B17,PT60A,bidirectional,Bank 1,
+D16,PT58B,bidirectional,Bank 1,
+B16,PT56B,bidirectional,Bank 1,
+C16,PT58A,bidirectional,Bank 1,
+A16,PT56A,bidirectional,Bank 1,
+E15,PT53B,bidirectional,Bank 1,
+C15,PT51B,bidirectional,Bank 1,
+D15,PT53A,bidirectional,Bank 1,
+B15,PT51A,bidirectional,Bank 1,
+E14,PT49B,bidirectional,Bank 1,
+C14,PT47B,bidirectional,Bank 1,
+D14,PT49A,bidirectional,Bank 1,
+A14,PT47A,bidirectional,Bank 1,
+E13,PT44B,bidirectional,Bank 1,
+C13,PT42B,bidirectional,Bank 1,
+D13,PT44A,bidirectional,Bank 1,
+B13,PT42A,bidirectional,Bank 1,
+A13,PT40B,bidirectional,Bank 1,
+E12,PT38B,bidirectional,Bank 1,GR_PCLK1_1
+A12,PT40A,bidirectional,Bank 1,
+D12,PT38A,bidirectional,Bank 1,GR_PCLK1_0
+C12,PT35B,bidirectional,Bank 1,PCLKC1_0
+E11,PT33B,bidirectional,Bank 1,PCLKC1_1
+B12,PT35A,bidirectional,Bank 1,PCLKT1_0
+D11,PT33A,bidirectional,Bank 1,PCLKT1_1
+C11,PT29B,bidirectional,Bank 0,PCLKC0_0
+A11,PT27B,bidirectional,Bank 0,PCLKC0_1
+B11,PT29A,bidirectional,Bank 0,PCLKT0_0
+A10,PT27A,bidirectional,Bank 0,PCLKT0_1
+B10,PT24B,bidirectional,Bank 0,GR_PCLK0_0
+C10,PT22B,bidirectional,Bank 0,
+A9,PT24A,bidirectional,Bank 0,GR_PCLK0_1
+B9,PT22A,bidirectional,Bank 0,
+E9,PT20B,bidirectional,Bank 0,
+A8,PT18B,bidirectional,Bank 0,
+D9,PT20A,bidirectional,Bank 0,
+A7,PT18A,bidirectional,Bank 0,
+B8,PT15B,bidirectional,Bank 0,
+D8,PT13B,bidirectional,Bank 0,
+C8,PT15A,bidirectional,Bank 0,
+E8,PT13A,bidirectional,Bank 0,
+C7,PT11B,bidirectional,Bank 0,
+D7,PT9B,bidirectional,Bank 0,
+C6,PT11A,bidirectional,Bank 0,
+E7,PT9A,bidirectional,Bank 0,
+D6,PT6B,bidirectional,Bank 0,
+B6,PT4B,bidirectional,Bank 0,
+E6,PT6A,bidirectional,Bank 0,
+A6,PT4A,bidirectional,Bank 0,
+C19,GND,power_input,Power,
+H19,GND,power_input,Power,
+R19,GND,power_input,Power,
+G17,GND,power_input,Power,
+M16,GND,power_input,Power,
+G15,GND,power_input,Power,
+K15,GND,power_input,Power,
+N15,GND,power_input,Power,
+B14,GND,power_input,Power,
+F14,GND,power_input,Power,
+G14,GND,power_input,Power,
+J14,GND,power_input,Power,
+K14,GND,power_input,Power,
+M14,GND,power_input,Power,
+N14,GND,power_input,Power,
+P14,GND,power_input,Power,
+F13,GND,power_input,Power,
+G13,GND,power_input,Power,
+P13,GND,power_input,Power,
+G12,GND,power_input,Power,
+J12,GND,power_input,Power,
+K12,GND,power_input,Power,
+L12,GND,power_input,Power,
+M12,GND,power_input,Power,
+P12,GND,power_input,Power,
+G11,GND,power_input,Power,
+J11,GND,power_input,Power,
+K11,GND,power_input,Power,
+L11,GND,power_input,Power,
+M11,GND,power_input,Power,
+P11,GND,power_input,Power,
+G10,GND,power_input,Power,
+J10,GND,power_input,Power,
+K10,GND,power_input,Power,
+L10,GND,power_input,Power,
+M10,GND,power_input,Power,
+G9,GND,power_input,Power,
+J9,GND,power_input,Power,
+K9,GND,power_input,Power,
+L9,GND,power_input,Power,
+M9,GND,power_input,Power,
+F8,GND,power_input,Power,
+G8,GND,power_input,Power,
+P8,GND,power_input,Power,
+B7,GND,power_input,Power,
+F7,GND,power_input,Power,
+G7,GND,power_input,Power,
+J7,GND,power_input,Power,
+K7,GND,power_input,Power,
+M7,GND,power_input,Power,
+N7,GND,power_input,Power,
+P7,GND,power_input,Power,
+G6,GND,power_input,Power,
+K6,GND,power_input,Power,
+N6,GND,power_input,Power,
+D4,GND,power_input,Power,
+G4,GND,power_input,Power,
+J2,GND,power_input,Power,
+M2,GND,power_input,Power,
+H13,VCC,power_input,Power,
+J13,VCC,power_input,Power,
+K13,VCC,power_input,Power,
+L13,VCC,power_input,Power,
+M13,VCC,power_input,Power,
+N13,VCC,power_input,Power,
+H12,VCC,power_input,Power,
+N12,VCC,power_input,Power,
+H11,VCC,power_input,Power,
+N11,VCC,power_input,Power,
+H10,VCC,power_input,Power,
+N10,VCC,power_input,Power,
+H9,VCC,power_input,Power,
+N9,VCC,power_input,Power,
+H8,VCC,power_input,Power,
+J8,VCC,power_input,Power,
+K8,VCC,power_input,Power,
+L8,VCC,power_input,Power,
+M8,VCC,power_input,Power,
+N8,VCC,power_input,Power,
+F15,VCCAUX,power_input,Power,
+P15,VCCAUX,power_input,Power,
+F6,VCCAUX,power_input,Power,
+P6,VCCAUX,power_input,Power,
+F10,VCCIO0,power_input,Power,
+F9,VCCIO0,power_input,Power,
+F12,VCCIO1,power_input,Power,
+F11,VCCIO1,power_input,Power,
+H15,VCCIO2,power_input,Power,
+J15,VCCIO2,power_input,Power,
+H14,VCCIO2,power_input,Power,
+L15,VCCIO3,power_input,Power,
+M15,VCCIO3,power_input,Power,
+L14,VCCIO3,power_input,Power,
+V7,GND,power_input,Power,GND
+V8,GND,power_input,Power,GND
+V9,GND,power_input,Power,GND
+U7,GND,power_input,Power,GND
+U8,GND,power_input,Power,GND
+U9,GND,power_input,Power,GND
+U10,GND,power_input,Power,GND
+V20,GND,power_input,Power,GND
+V5,GND,power_input,Power,GND
+W6,GND,power_input,Power,GND
+V6,GND,power_input,Power,GND
+W7,GND,power_input,Power,GND
+V15,GND,power_input,Power,GND
+W16,GND,power_input,Power,GND
+V16,GND,power_input,Power,GND
+W19,GND,power_input,Power,GND
+V19,GND,power_input,Power,GND
+V14,GND,power_input,Power,GND
+U14,GND,power_input,Power,GND
+W15,GND,power_input,Power,GND
+U13,GND,power_input,Power,GND
+V13,GND,power_input,Power,GND
+U12,GND,power_input,Power,GND
+V12,GND,power_input,Power,GND
+W12,GND,power_input,Power,GND
+U11,GND,power_input,Power,GND
+U6,VCCA0,power_input,Power,
+T6,VCCA0,power_input,Power,
+V10,VCCAUXA0,power_input,Power,
+V11,VCCAUXA0,power_input,Power,
+P10,VCCIO8,power_input,Power,
+P9,VCCIO8,power_input,Power,
+L7,VCCIO6,power_input,Power,
+L6,VCCIO6,power_input,Power,
+M6,VCCIO6,power_input,Power,
+H7,VCCIO7,power_input,Power,
+H6,VCCIO7,power_input,Power,
+J6,VCCIO7,power_input,Power,
+W20,NC,not_connected,Bank 8,
+Y19,NC,not_connected,Bank 8,
+V18,NC,not_connected,Bank 8,
+W18,NC,not_connected,Bank 8,
+K17,NC,not_connected,Bank 8,
+V17,NC,not_connected,Bank 8,
+W17,NC,not_connected,Bank 8,
+Y17,NC,not_connected,Bank 8,
+K16,NC,not_connected,Bank 8,
+T16,NC,not_connected,Bank 8,
+Y16,NC,not_connected,Bank 8,
+A15,NC,not_connected,Bank 8,
+T15,NC,not_connected,Bank 8,
+U15,NC,not_connected,Bank 8,
+Y15,NC,not_connected,Bank 8,
+T14,NC,not_connected,Bank 8,
+W14,NC,not_connected,Bank 8,
+Y14,NC,not_connected,Bank 8,
+T13,NC,not_connected,Bank 8,
+W13,NC,not_connected,Bank 8,
+T12,NC,not_connected,Bank 8,
+T11,NC,not_connected,Bank 8,
+D10,NC,not_connected,Bank 8,
+E10,NC,not_connected,Bank 8,
+C9,NC,not_connected,Bank 8,
+M5,NC,not_connected,Bank 8,

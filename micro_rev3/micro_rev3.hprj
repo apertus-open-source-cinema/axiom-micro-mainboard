@@ -1,0 +1,17 @@
+{
+    "blocks": [
+        {
+            "block_filename": "top_block.json",
+            "is_top": true,
+            "schematic_filename": "top_sch.json"
+        }
+    ],
+    "board_filename": "board.json",
+    "name": "micro_rev3",
+    "pool_cache_directory": "cache",
+    "pool_uuid": "6d752bc3-29b3-45df-8cf2-1e3aacefbcc6",
+    "title": "axiom micro r3.0",
+    "type": "project",
+    "uuid": "b757c3bb-d413-42f5-a330-badc1c413b01",
+    "vias_directory": "vias"
+}

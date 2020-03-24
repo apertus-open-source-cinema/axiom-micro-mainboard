@@ -1,0 +1,16 @@
+{
+    "gates": {
+        "ccd0457e-6618-4ff4-b57c-d7f8f44108f9": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "6084b1c2-d360-448d-9c9a-9c655419aeee"
+        }
+    },
+    "manufacturer": "Micron",
+    "name": "MT41K64M16TW-107_J-TR",
+    "prefix": "U",
+    "tags": [],
+    "type": "entity",
+    "uuid": "a538e860-aadf-43fd-80f4-c4a23548a6ae"
+}

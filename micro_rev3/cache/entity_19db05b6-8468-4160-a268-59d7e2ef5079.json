@@ -1,0 +1,36 @@
+{
+    "gates": {
+        "5786c13b-8ebf-47f3-9332-948af7488f29": {
+            "name": "I2C",
+            "suffix": "I2C",
+            "swap_group": 0,
+            "unit": "8a9fae4e-cea0-40d1-84c9-9469359a7c8c"
+        },
+        "d04061d0-624a-4d9d-8bab-efdaa126fe59": {
+            "name": "IO",
+            "suffix": "IO",
+            "swap_group": 0,
+            "unit": "19f109ab-41f6-4053-8d4c-bf793659d0bf"
+        },
+        "def2e336-158a-4f1f-a72c-8ef0d63c7278": {
+            "name": "LVDS",
+            "suffix": "LVDS",
+            "swap_group": 0,
+            "unit": "b8f13858-5b56-4514-8ebf-1fb0feeba567"
+        },
+        "e39f0b27-ce90-465b-81e9-f3593f6e96dd": {
+            "name": "Power",
+            "suffix": "POWER",
+            "swap_group": 0,
+            "unit": "624cbc70-c0c8-4da1-88c2-5e4299b9f63c"
+        }
+    },
+    "manufacturer": "",
+    "name": "Axiom plugin module",
+    "prefix": "A",
+    "tags": [
+        "axiom"
+    ],
+    "type": "entity",
+    "uuid": "19db05b6-8468-4160-a268-59d7e2ef5079"
+}

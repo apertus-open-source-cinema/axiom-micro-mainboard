@@ -1,0 +1,20 @@
+{
+    "manufacturer": "MYIR",
+    "name": "Z-turn Lite Reset",
+    "pins": {
+        "c393efee-29fc-485d-9b5c-6a9df156aef3": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "EXT_RST_IN",
+            "swap_group": 0
+        },
+        "db8c8aa0-3d45-45c0-968b-d4ae668a984b": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "PS_500_RESET_OUTn",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "10646e86-cd41-4200-818c-b1c765ff7c56"
+}

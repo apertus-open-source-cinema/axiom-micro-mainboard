@@ -1,0 +1,44 @@
+{
+    "manufacturer": "",
+    "name": "Axiom plugin module POWER",
+    "pins": {
+        "1954ea95-9722-4cdf-a25b-c8b8389866db": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "1ea7ac72-7145-4177-bb9b-d24e6abd22bf": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "5V",
+            "swap_group": 0
+        },
+        "56b7cd19-49ca-465e-8803-e1aeaefaa056": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCCIO",
+            "swap_group": 0
+        },
+        "8f935427-4752-4b14-aee4-54ec496a579c": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "V_I2C",
+            "swap_group": 0
+        },
+        "a074d265-8329-4655-b019-9f2125fd7d2f": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCC",
+            "swap_group": 0
+        },
+        "e479691d-6225-47a9-ad81-d1ee39c15e44": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "PWRGD",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "624cbc70-c0c8-4da1-88c2-5e4299b9f63c"
+}

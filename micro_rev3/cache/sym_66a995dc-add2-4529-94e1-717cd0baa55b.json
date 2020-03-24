@@ -1,0 +1,151 @@
+{
+    "arcs": {},
+    "can_expand": false,
+    "junctions": {
+        "150b92db-8f88-4f71-aeaf-afee28c0afd2": {
+            "position": [
+                -15000000,
+                3750000
+            ]
+        },
+        "5c291ba2-2c43-4fa1-a7d9-1e42c7e5c732": {
+            "position": [
+                15000000,
+                -3750000
+            ]
+        },
+        "635558fe-81f7-4ed3-9461-c20ef0f8f310": {
+            "position": [
+                -15000000,
+                -3750000
+            ]
+        },
+        "f4bafee8-5770-487d-a684-e24d0e2b63b6": {
+            "position": [
+                15000000,
+                3750000
+            ]
+        }
+    },
+    "lines": {
+        "0d1c9e48-98a9-4f9b-85ca-f81aefefaaba": {
+            "from": "150b92db-8f88-4f71-aeaf-afee28c0afd2",
+            "layer": 0,
+            "to": "f4bafee8-5770-487d-a684-e24d0e2b63b6",
+            "width": 0
+        },
+        "4f127b4d-6966-46ce-aa7f-1ddee02c51de": {
+            "from": "5c291ba2-2c43-4fa1-a7d9-1e42c7e5c732",
+            "layer": 0,
+            "to": "635558fe-81f7-4ed3-9461-c20ef0f8f310",
+            "width": 0
+        },
+        "5a114737-e122-4f89-917b-edc05bd9d21d": {
+            "from": "635558fe-81f7-4ed3-9461-c20ef0f8f310",
+            "layer": 0,
+            "to": "150b92db-8f88-4f71-aeaf-afee28c0afd2",
+            "width": 0
+        },
+        "cf1d1c2c-9fb6-42ca-abb9-a20e913e0829": {
+            "from": "f4bafee8-5770-487d-a684-e24d0e2b63b6",
+            "layer": 0,
+            "to": "5c291ba2-2c43-4fa1-a7d9-1e42c7e5c732",
+            "width": 0
+        }
+    },
+    "name": "Axiom plugin module I2C",
+    "pins": {
+        "a9659c50-da1f-4f78-b77d-8388993938f6": {
+            "decoration": {
+                "clock": false,
+                "dot": false,
+                "driver": "default",
+                "schmitt": false
+            },
+            "length": 2500000,
+            "name_orientation": "in_line",
+            "name_visible": true,
+            "orientation": "right",
+            "pad_visible": true,
+            "position": [
+                17500000,
+                -1250000
+            ]
+        },
+        "afba9133-1972-42af-8785-8b45f32a9b79": {
+            "decoration": {
+                "clock": false,
+                "dot": false,
+                "driver": "default",
+                "schmitt": false
+            },
+            "length": 2500000,
+            "name_orientation": "in_line",
+            "name_visible": true,
+            "orientation": "right",
+            "pad_visible": true,
+            "position": [
+                17500000,
+                1250000
+            ]
+        }
+    },
+    "polygons": {},
+    "text_placements": {},
+    "texts": {
+        "2ed33bee-26c4-40b0-9fb0-baa1a5e984b6": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 0,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -15000000,
+                    -5000000
+                ]
+            },
+            "size": 1500000,
+            "text": "$VALUE",
+            "width": 0
+        },
+        "a709ece2-b15e-4504-94a6-74347de7759e": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 0,
+            "origin": "center",
+            "placement": {
+                "angle": 32768,
+                "mirror": false,
+                "shift": [
+                    15000000,
+                    5000000
+                ]
+            },
+            "size": 1500000,
+            "text": "I2C",
+            "width": 0
+        },
+        "dd1a0d97-07dd-4000-bad8-717fffdbcd16": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 0,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -15000000,
+                    5000000
+                ]
+            },
+            "size": 1500000,
+            "text": "$REFDES",
+            "width": 0
+        }
+    },
+    "type": "symbol",
+    "unit": "8a9fae4e-cea0-40d1-84c9-9469359a7c8c",
+    "uuid": "66a995dc-add2-4529-94e1-717cd0baa55b"
+}

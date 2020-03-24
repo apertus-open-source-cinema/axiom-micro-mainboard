@@ -1,0 +1,80 @@
+{
+    "manufacturer": "",
+    "name": "Axiom plugin module LVDS",
+    "pins": {
+        "225fa3ee-0ab7-420f-9f0e-6797363cd10a": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "LVDS_3N",
+            "swap_group": 0
+        },
+        "26b0b90c-6b73-4973-96bb-717c07fadb04": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "LVDS_0N",
+            "swap_group": 0
+        },
+        "4967b212-1a9d-4e94-a733-31e0c9054d6d": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "LVDS_3P",
+            "swap_group": 0
+        },
+        "64a9ea59-1adc-4b98-b4de-23901e367861": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "LVDS_1P",
+            "swap_group": 0
+        },
+        "6ef61979-502a-461b-a198-d5cde4320a04": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "LVDS_4N",
+            "swap_group": 0
+        },
+        "72f1c08c-3487-408a-bada-72991c37ed27": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "LVDS_1N",
+            "swap_group": 0
+        },
+        "7e19629a-de93-4452-b896-5f5e5d2741c0": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "LVDS_5N",
+            "swap_group": 0
+        },
+        "8ca41fbe-26eb-4f1b-bf19-f341bfd60fec": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "LVDS_2N",
+            "swap_group": 0
+        },
+        "923147d5-9c60-4c64-90e8-7f0969c41813": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "LVDS_0P",
+            "swap_group": 0
+        },
+        "c5760aaf-22f9-49ed-b9ea-930ee63be94d": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "LVDS_5P",
+            "swap_group": 0
+        },
+        "cf763164-11ea-4f57-b032-9e4812b8e8bc": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "LVDS_2P",
+            "swap_group": 0
+        },
+        "d0321060-1114-4da2-ae28-7efd870005fe": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "LVDS_4P",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "b8f13858-5b56-4514-8ebf-1fb0feeba567"
+}
