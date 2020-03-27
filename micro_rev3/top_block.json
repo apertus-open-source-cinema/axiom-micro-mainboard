@@ -368,6 +368,24 @@
             "tag": "f7c685bc-32e7-445c-a6f5-c43f9cd37e1e",
             "value": ""
         },
+        "3e60018d-d604-4c9e-8ee7-1bdf4875d44e": {
+            "connections": {
+                "9bfcf213-2a7e-444e-8312-ce57209fc9ec/29995253-b4b1-4c7c-a049-b6db2713ca7c": {
+                    "net": "74541627-37b3-4a4e-b527-b53f0eb5833c"
+                },
+                "9bfcf213-2a7e-444e-8312-ce57209fc9ec/852f1fe6-06dc-4661-8a14-61a9a6ebb26a": {
+                    "net": "101d7cbc-0c24-4182-8733-0928a5cf97d9"
+                }
+            },
+            "custom_pin_names": {},
+            "entity": "ca83a84f-6183-4088-84b6-5d79b2a119d4",
+            "group": "00000000-0000-0000-0000-000000000000",
+            "part": "24eec3f0-adb0-4702-8ac9-13321082c45e",
+            "pin_names": {},
+            "refdes": "C?",
+            "tag": "b308c5f7-c3b0-4d60-9f77-137341382d94",
+            "value": ""
+        },
         "42469049-6db8-4bce-a4f0-fdfe988e7301": {
             "connections": {
                 "ccd0457e-6618-4ff4-b57c-d7f8f44108f9/003870ca-59cb-4d58-b4fb-8c8f0ab02aaf": {
@@ -519,6 +537,24 @@
             "pin_names": {},
             "refdes": "U?",
             "tag": "5d1c2b40-9119-40f3-9a2f-ba9afc8fd6d7",
+            "value": ""
+        },
+        "9a502996-7ccd-4a57-9753-eed4ac946b04": {
+            "connections": {
+                "9bfcf213-2a7e-444e-8312-ce57209fc9ec/29995253-b4b1-4c7c-a049-b6db2713ca7c": {
+                    "net": "a653d31c-cf5f-4133-8877-7e4ac1ecfb9d"
+                },
+                "9bfcf213-2a7e-444e-8312-ce57209fc9ec/852f1fe6-06dc-4661-8a14-61a9a6ebb26a": {
+                    "net": "84144824-316f-4f3b-994f-9c969135ccaf"
+                }
+            },
+            "custom_pin_names": {},
+            "entity": "ca83a84f-6183-4088-84b6-5d79b2a119d4",
+            "group": "00000000-0000-0000-0000-000000000000",
+            "part": "24eec3f0-adb0-4702-8ac9-13321082c45e",
+            "pin_names": {},
+            "refdes": "C?",
+            "tag": "04050d55-c4fa-4717-9a75-95c45fe872fc",
             "value": ""
         },
         "cabc3fe0-080a-4f8b-9d9c-a94187c35adf": {
@@ -800,10 +836,10 @@
                     "net": "91de294b-e222-4462-802b-98b762038702"
                 },
                 "56e11023-313f-4039-8cf4-857f1f4cf6d6/b8525903-c63e-4277-a420-cadfd44df0f5": {
-                    "net": "74541627-37b3-4a4e-b527-b53f0eb5833c"
+                    "net": "101d7cbc-0c24-4182-8733-0928a5cf97d9"
                 },
                 "56e11023-313f-4039-8cf4-857f1f4cf6d6/d43141b1-b61c-486c-bcc3-7e6adccfb8fc": {
-                    "net": "a653d31c-cf5f-4133-8877-7e4ac1ecfb9d"
+                    "net": "84144824-316f-4f3b-994f-9c969135ccaf"
                 },
                 "66043202-a771-46d2-b515-05f15c9e0475/00ebc6d5-3f50-46bd-96e8-9bc39405be78": {
                     "net": "4dbcd1ea-943f-4e51-b9aa-c5defaad6aea"
@@ -1431,6 +1467,13 @@
         "0ffbd735-bb83-4d12-bfd7-a60af2c40395": {
             "is_power": false,
             "name": "Z_LVDS_5N",
+            "net_class": "bfde78d3-fdc8-4a70-9a18-8c05d6df3c67",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "gnd"
+        },
+        "101d7cbc-0c24-4182-8733-0928a5cf97d9": {
+            "is_power": false,
+            "name": "",
             "net_class": "bfde78d3-fdc8-4a70-9a18-8c05d6df3c67",
             "power_symbol_name_visible": true,
             "power_symbol_style": "gnd"
@@ -2243,6 +2286,13 @@
         "83c9fdd3-dbbd-48aa-96d1-8a7337f150ed": {
             "is_power": false,
             "name": "SENSOR_GPIO_3N",
+            "net_class": "bfde78d3-fdc8-4a70-9a18-8c05d6df3c67",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "gnd"
+        },
+        "84144824-316f-4f3b-994f-9c969135ccaf": {
+            "is_power": false,
+            "name": "",
             "net_class": "bfde78d3-fdc8-4a70-9a18-8c05d6df3c67",
             "power_symbol_name_visible": true,
             "power_symbol_style": "gnd"
@@ -3076,8 +3126,10 @@
         "rev": "0"
     },
     "tag_names": {
+        "04050d55-c4fa-4717-9a75-95c45fe872fc": "6",
         "595c32d4-abb4-4271-8c1c-83b7adf649a9": "0",
         "5d1c2b40-9119-40f3-9a2f-ba9afc8fd6d7": "2",
+        "b308c5f7-c3b0-4d60-9f77-137341382d94": "7",
         "e7bfaec5-cd7c-4f97-a477-6b8d3cb69124": "5",
         "e9983fad-66ae-43ac-9213-66ee86c79064": "3",
         "f709692e-abe9-4599-a73d-ee0ea0df7c34": "1",
