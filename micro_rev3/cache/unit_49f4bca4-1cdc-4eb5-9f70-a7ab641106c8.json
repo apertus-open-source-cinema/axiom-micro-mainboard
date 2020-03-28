@@ -1,0 +1,68 @@
+{
+    "manufacturer": "Texas Instruments",
+    "name": "TPS51206DSQT",
+    "pins": {
+        "2ba88c45-b351-46ef-82e0-af349d6b0831": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VTTSNS",
+            "swap_group": 0
+        },
+        "54cc73f9-1f37-47e9-a18c-1a2017924d2f": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "S5",
+            "swap_group": 0
+        },
+        "8b2a0042-f0d2-44a9-a5f3-74143c83d9fa": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "VTT",
+            "swap_group": 0
+        },
+        "8b70815b-7389-4f2f-9cdf-cae1b5b46549": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDD",
+            "swap_group": 0
+        },
+        "9c117613-5e6b-4af1-88a1-4d72abe74d9a": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "9e91fd51-2002-415e-8888-51628853997a": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "PGND",
+            "swap_group": 0
+        },
+        "be37a91a-c886-4a3f-acb3-d2a25df42af1": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "S3",
+            "swap_group": 0
+        },
+        "c7452122-b32a-4533-9b76-aef2aa629f5a": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "VTTREF",
+            "swap_group": 0
+        },
+        "da414f7c-5bc6-4df2-8a96-7d27d24aa1c6": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VLDOIN",
+            "swap_group": 0
+        },
+        "e5fc037d-ac40-4ec9-9767-fa2d948c3de0": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDDQSNS",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "49f4bca4-1cdc-4eb5-9f70-a7ab641106c8"
+}

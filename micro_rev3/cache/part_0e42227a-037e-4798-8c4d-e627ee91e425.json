@@ -1,0 +1,53 @@
+{
+    "MPN": [
+        false,
+        "LD1117S12TR"
+    ],
+    "datasheet": [
+        false,
+        "https://datasheet.octopart.com/LD1117S12TR-STMicroelectronics-datasheet-12512609.pdf"
+    ],
+    "description": [
+        false,
+        "1.2V 800mA LDO"
+    ],
+    "entity": "404b6552-3d19-4d86-a458-b0d1efa57e36",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "ST"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "40c6b7be-b1ec-4b60-a37a-657e93c5ede4",
+    "pad_map": {
+        "290daf76-bfcd-42f0-bdf0-5c62f3a3f1a4": {
+            "gate": "001ed082-600b-4f0c-98a0-74f651aee2b9",
+            "pin": "8cba6668-aaf1-4164-ae14-843790231e10"
+        },
+        "2cf89f5f-7088-4720-bd68-82c13b0d2efb": {
+            "gate": "001ed082-600b-4f0c-98a0-74f651aee2b9",
+            "pin": "6a6a3772-eebd-4a17-abde-be65141b2274"
+        },
+        "79666dae-1dde-49f4-b0fe-ca165f58b98e": {
+            "gate": "001ed082-600b-4f0c-98a0-74f651aee2b9",
+            "pin": "df18673f-14c0-45d4-8c92-c9078902552b"
+        },
+        "f562ec8d-cf85-4f49-b087-51d932fc035f": {
+            "gate": "001ed082-600b-4f0c-98a0-74f651aee2b9",
+            "pin": "17dade24-8eef-45f5-ae17-87278295329d"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "cpl",
+        "ic",
+        "ldo"
+    ],
+    "type": "part",
+    "uuid": "0e42227a-037e-4798-8c4d-e627ee91e425",
+    "value": [
+        false,
+        ""
+    ]
+}

@@ -1,6 +1,6 @@
 {
     "manufacturer": "Micron",
-    "name": "MT41K64M16TW-107_J-TR",
+    "name": "MT41K64M16",
     "pins": {
         "003870ca-59cb-4d58-b4fb-8c8f0ab02aaf": {
             "direction": "bidirectional",

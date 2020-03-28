@@ -1,0 +1,52 @@
+{
+    "manufacturer": "Texas Instruments",
+    "name": "TPS65400RGZT SW4",
+    "pins": {
+        "03516534-d45d-40a8-99e7-8d51cda90aa2": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "PVIN4",
+            "swap_group": 0
+        },
+        "4e24d5ed-df1d-4730-a60e-e920c15ef9fb": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "COMP4",
+            "swap_group": 0
+        },
+        "64258a15-81df-4c8d-8ddc-68c13c733c32": {
+            "direction": "bidirectional",
+            "names": [
+                "PG4"
+            ],
+            "primary_name": "SS4",
+            "swap_group": 0
+        },
+        "84caec22-7005-4078-87c5-5dcf66f27941": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "VFB4",
+            "swap_group": 0
+        },
+        "cac5597f-13f6-4284-8075-1ec3f185bceb": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "ENSW4",
+            "swap_group": 0
+        },
+        "db45fdcc-e08b-47ee-b5b7-c96d1716840d": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "CB4",
+            "swap_group": 0
+        },
+        "f8a0e3f0-a9dd-41fb-997b-327df927150c": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "SW4",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "f399cee8-a791-4270-bc39-bb21ca02ed21"
+}

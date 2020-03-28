@@ -1,0 +1,152 @@
+{
+    "manufacturer": "Texas Instruments",
+    "name": "PCA9548APW",
+    "pins": {
+        "09c0b60b-6372-49c2-aebc-ac762cd9dfcb": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "SD4",
+            "swap_group": 0
+        },
+        "14ef3416-8130-4682-83a1-9b2276a3bcf8": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "SC4",
+            "swap_group": 0
+        },
+        "15900cc7-40c7-4d2a-8b0f-d272f59212e6": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "SC5",
+            "swap_group": 0
+        },
+        "1774774b-02f6-4a45-b371-5c4b6fd7d336": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "SD1",
+            "swap_group": 0
+        },
+        "28657d9a-16b7-4df4-8e01-2fd2d794baba": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "SC6",
+            "swap_group": 0
+        },
+        "2de12e5b-2a2d-43ed-8a27-441c4aadeadb": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "SC7",
+            "swap_group": 0
+        },
+        "2e6d1b7d-0105-4a9a-b138-4dbae674feda": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "SD6",
+            "swap_group": 0
+        },
+        "3e0de84c-9369-45d1-bcdb-a51f7b87d601": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "48f9689e-2804-49d7-b2bd-95c3121e5c71": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "SC3",
+            "swap_group": 0
+        },
+        "5758f228-7762-4f9e-a586-5fbca2b8aead": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "SDA",
+            "swap_group": 0
+        },
+        "a7bd509a-1d66-4520-95bd-511e842d892d": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "RESET#",
+            "swap_group": 0
+        },
+        "acb4ceaf-5597-4f93-98d4-29a0223f0a8c": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "A1",
+            "swap_group": 0
+        },
+        "add92e93-a47d-4b0f-976b-d6e923604b66": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "SC0",
+            "swap_group": 0
+        },
+        "af5660b1-d5b8-471f-a709-850164ecd423": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "SD5",
+            "swap_group": 0
+        },
+        "c45b0515-89c8-499f-bcf6-853ba8957de5": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "SCL",
+            "swap_group": 0
+        },
+        "d1103af8-4ead-448e-a56e-e987128034b4": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "SC2",
+            "swap_group": 0
+        },
+        "d6915058-0953-49f4-be27-93245d59ab0b": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "SD2",
+            "swap_group": 0
+        },
+        "d7763d0b-b919-4715-a5d7-8fa31b03b370": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "A2",
+            "swap_group": 0
+        },
+        "d913cba4-293f-45f0-8173-0f516e4acad5": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "SD3",
+            "swap_group": 0
+        },
+        "dc661490-2a71-4a28-a3a8-af22bf3397ce": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "SD7",
+            "swap_group": 0
+        },
+        "e37ddb6f-5f4c-44fb-81dd-d056d3873b3b": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "SC1",
+            "swap_group": 0
+        },
+        "edff87f1-c34b-4b0e-8723-0444713ab4b8": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "SD0",
+            "swap_group": 0
+        },
+        "ee6215b8-2ab6-4026-80c4-bfa41b202ee9": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "A0",
+            "swap_group": 0
+        },
+        "f13476f7-0224-447d-8f80-402475280d07": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCC",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "a6251c71-3810-44fe-b845-f89466615eb1"
+}

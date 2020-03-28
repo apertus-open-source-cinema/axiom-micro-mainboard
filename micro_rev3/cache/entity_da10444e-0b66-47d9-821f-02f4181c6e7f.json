@@ -1,0 +1,16 @@
+{
+    "gates": {
+        "47a7bab2-6bbf-450b-b2a5-186181185d60": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "998ae29c-fca4-4cbc-b4d5-3e91370b3d0d"
+        }
+    },
+    "manufacturer": "Texas Instruments",
+    "name": "TPS54302DDCR",
+    "prefix": "U",
+    "tags": [],
+    "type": "entity",
+    "uuid": "da10444e-0b66-47d9-821f-02f4181c6e7f"
+}

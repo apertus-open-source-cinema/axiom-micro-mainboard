@@ -1,0 +1,16 @@
+{
+    "gates": {
+        "0e8a7c89-e278-439f-ab36-58c3a9c3df64": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "49f4bca4-1cdc-4eb5-9f70-a7ab641106c8"
+        }
+    },
+    "manufacturer": "Texas Instruments",
+    "name": "TPS51206DSQT",
+    "prefix": "U",
+    "tags": [],
+    "type": "entity",
+    "uuid": "c5548bc3-dc4a-4004-9a5b-218d7fab20ee"
+}

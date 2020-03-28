@@ -1,0 +1,32 @@
+{
+    "manufacturer": "Yangxing Tech",
+    "name": "O322525MEDA4SC",
+    "pins": {
+        "68e3fdf4-4cbc-4fd8-80c6-d3c030c10cfb": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "a7f1181c-ad76-43e6-9bb8-d6ace733fb0c": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "E/D",
+            "swap_group": 0
+        },
+        "ed183799-5a07-417e-8f42-c8dff5937953": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "OUTPUT",
+            "swap_group": 0
+        },
+        "f5295032-03de-4f17-9b65-14686a646746": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDD",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "2c073f76-8301-4484-9872-4537e767998a"
+}

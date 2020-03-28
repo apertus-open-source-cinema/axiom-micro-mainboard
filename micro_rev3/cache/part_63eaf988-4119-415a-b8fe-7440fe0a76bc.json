@@ -1,0 +1,61 @@
+{
+    "MPN": [
+        false,
+        "TPS54302DDCR"
+    ],
+    "datasheet": [
+        false,
+        "http://www.ti.com/lit/ds/symlink/tps54302.pdfhttp://www.ti.com/lit/ds/symlink/tps54302.pdf"
+    ],
+    "description": [
+        false,
+        "3A step down converter"
+    ],
+    "entity": "da10444e-0b66-47d9-821f-02f4181c6e7f",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Texas Instruments"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "0642774f-c15a-4aa7-8a7a-e80ce8139147",
+    "pad_map": {
+        "0d91fb20-5b7a-4b59-bb9b-6cf125e49b81": {
+            "gate": "47a7bab2-6bbf-450b-b2a5-186181185d60",
+            "pin": "1883cf28-c178-4cc8-8ef5-839ba7760f78"
+        },
+        "10d31ea9-2078-4d8a-bd54-03ff5cff8ada": {
+            "gate": "47a7bab2-6bbf-450b-b2a5-186181185d60",
+            "pin": "f9d44852-0811-4173-a171-8c3761063aa2"
+        },
+        "223d8e38-82cb-484b-8365-d975e1b567db": {
+            "gate": "47a7bab2-6bbf-450b-b2a5-186181185d60",
+            "pin": "634494f6-223d-4657-b61c-db77d888fe41"
+        },
+        "748e5cd7-226d-4697-818c-95d32ac65bb7": {
+            "gate": "47a7bab2-6bbf-450b-b2a5-186181185d60",
+            "pin": "30b88144-f254-429f-831f-5de2646d43e0"
+        },
+        "b63a74f7-032b-4952-95ec-609769a3bd95": {
+            "gate": "47a7bab2-6bbf-450b-b2a5-186181185d60",
+            "pin": "e4f480dd-37d2-411d-9ca5-54a6a14d5eeb"
+        },
+        "e8a6a122-3840-447b-abac-c9aaf95ab406": {
+            "gate": "47a7bab2-6bbf-450b-b2a5-186181185d60",
+            "pin": "d6f33a21-4a8c-4ff6-b17f-d5890712bcdd"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "dcdc",
+        "ic",
+        "regulator"
+    ],
+    "type": "part",
+    "uuid": "63eaf988-4119-415a-b8fe-7440fe0a76bc",
+    "value": [
+        false,
+        ""
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "gates": {
+        "84a7f960-a4da-4a69-8e64-d75e98430ccb": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "3bf08c0c-b73f-4f6a-b0c5-83165fac879a"
+        }
+    },
+    "manufacturer": "Microchip",
+    "name": "PAC1934T-I/JQ",
+    "prefix": "U",
+    "tags": [],
+    "type": "entity",
+    "uuid": "1e4de540-9bd2-45b4-89b5-e09c07c1b9e6"
+}

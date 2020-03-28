@@ -1,0 +1,104 @@
+{
+    "MPN": [
+        false,
+        "PAC1934T-I/JQ"
+    ],
+    "datasheet": [
+        false,
+        "http://ww1.microchip.com/downloads/en/DeviceDoc/PAC1931-Family-Data-Sheet-DS20005850E.pdf"
+    ],
+    "description": [
+        false,
+        "Quad DC Power Monitor with Accumulation"
+    ],
+    "entity": "1e4de540-9bd2-45b4-89b5-e09c07c1b9e6",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Microchip"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "60c0935d-092d-467d-b5a0-5ca6f18196b8",
+    "pad_map": {
+        "0fa8dcbb-b70a-4654-9c05-44f39c03cb7b": {
+            "gate": "84a7f960-a4da-4a69-8e64-d75e98430ccb",
+            "pin": "16362d29-90da-4fb0-97cc-560aafbc41ab"
+        },
+        "21530574-fc26-40f5-b353-53cf94e376a7": {
+            "gate": "84a7f960-a4da-4a69-8e64-d75e98430ccb",
+            "pin": "be08b4cf-5f7c-41e6-80b4-e8e780eec03f"
+        },
+        "2835b59b-e26d-495d-b9d0-74a6941b14d4": {
+            "gate": "84a7f960-a4da-4a69-8e64-d75e98430ccb",
+            "pin": "17e4b346-faa1-4135-952e-8add99595109"
+        },
+        "474a20d0-1910-41fe-a454-d893098cac55": {
+            "gate": "84a7f960-a4da-4a69-8e64-d75e98430ccb",
+            "pin": "c67a2c6f-5741-4bef-b623-ec57fecf87b3"
+        },
+        "5729e0d1-414c-4e20-8a2e-8adb47759f68": {
+            "gate": "84a7f960-a4da-4a69-8e64-d75e98430ccb",
+            "pin": "ae3161c8-70ae-4aed-aacb-00f2fffa2dee"
+        },
+        "6fc4538a-75a1-45bd-9be3-52ef81f6bb77": {
+            "gate": "84a7f960-a4da-4a69-8e64-d75e98430ccb",
+            "pin": "a69e6fd1-c245-4073-ad21-35c1ed3880ba"
+        },
+        "71b7f7c7-85b3-4b9d-bbe0-7d87ba29c800": {
+            "gate": "84a7f960-a4da-4a69-8e64-d75e98430ccb",
+            "pin": "ef0c9ec8-dc91-4fce-a85a-ecaa55408406"
+        },
+        "a7bca532-4b17-446c-a932-5ebee8331c44": {
+            "gate": "84a7f960-a4da-4a69-8e64-d75e98430ccb",
+            "pin": "c238e60b-e4a8-4b3c-a5ca-ced745dec97c"
+        },
+        "ac19a57c-77b9-4551-a5ee-d1912f616371": {
+            "gate": "84a7f960-a4da-4a69-8e64-d75e98430ccb",
+            "pin": "4e2a2578-e592-4465-82b9-9701a8113484"
+        },
+        "b7b576ca-ff93-4502-9fc0-c86dec7fa1f7": {
+            "gate": "84a7f960-a4da-4a69-8e64-d75e98430ccb",
+            "pin": "a85345bb-f54d-4ff7-930e-83cfede2a7f3"
+        },
+        "bf90ad1c-eae1-40ac-b963-97915749165a": {
+            "gate": "84a7f960-a4da-4a69-8e64-d75e98430ccb",
+            "pin": "49f1e674-583c-4c97-88e0-9805301edf49"
+        },
+        "c79fb2f1-14b1-40e7-a246-8598de9b70cb": {
+            "gate": "84a7f960-a4da-4a69-8e64-d75e98430ccb",
+            "pin": "40ae3f3b-558d-4ac4-ac07-bd74018f6d70"
+        },
+        "c8245d61-9940-4641-97e9-e92ae6b2607c": {
+            "gate": "84a7f960-a4da-4a69-8e64-d75e98430ccb",
+            "pin": "da4e77df-38c7-48c0-b6a5-383b5384a986"
+        },
+        "ec421bdd-ed15-4f57-95c9-1996439bf441": {
+            "gate": "84a7f960-a4da-4a69-8e64-d75e98430ccb",
+            "pin": "8114b7d6-4967-4652-899c-04d660ba9b3a"
+        },
+        "f1c6b80f-f39d-4d18-a966-605c3ce7cf4e": {
+            "gate": "84a7f960-a4da-4a69-8e64-d75e98430ccb",
+            "pin": "fa5218f6-617f-4236-9922-54e741562e65"
+        },
+        "f3332ebe-2426-41cf-b6ca-a062c3008902": {
+            "gate": "84a7f960-a4da-4a69-8e64-d75e98430ccb",
+            "pin": "366cba85-a151-4062-9768-0477bc83a2fd"
+        },
+        "fd20ee10-ef86-4da2-aa24-ff649c9c27b9": {
+            "gate": "84a7f960-a4da-4a69-8e64-d75e98430ccb",
+            "pin": "80d25646-5154-481f-9d11-2ed15e3af505"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "ic",
+        "power"
+    ],
+    "type": "part",
+    "uuid": "a824f14b-95dc-4529-8ed7-b1bfc0d2c4c0",
+    "value": [
+        false,
+        ""
+    ]
+}

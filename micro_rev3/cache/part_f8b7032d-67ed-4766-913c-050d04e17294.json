@@ -1,0 +1,83 @@
+{
+    "MPN": [
+        false,
+        "NLSX5014"
+    ],
+    "datasheet": [
+        false,
+        "https://datasheet.octopart.com/NLSX5014MUTAG-ON-Semiconductor-datasheet-13720281.pdf"
+    ],
+    "description": [
+        false,
+        "4 bit autosense level shifter"
+    ],
+    "entity": "e37a435a-6161-4649-b29b-8d58b2f2f394",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "ON Semiconductor"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "b20d0216-3530-4ba6-afdf-ca796a666b5d",
+    "pad_map": {
+        "1cce2aca-1b33-47ff-9233-af194d22b451": {
+            "gate": "c97fc7ef-5b11-4cfa-927f-9ec5f41cf5bb",
+            "pin": "6e17d2f9-9f5f-4eb1-b4d5-f5bb658f3b00"
+        },
+        "30c6a77d-186f-44ba-bc11-297d957add2c": {
+            "gate": "c97fc7ef-5b11-4cfa-927f-9ec5f41cf5bb",
+            "pin": "b5afc623-35a9-481d-8434-c7cc43ddd7e8"
+        },
+        "566189f7-e6d0-432f-93f4-12b68710fbe2": {
+            "gate": "c97fc7ef-5b11-4cfa-927f-9ec5f41cf5bb",
+            "pin": "c8c0db13-f2f3-4669-a7f0-49bab04b1947"
+        },
+        "645aba3e-8038-4f1f-8736-ace5ba4c19ac": {
+            "gate": "c97fc7ef-5b11-4cfa-927f-9ec5f41cf5bb",
+            "pin": "545dc28e-cb04-4ec4-ae89-9d7ae4f439b7"
+        },
+        "65f70b43-51d5-4f6f-a33f-15d9eeb410ef": {
+            "gate": "c97fc7ef-5b11-4cfa-927f-9ec5f41cf5bb",
+            "pin": "4b2d2ca2-2cb1-486a-ae4d-2e90e8d7b3c5"
+        },
+        "98cf0961-7967-424a-b3a6-2aac1a49091d": {
+            "gate": "c97fc7ef-5b11-4cfa-927f-9ec5f41cf5bb",
+            "pin": "9e652d8f-b708-41e6-a429-9ede903343ee"
+        },
+        "a879cd72-e44b-4454-b37d-0111dac2954e": {
+            "gate": "c97fc7ef-5b11-4cfa-927f-9ec5f41cf5bb",
+            "pin": "68648ced-1eb7-4402-9e94-8d16236dd6be"
+        },
+        "c6faf248-338a-4ff6-9d8a-7a8df72e1464": {
+            "gate": "c97fc7ef-5b11-4cfa-927f-9ec5f41cf5bb",
+            "pin": "de9e1183-c2d1-4315-b2ae-8d2e1354c219"
+        },
+        "e5c90195-8a70-4143-ab9e-7a6049b646ce": {
+            "gate": "c97fc7ef-5b11-4cfa-927f-9ec5f41cf5bb",
+            "pin": "8299f272-fa06-4243-b64d-7194862827b7"
+        },
+        "ea5d3a89-9b34-4294-800c-3b4bd85a2ae7": {
+            "gate": "c97fc7ef-5b11-4cfa-927f-9ec5f41cf5bb",
+            "pin": "ac5dd55c-404c-4175-b563-3532bf1ced56"
+        },
+        "eeeb2b55-f0e8-4695-b1bd-bc71e2a387bc": {
+            "gate": "c97fc7ef-5b11-4cfa-927f-9ec5f41cf5bb",
+            "pin": "4c7dfcc1-268b-4de6-b01a-51f2c218c5d0"
+        },
+        "ff7ea53a-c54e-4957-8939-8c6ac0f09417": {
+            "gate": "c97fc7ef-5b11-4cfa-927f-9ec5f41cf5bb",
+            "pin": "1a09e982-3a61-400c-947f-f061d4d804c4"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "ic"
+    ],
+    "type": "part",
+    "uuid": "f8b7032d-67ed-4766-913c-050d04e17294",
+    "value": [
+        false,
+        ""
+    ]
+}

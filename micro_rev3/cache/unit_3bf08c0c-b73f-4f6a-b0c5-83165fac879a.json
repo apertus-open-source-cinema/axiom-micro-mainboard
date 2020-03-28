@@ -1,0 +1,112 @@
+{
+    "manufacturer": "Microchip",
+    "name": "PAC1934T-I/JQ",
+    "pins": {
+        "16362d29-90da-4fb0-97cc-560aafbc41ab": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDD",
+            "swap_group": 0
+        },
+        "17e4b346-faa1-4135-952e-8add99595109": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "366cba85-a151-4062-9768-0477bc83a2fd": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "SW_DATA",
+            "swap_group": 0
+        },
+        "40ae3f3b-558d-4ac4-ac07-bd74018f6d70": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "SENSE2+",
+            "swap_group": 0
+        },
+        "49f1e674-583c-4c97-88e0-9805301edf49": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "SENSE4-",
+            "swap_group": 0
+        },
+        "4e2a2578-e592-4465-82b9-9701a8113484": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDDIO",
+            "swap_group": 0
+        },
+        "80d25646-5154-481f-9d11-2ed15e3af505": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "SENSE1+",
+            "swap_group": 0
+        },
+        "8114b7d6-4967-4652-899c-04d660ba9b3a": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "SENSE3+",
+            "swap_group": 0
+        },
+        "a69e6fd1-c245-4073-ad21-35c1ed3880ba": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "SENSE1-",
+            "swap_group": 0
+        },
+        "a85345bb-f54d-4ff7-930e-83cfede2a7f3": {
+            "direction": "not_connected",
+            "names": [],
+            "primary_name": "NC",
+            "swap_group": 0
+        },
+        "ae3161c8-70ae-4aed-aacb-00f2fffa2dee": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "PWRDN#",
+            "swap_group": 0
+        },
+        "be08b4cf-5f7c-41e6-80b4-e8e780eec03f": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "SENSE4+",
+            "swap_group": 0
+        },
+        "c238e60b-e4a8-4b3c-a5ca-ced745dec97c": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "ADDRSEL",
+            "swap_group": 0
+        },
+        "c67a2c6f-5741-4bef-b623-ec57fecf87b3": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "SENSE2-",
+            "swap_group": 0
+        },
+        "da4e77df-38c7-48c0-b6a5-383b5384a986": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "SM_CLK",
+            "swap_group": 0
+        },
+        "ef0c9ec8-dc91-4fce-a85a-ecaa55408406": {
+            "direction": "bidirectional",
+            "names": [
+                "ALERT#"
+            ],
+            "primary_name": "SLOW",
+            "swap_group": 0
+        },
+        "fa5218f6-617f-4236-9922-54e741562e65": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "SENSE3-",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "3bf08c0c-b73f-4f6a-b0c5-83165fac879a"
+}

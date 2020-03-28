@@ -1,0 +1,18 @@
+{
+    "gates": {
+        "c97fc7ef-5b11-4cfa-927f-9ec5f41cf5bb": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "633778c1-d940-435e-9755-7ebb8ae8cf4d"
+        }
+    },
+    "manufacturer": "ON Semiconductor",
+    "name": "NLSX5014",
+    "prefix": "U",
+    "tags": [
+        "ic"
+    ],
+    "type": "entity",
+    "uuid": "e37a435a-6161-4649-b29b-8d58b2f2f394"
+}

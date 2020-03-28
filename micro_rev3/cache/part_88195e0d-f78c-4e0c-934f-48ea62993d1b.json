@@ -1,7 +1,7 @@
 {
     "MPN": [
         false,
-        "MT41K64M16TW-107_J-TR"
+        "MT41K64M16TW"
     ],
     "datasheet": [
         false,
@@ -19,6 +19,9 @@
         "Micron"
     ],
     "model": "4f8df22a-90f9-4f9c-acab-51c9148f8d71",
+    "orderable_MPNs": {
+        "0a592ed2-a4c9-40f3-8b01-9d8428c6d384": "MT41K64M16TW-107_J-TR"
+    },
     "package": "c6dd838f-26e1-4215-ba18-e08705fe83e8",
     "pad_map": {
         "03444d96-4131-4741-a45a-b02302600674": {

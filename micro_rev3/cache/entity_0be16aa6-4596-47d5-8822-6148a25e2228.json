@@ -1,0 +1,16 @@
+{
+    "gates": {
+        "6f594901-6d38-4b9a-8b71-2953d0d7321f": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "a6251c71-3810-44fe-b845-f89466615eb1"
+        }
+    },
+    "manufacturer": "Texas Instruments",
+    "name": "PCA9548APW",
+    "prefix": "U",
+    "tags": [],
+    "type": "entity",
+    "uuid": "0be16aa6-4596-47d5-8822-6148a25e2228"
+}

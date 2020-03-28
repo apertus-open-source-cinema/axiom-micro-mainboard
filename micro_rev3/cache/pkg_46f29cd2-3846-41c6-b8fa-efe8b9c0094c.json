@@ -1,0 +1,1423 @@
+{
+    "arcs": {},
+    "default_model": "f7639ee2-e3da-441f-915f-94c62f1ba9eb",
+    "dimensions": {},
+    "junctions": {
+        "23aa168e-e4eb-441b-a9a3-a9350dd436b8": {
+            "position": [
+                3700000,
+                -3700000
+            ]
+        },
+        "3422e3b7-66c1-4a53-b5fa-63fbf478cee9": {
+            "position": [
+                3700000,
+                -3100000
+            ]
+        },
+        "374c9e7d-03c1-4749-8e26-c4add22eb5da": {
+            "position": [
+                3700000,
+                3100000
+            ]
+        },
+        "3dc0f157-289e-4e08-b442-4c6e273bedad": {
+            "position": [
+                -3100000,
+                3700000
+            ]
+        },
+        "506a6501-c85e-4179-8dd5-30e76a69aa47": {
+            "position": [
+                3100000,
+                -3700000
+            ]
+        },
+        "5dbece8c-7240-42c0-89ee-a1b35a8e10af": {
+            "position": [
+                -3700000,
+                -3100000
+            ]
+        },
+        "add32b41-2084-4880-908c-eeef8f09aa24": {
+            "position": [
+                -3100000,
+                -3700000
+            ]
+        },
+        "cd0a919b-ba4d-4700-9b49-90cff9bd6612": {
+            "position": [
+                -3700000,
+                3700000
+            ]
+        },
+        "d6ba37c7-9c0e-472f-9cc7-a5dd9800659c": {
+            "position": [
+                3100000,
+                3700000
+            ]
+        },
+        "dbb601ac-0926-4e28-99f7-a53a60ab9e57": {
+            "position": [
+                -3700000,
+                -3700000
+            ]
+        },
+        "fa484809-5ca5-4e37-817d-05133d58d849": {
+            "position": [
+                3700000,
+                3700000
+            ]
+        }
+    },
+    "keepouts": {},
+    "lines": {
+        "106d7b91-f643-4e02-b112-f3b12aab75bd": {
+            "from": "dbb601ac-0926-4e28-99f7-a53a60ab9e57",
+            "layer": 20,
+            "to": "5dbece8c-7240-42c0-89ee-a1b35a8e10af",
+            "width": 150000
+        },
+        "1b9dd560-ba7f-4edb-8a6e-59a7bad68672": {
+            "from": "3dc0f157-289e-4e08-b442-4c6e273bedad",
+            "layer": 20,
+            "to": "cd0a919b-ba4d-4700-9b49-90cff9bd6612",
+            "width": 150000
+        },
+        "28a31782-1a20-42a3-bb13-efc960b1c70c": {
+            "from": "d6ba37c7-9c0e-472f-9cc7-a5dd9800659c",
+            "layer": 20,
+            "to": "fa484809-5ca5-4e37-817d-05133d58d849",
+            "width": 150000
+        },
+        "44afb133-1122-4c39-aa36-b65edf9bda8d": {
+            "from": "fa484809-5ca5-4e37-817d-05133d58d849",
+            "layer": 20,
+            "to": "374c9e7d-03c1-4749-8e26-c4add22eb5da",
+            "width": 150000
+        },
+        "4a31c947-3c36-44ad-a910-7f7a06a70115": {
+            "from": "23aa168e-e4eb-441b-a9a3-a9350dd436b8",
+            "layer": 20,
+            "to": "3422e3b7-66c1-4a53-b5fa-63fbf478cee9",
+            "width": 150000
+        },
+        "51b05114-d371-465b-b24c-bdbe6bcac451": {
+            "from": "add32b41-2084-4880-908c-eeef8f09aa24",
+            "layer": 20,
+            "to": "dbb601ac-0926-4e28-99f7-a53a60ab9e57",
+            "width": 150000
+        },
+        "d2695f64-e198-4625-92ec-301329feb7d4": {
+            "from": "506a6501-c85e-4179-8dd5-30e76a69aa47",
+            "layer": 20,
+            "to": "23aa168e-e4eb-441b-a9a3-a9350dd436b8",
+            "width": 150000
+        }
+    },
+    "manufacturer": "",
+    "models": {
+        "f7639ee2-e3da-441f-915f-94c62f1ba9eb": {
+            "filename": "3d_models/ic/qfn/RGZ0048B.stp",
+            "pitch": 0,
+            "roll": 0,
+            "x": 0,
+            "y": 0,
+            "yaw": 0,
+            "z": 0
+        }
+    },
+    "name": "VQFN-48",
+    "pads": {
+        "08dd8a93-35de-4e00-bcc6-dcf9f086cde5": {
+            "name": "5",
+            "padstack": "8e762581-e1b1-4fb4-81d3-7f8a1cabb97f",
+            "parameter_set": {
+                "corner_radius": 50000,
+                "pad_height": 240000,
+                "pad_width": 600000,
+                "solder_mask_expansion": 50000
+            },
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -3400000,
+                    750000
+                ]
+            }
+        },
+        "096e40de-7b56-4296-a036-1e7382a3a98e": {
+            "name": "15",
+            "padstack": "8e762581-e1b1-4fb4-81d3-7f8a1cabb97f",
+            "parameter_set": {
+                "corner_radius": 50000,
+                "pad_height": 240000,
+                "pad_width": 600000,
+                "solder_mask_expansion": 50000
+            },
+            "placement": {
+                "angle": 16384,
+                "mirror": false,
+                "shift": [
+                    -1750000,
+                    -3400000
+                ]
+            }
+        },
+        "180b39e6-019d-4d9e-b41a-f456b4243fe6": {
+            "name": "29",
+            "padstack": "8e762581-e1b1-4fb4-81d3-7f8a1cabb97f",
+            "parameter_set": {
+                "corner_radius": 50000,
+                "pad_height": 240000,
+                "pad_width": 600000,
+                "solder_mask_expansion": 50000
+            },
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    3400000,
+                    -750000
+                ]
+            }
+        },
+        "1a511b51-c308-48c7-8f8f-069b1ba4a2d5": {
+            "name": "7",
+            "padstack": "8e762581-e1b1-4fb4-81d3-7f8a1cabb97f",
+            "parameter_set": {
+                "corner_radius": 50000,
+                "pad_height": 240000,
+                "pad_width": 600000,
+                "solder_mask_expansion": 50000
+            },
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -3400000,
+                    -250000
+                ]
+            }
+        },
+        "1cac2e97-2852-4039-8969-a3e96be3b2e7": {
+            "name": "33",
+            "padstack": "8e762581-e1b1-4fb4-81d3-7f8a1cabb97f",
+            "parameter_set": {
+                "corner_radius": 50000,
+                "pad_height": 240000,
+                "pad_width": 600000,
+                "solder_mask_expansion": 50000
+            },
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    3400000,
+                    1250000
+                ]
+            }
+        },
+        "2814e3ee-d2fd-4a86-ac7b-468740adc438": {
+            "name": "18",
+            "padstack": "8e762581-e1b1-4fb4-81d3-7f8a1cabb97f",
+            "parameter_set": {
+                "corner_radius": 50000,
+                "pad_height": 240000,
+                "pad_width": 600000,
+                "solder_mask_expansion": 50000
+            },
+            "placement": {
+                "angle": 16384,
+                "mirror": false,
+                "shift": [
+                    -250000,
+                    -3400000
+                ]
+            }
+        },
+        "292f7857-9283-4643-aa4f-bfe79e111f97": {
+            "name": "22",
+            "padstack": "8e762581-e1b1-4fb4-81d3-7f8a1cabb97f",
+            "parameter_set": {
+                "corner_radius": 50000,
+                "pad_height": 240000,
+                "pad_width": 600000,
+                "solder_mask_expansion": 50000
+            },
+            "placement": {
+                "angle": 16384,
+                "mirror": false,
+                "shift": [
+                    1750000,
+                    -3400000
+                ]
+            }
+        },
+        "2e21dd62-9fd8-480b-add7-3d321685ebc5": {
+            "name": "59",
+            "padstack": "296cf69b-9d53-45e4-aaab-4aedf4087d3a",
+            "parameter_set": {
+                "hole_diameter": 200000,
+                "pad_diameter": 400000
+            },
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    1800000,
+                    -685000
+                ]
+            }
+        },
+        "3063bbc4-710f-4aab-81b8-36f49a57c6c9": {
+            "name": "21",
+            "padstack": "8e762581-e1b1-4fb4-81d3-7f8a1cabb97f",
+            "parameter_set": {
+                "corner_radius": 50000,
+                "pad_height": 240000,
+                "pad_width": 600000,
+                "solder_mask_expansion": 50000
+            },
+            "placement": {
+                "angle": 16384,
+                "mirror": false,
+                "shift": [
+                    1250000,
+                    -3400000
+                ]
+            }
+        },
+        "3a18abb6-13a5-4b5b-8916-f7111a89e704": {
+            "name": "51",
+            "padstack": "296cf69b-9d53-45e4-aaab-4aedf4087d3a",
+            "parameter_set": {
+                "hole_diameter": 200000,
+                "pad_diameter": 400000
+            },
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    685000,
+                    -685000
+                ]
+            }
+        },
+        "410f5519-4f54-4188-a87b-f9377dc0a30c": {
+            "name": "4",
+            "padstack": "8e762581-e1b1-4fb4-81d3-7f8a1cabb97f",
+            "parameter_set": {
+                "corner_radius": 50000,
+                "pad_height": 240000,
+                "pad_width": 600000,
+                "solder_mask_expansion": 50000
+            },
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -3400000,
+                    1250000
+                ]
+            }
+        },
+        "43305e25-af50-4a1e-b8f2-d8f47b05b0ef": {
+            "name": "47",
+            "padstack": "8e762581-e1b1-4fb4-81d3-7f8a1cabb97f",
+            "parameter_set": {
+                "corner_radius": 50000,
+                "pad_height": 240000,
+                "pad_width": 600000,
+                "solder_mask_expansion": 50000
+            },
+            "placement": {
+                "angle": 49152,
+                "mirror": false,
+                "shift": [
+                    -2300000,
+                    3400000
+                ]
+            }
+        },
+        "433df434-9e23-4608-abfe-ea0bf957856b": {
+            "name": "26",
+            "padstack": "8e762581-e1b1-4fb4-81d3-7f8a1cabb97f",
+            "parameter_set": {
+                "corner_radius": 50000,
+                "pad_height": 240000,
+                "pad_width": 600000,
+                "solder_mask_expansion": 50000
+            },
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    3400000,
+                    -2250000
+                ]
+            }
+        },
+        "44ff899f-459f-4f38-87f4-9aeeacd9ff6a": {
+            "name": "35",
+            "padstack": "8e762581-e1b1-4fb4-81d3-7f8a1cabb97f",
+            "parameter_set": {
+                "corner_radius": 50000,
+                "pad_height": 240000,
+                "pad_width": 600000,
+                "solder_mask_expansion": 50000
+            },
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    3400000,
+                    2250000
+                ]
+            }
+        },
+        "45c68029-85e2-4278-bd01-2b35daf1eb06": {
+            "name": "41",
+            "padstack": "8e762581-e1b1-4fb4-81d3-7f8a1cabb97f",
+            "parameter_set": {
+                "corner_radius": 50000,
+                "pad_height": 240000,
+                "pad_width": 600000,
+                "solder_mask_expansion": 50000
+            },
+            "placement": {
+                "angle": 49152,
+                "mirror": false,
+                "shift": [
+                    700000,
+                    3400000
+                ]
+            }
+        },
+        "46f6b284-c0a9-452a-b82b-184257661ed1": {
+            "name": "60",
+            "padstack": "296cf69b-9d53-45e4-aaab-4aedf4087d3a",
+            "parameter_set": {
+                "hole_diameter": 200000,
+                "pad_diameter": 400000
+            },
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -1800000,
+                    685000
+                ]
+            }
+        },
+        "53ea4d8b-a3a9-4a2e-8847-78ae547515c5": {
+            "name": "44",
+            "padstack": "8e762581-e1b1-4fb4-81d3-7f8a1cabb97f",
+            "parameter_set": {
+                "corner_radius": 50000,
+                "pad_height": 240000,
+                "pad_width": 600000,
+                "solder_mask_expansion": 50000
+            },
+            "placement": {
+                "angle": 49152,
+                "mirror": false,
+                "shift": [
+                    -800000,
+                    3400000
+                ]
+            }
+        },
+        "5af24622-4e14-4737-b6f9-25e39ff2f87b": {
+            "name": "3",
+            "padstack": "8e762581-e1b1-4fb4-81d3-7f8a1cabb97f",
+            "parameter_set": {
+                "corner_radius": 50000,
+                "pad_height": 240000,
+                "pad_width": 600000,
+                "solder_mask_expansion": 50000
+            },
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -3400000,
+                    1750000
+                ]
+            }
+        },
+        "5f2d8795-606d-4631-9a32-91aed67bc35e": {
+            "name": "24",
+            "padstack": "8e762581-e1b1-4fb4-81d3-7f8a1cabb97f",
+            "parameter_set": {
+                "corner_radius": 50000,
+                "pad_height": 240000,
+                "pad_width": 600000,
+                "solder_mask_expansion": 50000
+            },
+            "placement": {
+                "angle": 16384,
+                "mirror": false,
+                "shift": [
+                    2750000,
+                    -3400000
+                ]
+            }
+        },
+        "61734cfb-363e-48a9-b628-a9683c37c482": {
+            "name": "45",
+            "padstack": "8e762581-e1b1-4fb4-81d3-7f8a1cabb97f",
+            "parameter_set": {
+                "corner_radius": 50000,
+                "pad_height": 240000,
+                "pad_width": 600000,
+                "solder_mask_expansion": 50000
+            },
+            "placement": {
+                "angle": 49152,
+                "mirror": false,
+                "shift": [
+                    -1300000,
+                    3400000
+                ]
+            }
+        },
+        "63cbf14c-1690-4171-b198-bea90bbb9f18": {
+            "name": "42",
+            "padstack": "8e762581-e1b1-4fb4-81d3-7f8a1cabb97f",
+            "parameter_set": {
+                "corner_radius": 50000,
+                "pad_height": 240000,
+                "pad_width": 600000,
+                "solder_mask_expansion": 50000
+            },
+            "placement": {
+                "angle": 49152,
+                "mirror": false,
+                "shift": [
+                    200000,
+                    3400000
+                ]
+            }
+        },
+        "653fe199-cfeb-4ff4-bf7b-bddf7b84f37b": {
+            "name": "8",
+            "padstack": "8e762581-e1b1-4fb4-81d3-7f8a1cabb97f",
+            "parameter_set": {
+                "corner_radius": 50000,
+                "pad_height": 240000,
+                "pad_width": 600000,
+                "solder_mask_expansion": 50000
+            },
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -3400000,
+                    -750000
+                ]
+            }
+        },
+        "69b741f2-66f3-41a5-8452-d92ada336147": {
+            "name": "6",
+            "padstack": "8e762581-e1b1-4fb4-81d3-7f8a1cabb97f",
+            "parameter_set": {
+                "corner_radius": 50000,
+                "pad_height": 240000,
+                "pad_width": 600000,
+                "solder_mask_expansion": 50000
+            },
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -3400000,
+                    250000
+                ]
+            }
+        },
+        "6a43d417-fa81-464d-8e36-4c8894a659ca": {
+            "name": "20",
+            "padstack": "8e762581-e1b1-4fb4-81d3-7f8a1cabb97f",
+            "parameter_set": {
+                "corner_radius": 50000,
+                "pad_height": 240000,
+                "pad_width": 600000,
+                "solder_mask_expansion": 50000
+            },
+            "placement": {
+                "angle": 16384,
+                "mirror": false,
+                "shift": [
+                    750000,
+                    -3400000
+                ]
+            }
+        },
+        "6b0cd171-9710-4a2c-9ad5-d6122a4201f5": {
+            "name": "55",
+            "padstack": "296cf69b-9d53-45e4-aaab-4aedf4087d3a",
+            "parameter_set": {
+                "hole_diameter": 200000,
+                "pad_diameter": 400000
+            },
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -685000,
+                    -1800000
+                ]
+            }
+        },
+        "7031b9d4-3ad7-43f9-831a-d74f72ddd12c": {
+            "name": "43",
+            "padstack": "8e762581-e1b1-4fb4-81d3-7f8a1cabb97f",
+            "parameter_set": {
+                "corner_radius": 50000,
+                "pad_height": 240000,
+                "pad_width": 600000,
+                "solder_mask_expansion": 50000
+            },
+            "placement": {
+                "angle": 49152,
+                "mirror": false,
+                "shift": [
+                    -300000,
+                    3400000
+                ]
+            }
+        },
+        "70f10b02-3d28-4254-8b32-22471403f127": {
+            "name": "28",
+            "padstack": "8e762581-e1b1-4fb4-81d3-7f8a1cabb97f",
+            "parameter_set": {
+                "corner_radius": 50000,
+                "pad_height": 240000,
+                "pad_width": 600000,
+                "solder_mask_expansion": 50000
+            },
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    3400000,
+                    -1250000
+                ]
+            }
+        },
+        "71922670-58db-40c2-a36f-f852b6a56798": {
+            "name": "36",
+            "padstack": "8e762581-e1b1-4fb4-81d3-7f8a1cabb97f",
+            "parameter_set": {
+                "corner_radius": 50000,
+                "pad_height": 240000,
+                "pad_width": 600000,
+                "solder_mask_expansion": 50000
+            },
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    3400000,
+                    2750000
+                ]
+            }
+        },
+        "71dfc5ff-54fc-42e9-a0ad-abd9e94fbd69": {
+            "name": "13",
+            "padstack": "8e762581-e1b1-4fb4-81d3-7f8a1cabb97f",
+            "parameter_set": {
+                "corner_radius": 50000,
+                "pad_height": 240000,
+                "pad_width": 600000,
+                "solder_mask_expansion": 50000
+            },
+            "placement": {
+                "angle": 16384,
+                "mirror": false,
+                "shift": [
+                    -2750000,
+                    -3400000
+                ]
+            }
+        },
+        "726fc9fb-ce20-4abd-8466-86eadf4fbe86": {
+            "name": "58",
+            "padstack": "296cf69b-9d53-45e4-aaab-4aedf4087d3a",
+            "parameter_set": {
+                "hole_diameter": 200000,
+                "pad_diameter": 400000
+            },
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    1800000,
+                    685000
+                ]
+            }
+        },
+        "8033e159-4897-48ab-bd0c-14c5d9d7fd30": {
+            "name": "34",
+            "padstack": "8e762581-e1b1-4fb4-81d3-7f8a1cabb97f",
+            "parameter_set": {
+                "corner_radius": 50000,
+                "pad_height": 240000,
+                "pad_width": 600000,
+                "solder_mask_expansion": 50000
+            },
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    3400000,
+                    1750000
+                ]
+            }
+        },
+        "823f0f62-929b-4402-96c8-0181780a8802": {
+            "name": "23",
+            "padstack": "8e762581-e1b1-4fb4-81d3-7f8a1cabb97f",
+            "parameter_set": {
+                "corner_radius": 50000,
+                "pad_height": 240000,
+                "pad_width": 600000,
+                "solder_mask_expansion": 50000
+            },
+            "placement": {
+                "angle": 16384,
+                "mirror": false,
+                "shift": [
+                    2250000,
+                    -3400000
+                ]
+            }
+        },
+        "83334e75-1e1f-47b6-833a-806fa1d39d3b": {
+            "name": "27",
+            "padstack": "8e762581-e1b1-4fb4-81d3-7f8a1cabb97f",
+            "parameter_set": {
+                "corner_radius": 50000,
+                "pad_height": 240000,
+                "pad_width": 600000,
+                "solder_mask_expansion": 50000
+            },
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    3400000,
+                    -1750000
+                ]
+            }
+        },
+        "836531aa-974b-45f6-bf84-38f4c9c6b6f4": {
+            "name": "38",
+            "padstack": "8e762581-e1b1-4fb4-81d3-7f8a1cabb97f",
+            "parameter_set": {
+                "corner_radius": 50000,
+                "pad_height": 240000,
+                "pad_width": 600000,
+                "solder_mask_expansion": 50000
+            },
+            "placement": {
+                "angle": 49152,
+                "mirror": false,
+                "shift": [
+                    2200000,
+                    3400000
+                ]
+            }
+        },
+        "8cc1ac3b-e108-4ac1-9c98-4a54c51b528e": {
+            "name": "49",
+            "padstack": "8e762581-e1b1-4fb4-81d3-7f8a1cabb97f",
+            "parameter_set": {
+                "corner_radius": 50000,
+                "pad_height": 4100000,
+                "pad_width": 4100000
+            },
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    0,
+                    0
+                ]
+            }
+        },
+        "96866889-737a-44dd-a0a7-c61725ba4a4d": {
+            "name": "39",
+            "padstack": "8e762581-e1b1-4fb4-81d3-7f8a1cabb97f",
+            "parameter_set": {
+                "corner_radius": 50000,
+                "pad_height": 240000,
+                "pad_width": 600000,
+                "solder_mask_expansion": 50000
+            },
+            "placement": {
+                "angle": 49152,
+                "mirror": false,
+                "shift": [
+                    1700000,
+                    3400000
+                ]
+            }
+        },
+        "9a833dfd-86fa-4e1b-a36a-fb8ac658a684": {
+            "name": "57",
+            "padstack": "296cf69b-9d53-45e4-aaab-4aedf4087d3a",
+            "parameter_set": {
+                "hole_diameter": 200000,
+                "pad_diameter": 400000
+            },
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    685000,
+                    -1800000
+                ]
+            }
+        },
+        "9b8f2bf2-4f14-402c-8f5e-93fa8ff5367e": {
+            "name": "46",
+            "padstack": "8e762581-e1b1-4fb4-81d3-7f8a1cabb97f",
+            "parameter_set": {
+                "corner_radius": 50000,
+                "pad_height": 240000,
+                "pad_width": 600000,
+                "solder_mask_expansion": 50000
+            },
+            "placement": {
+                "angle": 49152,
+                "mirror": false,
+                "shift": [
+                    -1800000,
+                    3400000
+                ]
+            }
+        },
+        "a5b50e1e-bb35-4c3f-b9a1-998d46aa584f": {
+            "name": "1",
+            "padstack": "8e762581-e1b1-4fb4-81d3-7f8a1cabb97f",
+            "parameter_set": {
+                "corner_radius": 50000,
+                "pad_height": 240000,
+                "pad_width": 600000,
+                "solder_mask_expansion": 50000
+            },
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -3400000,
+                    2750000
+                ]
+            }
+        },
+        "a69ec109-4ec1-4f5e-bf22-bdc69165cd72": {
+            "name": "53",
+            "padstack": "296cf69b-9d53-45e4-aaab-4aedf4087d3a",
+            "parameter_set": {
+                "hole_diameter": 200000,
+                "pad_diameter": 400000
+            },
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -685000,
+                    685000
+                ]
+            }
+        },
+        "b1c44774-d2eb-4672-b30f-c8c2491a698b": {
+            "name": "31",
+            "padstack": "8e762581-e1b1-4fb4-81d3-7f8a1cabb97f",
+            "parameter_set": {
+                "corner_radius": 50000,
+                "pad_height": 240000,
+                "pad_width": 600000,
+                "solder_mask_expansion": 50000
+            },
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    3400000,
+                    250000
+                ]
+            }
+        },
+        "b370294b-7e5f-493f-aa49-651bc1cb9b2a": {
+            "name": "2",
+            "padstack": "8e762581-e1b1-4fb4-81d3-7f8a1cabb97f",
+            "parameter_set": {
+                "corner_radius": 50000,
+                "pad_height": 240000,
+                "pad_width": 600000,
+                "solder_mask_expansion": 50000
+            },
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -3400000,
+                    2250000
+                ]
+            }
+        },
+        "b37c7f9a-4260-4a6d-a1e6-033a687a0284": {
+            "name": "19",
+            "padstack": "8e762581-e1b1-4fb4-81d3-7f8a1cabb97f",
+            "parameter_set": {
+                "corner_radius": 50000,
+                "pad_height": 240000,
+                "pad_width": 600000,
+                "solder_mask_expansion": 50000
+            },
+            "placement": {
+                "angle": 16384,
+                "mirror": false,
+                "shift": [
+                    250000,
+                    -3400000
+                ]
+            }
+        },
+        "ba0b618c-14e1-4ee5-8548-0e91deda735e": {
+            "name": "12",
+            "padstack": "8e762581-e1b1-4fb4-81d3-7f8a1cabb97f",
+            "parameter_set": {
+                "corner_radius": 50000,
+                "pad_height": 240000,
+                "pad_width": 600000,
+                "solder_mask_expansion": 50000
+            },
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -3400000,
+                    -2750000
+                ]
+            }
+        },
+        "bde7e630-54f1-4320-a268-41fbbc0387ef": {
+            "name": "10",
+            "padstack": "8e762581-e1b1-4fb4-81d3-7f8a1cabb97f",
+            "parameter_set": {
+                "corner_radius": 50000,
+                "pad_height": 240000,
+                "pad_width": 600000,
+                "solder_mask_expansion": 50000
+            },
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -3400000,
+                    -1750000
+                ]
+            }
+        },
+        "bec9d024-4bf3-491f-a25d-c37b39816c54": {
+            "name": "17",
+            "padstack": "8e762581-e1b1-4fb4-81d3-7f8a1cabb97f",
+            "parameter_set": {
+                "corner_radius": 50000,
+                "pad_height": 240000,
+                "pad_width": 600000,
+                "solder_mask_expansion": 50000
+            },
+            "placement": {
+                "angle": 16384,
+                "mirror": false,
+                "shift": [
+                    -750000,
+                    -3400000
+                ]
+            }
+        },
+        "bfd6aa3f-c1a6-48d2-a7bd-740147f0e595": {
+            "name": "54",
+            "padstack": "296cf69b-9d53-45e4-aaab-4aedf4087d3a",
+            "parameter_set": {
+                "hole_diameter": 200000,
+                "pad_diameter": 400000
+            },
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -685000,
+                    1800000
+                ]
+            }
+        },
+        "bfd741c6-588c-4c1c-adce-5403a74d62ad": {
+            "name": "14",
+            "padstack": "8e762581-e1b1-4fb4-81d3-7f8a1cabb97f",
+            "parameter_set": {
+                "corner_radius": 50000,
+                "pad_height": 240000,
+                "pad_width": 600000,
+                "solder_mask_expansion": 50000
+            },
+            "placement": {
+                "angle": 16384,
+                "mirror": false,
+                "shift": [
+                    -2250000,
+                    -3400000
+                ]
+            }
+        },
+        "c5583636-9b05-4e63-a167-98749bcca66b": {
+            "name": "11",
+            "padstack": "8e762581-e1b1-4fb4-81d3-7f8a1cabb97f",
+            "parameter_set": {
+                "corner_radius": 50000,
+                "pad_height": 240000,
+                "pad_width": 600000,
+                "solder_mask_expansion": 50000
+            },
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -3400000,
+                    -2250000
+                ]
+            }
+        },
+        "c7b785a8-94b6-4c60-acfc-6af593d161ff": {
+            "name": "52",
+            "padstack": "296cf69b-9d53-45e4-aaab-4aedf4087d3a",
+            "parameter_set": {
+                "hole_diameter": 200000,
+                "pad_diameter": 400000
+            },
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -685000,
+                    -685000
+                ]
+            }
+        },
+        "d951a65c-99d9-404b-90e8-d46ea668bbe0": {
+            "name": "9",
+            "padstack": "8e762581-e1b1-4fb4-81d3-7f8a1cabb97f",
+            "parameter_set": {
+                "corner_radius": 50000,
+                "pad_height": 240000,
+                "pad_width": 600000,
+                "solder_mask_expansion": 50000
+            },
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -3400000,
+                    -1250000
+                ]
+            }
+        },
+        "de1c9b7a-7cdf-4fdb-a54c-18c583915fcc": {
+            "name": "40",
+            "padstack": "8e762581-e1b1-4fb4-81d3-7f8a1cabb97f",
+            "parameter_set": {
+                "corner_radius": 50000,
+                "pad_height": 240000,
+                "pad_width": 600000,
+                "solder_mask_expansion": 50000
+            },
+            "placement": {
+                "angle": 49152,
+                "mirror": false,
+                "shift": [
+                    1200000,
+                    3400000
+                ]
+            }
+        },
+        "e191c62b-a2cd-4415-a41d-09579e4ccc39": {
+            "name": "16",
+            "padstack": "8e762581-e1b1-4fb4-81d3-7f8a1cabb97f",
+            "parameter_set": {
+                "corner_radius": 50000,
+                "pad_height": 240000,
+                "pad_width": 600000,
+                "solder_mask_expansion": 50000
+            },
+            "placement": {
+                "angle": 16384,
+                "mirror": false,
+                "shift": [
+                    -1250000,
+                    -3400000
+                ]
+            }
+        },
+        "e7016759-aa4f-41fe-b66e-4ac237ca7347": {
+            "name": "25",
+            "padstack": "8e762581-e1b1-4fb4-81d3-7f8a1cabb97f",
+            "parameter_set": {
+                "corner_radius": 50000,
+                "pad_height": 240000,
+                "pad_width": 600000,
+                "solder_mask_expansion": 50000
+            },
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    3400000,
+                    -2750000
+                ]
+            }
+        },
+        "e76ad06d-9022-453e-9c13-1fd9f8ed787e": {
+            "name": "50",
+            "padstack": "296cf69b-9d53-45e4-aaab-4aedf4087d3a",
+            "parameter_set": {
+                "hole_diameter": 200000,
+                "pad_diameter": 400000
+            },
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    685000,
+                    685000
+                ]
+            }
+        },
+        "ebcf779a-6597-4fb6-a3b4-1858a0bcc2da": {
+            "name": "32",
+            "padstack": "8e762581-e1b1-4fb4-81d3-7f8a1cabb97f",
+            "parameter_set": {
+                "corner_radius": 50000,
+                "pad_height": 240000,
+                "pad_width": 600000,
+                "solder_mask_expansion": 50000
+            },
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    3400000,
+                    750000
+                ]
+            }
+        },
+        "ec1015d7-08cb-4b9b-9986-9053bb17cf87": {
+            "name": "56",
+            "padstack": "296cf69b-9d53-45e4-aaab-4aedf4087d3a",
+            "parameter_set": {
+                "hole_diameter": 200000,
+                "pad_diameter": 400000
+            },
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    685000,
+                    1800000
+                ]
+            }
+        },
+        "ecb5e04e-9391-469c-899a-de18b4deb244": {
+            "name": "30",
+            "padstack": "8e762581-e1b1-4fb4-81d3-7f8a1cabb97f",
+            "parameter_set": {
+                "corner_radius": 50000,
+                "pad_height": 240000,
+                "pad_width": 600000,
+                "solder_mask_expansion": 50000
+            },
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    3400000,
+                    -250000
+                ]
+            }
+        },
+        "f1efd363-006f-4c0e-90c8-4e9daf8da9f8": {
+            "name": "48",
+            "padstack": "8e762581-e1b1-4fb4-81d3-7f8a1cabb97f",
+            "parameter_set": {
+                "corner_radius": 50000,
+                "pad_height": 240000,
+                "pad_width": 600000,
+                "solder_mask_expansion": 50000
+            },
+            "placement": {
+                "angle": 49152,
+                "mirror": false,
+                "shift": [
+                    -2800000,
+                    3400000
+                ]
+            }
+        },
+        "f4396941-3441-49da-8e3c-01fa43b556cd": {
+            "name": "61",
+            "padstack": "296cf69b-9d53-45e4-aaab-4aedf4087d3a",
+            "parameter_set": {
+                "hole_diameter": 200000,
+                "pad_diameter": 400000
+            },
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -1800000,
+                    -685000
+                ]
+            }
+        },
+        "fe70da78-1ab8-49bc-befa-e68dc512ca08": {
+            "name": "37",
+            "padstack": "8e762581-e1b1-4fb4-81d3-7f8a1cabb97f",
+            "parameter_set": {
+                "corner_radius": 50000,
+                "pad_height": 240000,
+                "pad_width": 600000,
+                "solder_mask_expansion": 50000
+            },
+            "placement": {
+                "angle": 49152,
+                "mirror": false,
+                "shift": [
+                    2700000,
+                    3400000
+                ]
+            }
+        }
+    },
+    "parameter_program": "",
+    "parameter_set": {},
+    "polygons": {
+        "4efc151f-f719-4f20-9d4b-5f8fc861a1a4": {
+            "layer": 50,
+            "parameter_class": "",
+            "vertices": [
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        3500000,
+                        3500000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        3500000,
+                        -3500000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        -3500000,
+                        -3500000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        -3500000,
+                        2700000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        -2700000,
+                        3500000
+                    ],
+                    "type": "line"
+                }
+            ]
+        },
+        "5db08266-f1b7-4532-b713-138719dd8c07": {
+            "layer": 60,
+            "parameter_class": "",
+            "vertices": [
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        -4150000,
+                        -4150000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        4150000,
+                        -4150000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        4150000,
+                        4150000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        -4150000,
+                        4150000
+                    ],
+                    "type": "line"
+                }
+            ]
+        },
+        "8334f531-772e-449c-b770-d638f15aa039": {
+            "layer": 40,
+            "parameter_class": "",
+            "vertices": [
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        -3500000,
+                        -3500000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        3500000,
+                        -3500000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        3500000,
+                        3500000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        -3500000,
+                        3500000
+                    ],
+                    "type": "line"
+                }
+            ]
+        }
+    },
+    "tags": [],
+    "texts": {
+        "42087ee6-2dda-44c6-a625-62d8d39b22ce": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 20,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    4400000,
+                    3700000
+                ]
+            },
+            "size": 1000000,
+            "text": "$RD",
+            "width": 150000
+        },
+        "a4035f11-6ae2-499d-9ab4-072a4dcf848b": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 50,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -2900000,
+                    0
+                ]
+            },
+            "size": 1000000,
+            "text": "$RD",
+            "width": 0
+        }
+    },
+    "type": "package",
+    "uuid": "46f29cd2-3846-41c6-b8fa-efe8b9c0094c"
+}

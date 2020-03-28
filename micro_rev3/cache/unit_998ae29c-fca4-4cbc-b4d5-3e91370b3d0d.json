@@ -1,0 +1,44 @@
+{
+    "manufacturer": "Texas Instruments",
+    "name": "TPS54302DDCR",
+    "pins": {
+        "1883cf28-c178-4cc8-8ef5-839ba7760f78": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "FB",
+            "swap_group": 0
+        },
+        "30b88144-f254-429f-831f-5de2646d43e0": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "634494f6-223d-4657-b61c-db77d888fe41": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VIN",
+            "swap_group": 0
+        },
+        "d6f33a21-4a8c-4ff6-b17f-d5890712bcdd": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "EN",
+            "swap_group": 0
+        },
+        "e4f480dd-37d2-411d-9ca5-54a6a14d5eeb": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "SW",
+            "swap_group": 0
+        },
+        "f9d44852-0811-4173-a171-8c3761063aa2": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "BOOT",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "998ae29c-fca4-4cbc-b4d5-3e91370b3d0d"
+}

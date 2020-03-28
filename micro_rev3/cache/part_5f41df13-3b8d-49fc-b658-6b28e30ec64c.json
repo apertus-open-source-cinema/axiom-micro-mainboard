@@ -1,0 +1,81 @@
+{
+    "MPN": [
+        false,
+        "TPS51206DSQT"
+    ],
+    "datasheet": [
+        false,
+        "http://www.ti.com/lit/gpn/tps51206"
+    ],
+    "description": [
+        false,
+        "2A Peak Sink/Source DDR Termination Regulator with VTTREF Buffered Reference for DDR2/3/3L/4"
+    ],
+    "entity": "c5548bc3-dc4a-4004-9a5b-218d7fab20ee",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Texas Instruments"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "7e4cc868-c173-40de-9144-eba30dc7b2ce",
+    "pad_map": {
+        "1cd8dbde-fa22-456a-9589-eca19472e7d8": {
+            "gate": "0e8a7c89-e278-439f-ab36-58c3a9c3df64",
+            "pin": "da414f7c-5bc6-4df2-8a96-7d27d24aa1c6"
+        },
+        "79225ab4-0623-4c15-bb66-827919aac8e7": {
+            "gate": "0e8a7c89-e278-439f-ab36-58c3a9c3df64",
+            "pin": "54cc73f9-1f37-47e9-a18c-1a2017924d2f"
+        },
+        "83b94861-3184-4f21-8185-0b49b8979e3f": {
+            "gate": "0e8a7c89-e278-439f-ab36-58c3a9c3df64",
+            "pin": "e5fc037d-ac40-4ec9-9767-fa2d948c3de0"
+        },
+        "ab1b4103-19d0-41ef-988e-ea357d2a01f9": {
+            "gate": "0e8a7c89-e278-439f-ab36-58c3a9c3df64",
+            "pin": "9e91fd51-2002-415e-8888-51628853997a"
+        },
+        "b90d4930-32e2-4ce2-aff8-44b809f27bfd": {
+            "gate": "0e8a7c89-e278-439f-ab36-58c3a9c3df64",
+            "pin": "8b70815b-7389-4f2f-9cdf-cae1b5b46549"
+        },
+        "c2d3d2fe-89be-40dd-98e8-af2180730a3d": {
+            "gate": "0e8a7c89-e278-439f-ab36-58c3a9c3df64",
+            "pin": "9c117613-5e6b-4af1-88a1-4d72abe74d9a"
+        },
+        "c53b5bf5-210e-4c2f-8e9b-7a9db8deeffc": {
+            "gate": "0e8a7c89-e278-439f-ab36-58c3a9c3df64",
+            "pin": "9e91fd51-2002-415e-8888-51628853997a"
+        },
+        "dca34dfd-a8ee-4bdf-a8d7-716c96d65aad": {
+            "gate": "0e8a7c89-e278-439f-ab36-58c3a9c3df64",
+            "pin": "8b2a0042-f0d2-44a9-a5f3-74143c83d9fa"
+        },
+        "f8bf2869-d0e0-42e5-a1f1-146a50d1738f": {
+            "gate": "0e8a7c89-e278-439f-ab36-58c3a9c3df64",
+            "pin": "be37a91a-c886-4a3f-acb3-d2a25df42af1"
+        },
+        "fba1615d-ba12-48b6-8906-15461f8762d9": {
+            "gate": "0e8a7c89-e278-439f-ab36-58c3a9c3df64",
+            "pin": "c7452122-b32a-4533-9b76-aef2aa629f5a"
+        },
+        "fcf6fd25-afd2-432e-9c72-f7baeb73b78b": {
+            "gate": "0e8a7c89-e278-439f-ab36-58c3a9c3df64",
+            "pin": "2ba88c45-b351-46ef-82e0-af349d6b0831"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "ic",
+        "psu",
+        "regulator"
+    ],
+    "type": "part",
+    "uuid": "5f41df13-3b8d-49fc-b658-6b28e30ec64c",
+    "value": [
+        false,
+        ""
+    ]
+}

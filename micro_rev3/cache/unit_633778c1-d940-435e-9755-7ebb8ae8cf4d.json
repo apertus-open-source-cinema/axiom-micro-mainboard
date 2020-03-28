@@ -1,0 +1,80 @@
+{
+    "manufacturer": "ON Semiconductor",
+    "name": "NLSX5014",
+    "pins": {
+        "1a09e982-3a61-400c-947f-f061d4d804c4": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "VL3",
+            "swap_group": 0
+        },
+        "4b2d2ca2-2cb1-486a-ae4d-2e90e8d7b3c5": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "VCC2",
+            "swap_group": 0
+        },
+        "4c7dfcc1-268b-4de6-b01a-51f2c218c5d0": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "VL4",
+            "swap_group": 0
+        },
+        "545dc28e-cb04-4ec4-ae89-9d7ae4f439b7": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "68648ced-1eb7-4402-9e94-8d16236dd6be": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "VCC4",
+            "swap_group": 0
+        },
+        "6e17d2f9-9f5f-4eb1-b4d5-f5bb658f3b00": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VL",
+            "swap_group": 0
+        },
+        "8299f272-fa06-4243-b64d-7194862827b7": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "VL1",
+            "swap_group": 0
+        },
+        "9e652d8f-b708-41e6-a429-9ede903343ee": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "VCC3",
+            "swap_group": 0
+        },
+        "ac5dd55c-404c-4175-b563-3532bf1ced56": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "VCC1",
+            "swap_group": 0
+        },
+        "b5afc623-35a9-481d-8434-c7cc43ddd7e8": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "VL2",
+            "swap_group": 0
+        },
+        "c8c0db13-f2f3-4669-a7f0-49bab04b1947": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "EN",
+            "swap_group": 0
+        },
+        "de9e1183-c2d1-4315-b2ae-8d2e1354c219": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "VCC",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "633778c1-d940-435e-9755-7ebb8ae8cf4d"
+}

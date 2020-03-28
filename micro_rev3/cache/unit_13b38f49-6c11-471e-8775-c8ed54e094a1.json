@@ -1,0 +1,98 @@
+{
+    "manufacturer": "Texas Instruments",
+    "name": "TPS65400RGZT Main",
+    "pins": {
+        "0a73f79b-d184-42ca-a080-842345cb608b": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "I2CALERT",
+            "swap_group": 0
+        },
+        "0abaff2d-8c2d-4e12-bbb9-166bd1c2b445": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "I2CADDR",
+            "swap_group": 0
+        },
+        "2e51ae81-4e3c-40a8-a03f-bd7e1fea355e": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "PGOOD",
+            "swap_group": 0
+        },
+        "2e603d8e-ed63-454e-996f-8ff9ba460a0f": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "PGND",
+            "swap_group": 0
+        },
+        "32feb2ee-31c8-4837-9549-0f84cb3d1fab": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "RCLOCK_SYNC",
+            "swap_group": 0
+        },
+        "3ae23e1f-856f-4808-96f7-bb637ce212a9": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "VDDD",
+            "swap_group": 0
+        },
+        "78ecfe21-2585-4c8f-92dc-16cebab30db3": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "SDA",
+            "swap_group": 0
+        },
+        "7ee51cd3-0f17-4aa8-ba9f-e57965a34b0e": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "SCL",
+            "swap_group": 0
+        },
+        "94e2e6ef-6fbf-42ef-add4-41c4b97daca3": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "CE",
+            "swap_group": 0
+        },
+        "b031468e-c308-462e-b615-0cfb1bba4438": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "VDDG",
+            "swap_group": 0
+        },
+        "d5424022-00b4-4ba6-8009-7a872e74ba56": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "VDDA",
+            "swap_group": 0
+        },
+        "d75a4d5a-8518-4d74-9aca-da4b535ed68e": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "RST#",
+            "swap_group": 0
+        },
+        "d9e13fde-d775-4b61-8ca6-b4eac4f86c9c": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "AGND",
+            "swap_group": 0
+        },
+        "e2bad281-30e2-4b5d-b7ee-813d7eb9b720": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VIN",
+            "swap_group": 0
+        },
+        "f63fb326-6b95-4755-a87b-a53ebab39b90": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "CLK_OUT",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "13b38f49-6c11-471e-8775-c8ed54e094a1"
+}

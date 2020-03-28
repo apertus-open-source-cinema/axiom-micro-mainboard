@@ -1,0 +1,49 @@
+{
+    "MPN": [
+        false,
+        "O322525MEDA4SC"
+    ],
+    "datasheet": [
+        false,
+        "https://datasheet.lcsc.com/szlcsc/1810161212_Yangxing-Tech-O322525MEDA4SC_C29208.pdf"
+    ],
+    "description": [
+        false,
+        "25MHz ±20ppm 3.3V 20mA SMD Oscillators"
+    ],
+    "entity": "7c49dbfb-32ec-42b0-b08a-05d8f58e05a1",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Yangxing Tech"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "70f82c9b-4e90-411f-b531-d2b2aa3228de",
+    "pad_map": {
+        "4fa32c7b-2444-4770-a358-0d19c5002188": {
+            "gate": "df864358-ebd7-46ef-89e8-ccc999e10127",
+            "pin": "ed183799-5a07-417e-8f42-c8dff5937953"
+        },
+        "61ad2ceb-a085-416f-aebe-c67ef20a60f7": {
+            "gate": "df864358-ebd7-46ef-89e8-ccc999e10127",
+            "pin": "f5295032-03de-4f17-9b65-14686a646746"
+        },
+        "8dcc1723-e594-4240-8e2a-e406889834b0": {
+            "gate": "df864358-ebd7-46ef-89e8-ccc999e10127",
+            "pin": "a7f1181c-ad76-43e6-9bb8-d6ace733fb0c"
+        },
+        "d530fecc-6fe0-4f70-9aa4-a208ebc0195a": {
+            "gate": "df864358-ebd7-46ef-89e8-ccc999e10127",
+            "pin": "68e3fdf4-4cbc-4fd8-80c6-d3c030c10cfb"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "b813524a-c9cd-4e0e-9bc5-9d81b4803227",
+    "value": [
+        false,
+        ""
+    ]
+}

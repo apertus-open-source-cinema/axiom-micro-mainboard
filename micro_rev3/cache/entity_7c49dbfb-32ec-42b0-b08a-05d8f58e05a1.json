@@ -1,0 +1,16 @@
+{
+    "gates": {
+        "df864358-ebd7-46ef-89e8-ccc999e10127": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "2c073f76-8301-4484-9872-4537e767998a"
+        }
+    },
+    "manufacturer": "Yangxing Tech",
+    "name": "O322525MEDA4SC",
+    "prefix": "Y",
+    "tags": [],
+    "type": "entity",
+    "uuid": "7c49dbfb-32ec-42b0-b08a-05d8f58e05a1"
+}
