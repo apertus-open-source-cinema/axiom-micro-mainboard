@@ -2,54 +2,54 @@
     "arcs": {},
     "can_expand": false,
     "junctions": {
-        "19d50636-aabd-4b0e-9e27-8aabef8d70b8": {
+        "44e6726c-f91a-4868-b9b0-1569fae0228b": {
             "position": [
-                -3750000,
-                -5000000
+                -6250000,
+                6250000
             ]
         },
-        "219336fa-957d-4d9b-81f1-bbcab229b6fc": {
+        "45d0481c-493a-4611-84ad-a011fedaddac": {
             "position": [
-                3750000,
-                5000000
+                -6250000,
+                -6250000
             ]
         },
-        "825eaee7-27e4-4480-a75c-027535e4af2c": {
+        "eba9ee5a-e7a6-4b21-940c-d1bc0378321a": {
             "position": [
-                3750000,
-                -5000000
+                6250000,
+                -6250000
             ]
         },
-        "9c58aec7-07a0-4d96-9db7-d1479ca33c23": {
+        "ed0e550c-0158-47a6-924b-a69beb32feaa": {
             "position": [
-                -3750000,
-                5000000
+                6250000,
+                6250000
             ]
         }
     },
     "lines": {
-        "825bc97c-7392-4820-8af3-5939746f3863": {
-            "from": "219336fa-957d-4d9b-81f1-bbcab229b6fc",
+        "3546c904-6358-4876-acbc-5cc199bc6e05": {
+            "from": "45d0481c-493a-4611-84ad-a011fedaddac",
             "layer": 0,
-            "to": "825eaee7-27e4-4480-a75c-027535e4af2c",
+            "to": "44e6726c-f91a-4868-b9b0-1569fae0228b",
             "width": 0
         },
-        "9e621018-c7e6-4d65-8ebb-2aefd596f75e": {
-            "from": "19d50636-aabd-4b0e-9e27-8aabef8d70b8",
+        "3ed863a3-706d-4e4b-800c-4e1e332019f0": {
+            "from": "eba9ee5a-e7a6-4b21-940c-d1bc0378321a",
             "layer": 0,
-            "to": "9c58aec7-07a0-4d96-9db7-d1479ca33c23",
+            "to": "45d0481c-493a-4611-84ad-a011fedaddac",
             "width": 0
         },
-        "a074ebf3-6f2d-4186-894c-eaa841134700": {
-            "from": "825eaee7-27e4-4480-a75c-027535e4af2c",
+        "84a48227-eb64-4b06-84e3-3d6e32a992d2": {
+            "from": "44e6726c-f91a-4868-b9b0-1569fae0228b",
             "layer": 0,
-            "to": "19d50636-aabd-4b0e-9e27-8aabef8d70b8",
+            "to": "ed0e550c-0158-47a6-924b-a69beb32feaa",
             "width": 0
         },
-        "b671259f-8b28-4da3-ab10-ce6ef4454b59": {
-            "from": "9c58aec7-07a0-4d96-9db7-d1479ca33c23",
+        "fac5dbd0-76e2-4d59-a189-9ab2ee103c08": {
+            "from": "ed0e550c-0158-47a6-924b-a69beb32feaa",
             "layer": 0,
-            "to": "219336fa-957d-4d9b-81f1-bbcab229b6fc",
+            "to": "eba9ee5a-e7a6-4b21-940c-d1bc0378321a",
             "width": 0
         }
     },
@@ -65,11 +65,11 @@
             "length": 2500000,
             "name_orientation": "in_line",
             "name_visible": true,
-            "orientation": "right",
+            "orientation": "left",
             "pad_visible": true,
             "position": [
-                -3750000,
-                -1250000
+                -8750000,
+                -3750000
             ]
         },
         "6a6a3772-eebd-4a17-abde-be65141b2274": {
@@ -82,11 +82,11 @@
             "length": 2500000,
             "name_orientation": "in_line",
             "name_visible": true,
-            "orientation": "right",
+            "orientation": "left",
             "pad_visible": true,
             "position": [
-                -3750000,
-                -3750000
+                -8750000,
+                -1250000
             ]
         },
         "8cba6668-aaf1-4164-ae14-843790231e10": {
@@ -99,11 +99,11 @@
             "length": 2500000,
             "name_orientation": "in_line",
             "name_visible": true,
-            "orientation": "right",
+            "orientation": "left",
             "pad_visible": true,
             "position": [
-                -3750000,
-                2500000
+                -8750000,
+                3750000
             ]
         },
         "df18673f-14c0-45d4-8c92-c9078902552b": {
@@ -116,11 +116,11 @@
             "length": 2500000,
             "name_orientation": "in_line",
             "name_visible": true,
-            "orientation": "left",
+            "orientation": "right",
             "pad_visible": true,
             "position": [
-                3750000,
-                2500000
+                8750000,
+                3750000
             ]
         }
     },
@@ -136,8 +136,8 @@
                 "angle": 0,
                 "mirror": false,
                 "shift": [
-                    -3750000,
-                    6250000
+                    -6250000,
+                    7500000
                 ]
             },
             "size": 1500000,
@@ -153,8 +153,8 @@
                 "angle": 0,
                 "mirror": false,
                 "shift": [
-                    -3750000,
-                    -6250000
+                    -6250000,
+                    -7500000
                 ]
             },
             "size": 1500000,

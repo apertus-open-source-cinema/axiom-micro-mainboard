@@ -332,7 +332,8 @@
     },
     "parameter_program": "2.400mm 1.800mm\nget-parameter [ courtyard_expansion ]\n2 * +xy\nset-polygon [ courtyard rectangle 0.000mm 0.000mm ]",
     "parameter_set": {
-        "courtyard_expansion": 250000
+        "courtyard_expansion": 250000,
+        "solder_mask_expansion": 50000
     },
     "polygons": {
         "2135a1b6-7ebb-403f-b0ae-987625a09e70": {

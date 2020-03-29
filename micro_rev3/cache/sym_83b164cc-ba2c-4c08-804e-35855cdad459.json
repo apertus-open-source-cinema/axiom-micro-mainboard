@@ -2,54 +2,54 @@
     "arcs": {},
     "can_expand": false,
     "junctions": {
-        "1223f27e-3fc4-4fc6-a1af-c024e8afea52": {
+        "1c7d47c7-1e08-4875-bd96-de3f9f253126": {
             "position": [
-                -3750000,
-                -5000000
+                -7500000,
+                7500000
             ]
         },
-        "29df894a-e788-4158-8924-82f347b67af9": {
+        "44e621f3-36d3-4ac6-b014-9619ad40f9e3": {
             "position": [
-                -3750000,
-                5000000
+                -7500000,
+                -7500000
             ]
         },
-        "9b9f662d-876a-40c6-aaba-ff4945cbd67b": {
+        "81a316d3-2979-45b4-9e4e-9c9aabcf3b7e": {
             "position": [
-                3750000,
-                5000000
+                7500000,
+                -7500000
             ]
         },
-        "d9218382-dc48-48a9-b560-c12cfef8782a": {
+        "974e9324-9667-4530-a73a-fe6fc1333800": {
             "position": [
-                3750000,
-                -5000000
+                7500000,
+                7500000
             ]
         }
     },
     "lines": {
-        "1df252b9-c873-42e2-858b-a738ceb98a61": {
-            "from": "9b9f662d-876a-40c6-aaba-ff4945cbd67b",
+        "3a2b151d-9892-48e6-8dc3-5508e5627dc7": {
+            "from": "1c7d47c7-1e08-4875-bd96-de3f9f253126",
             "layer": 0,
-            "to": "d9218382-dc48-48a9-b560-c12cfef8782a",
+            "to": "974e9324-9667-4530-a73a-fe6fc1333800",
             "width": 0
         },
-        "3a1c2b38-a6da-4df1-9383-9ad8d8b8864a": {
-            "from": "29df894a-e788-4158-8924-82f347b67af9",
+        "605fc410-0609-490e-a847-2a8ce53f21a5": {
+            "from": "81a316d3-2979-45b4-9e4e-9c9aabcf3b7e",
             "layer": 0,
-            "to": "9b9f662d-876a-40c6-aaba-ff4945cbd67b",
+            "to": "44e621f3-36d3-4ac6-b014-9619ad40f9e3",
             "width": 0
         },
-        "3f152146-5f1b-4a4d-b837-559ccb2b8f3d": {
-            "from": "d9218382-dc48-48a9-b560-c12cfef8782a",
+        "d8c8141b-cd62-4313-9891-4d0cb6fea57a": {
+            "from": "974e9324-9667-4530-a73a-fe6fc1333800",
             "layer": 0,
-            "to": "1223f27e-3fc4-4fc6-a1af-c024e8afea52",
+            "to": "81a316d3-2979-45b4-9e4e-9c9aabcf3b7e",
             "width": 0
         },
-        "c17a2e17-b468-4d52-9506-90e1219eabc8": {
-            "from": "1223f27e-3fc4-4fc6-a1af-c024e8afea52",
+        "f2d96bb5-b572-481a-8196-5777adffa945": {
+            "from": "44e621f3-36d3-4ac6-b014-9619ad40f9e3",
             "layer": 0,
-            "to": "29df894a-e788-4158-8924-82f347b67af9",
+            "to": "1c7d47c7-1e08-4875-bd96-de3f9f253126",
             "width": 0
         }
     },
@@ -68,8 +68,8 @@
             "orientation": "right",
             "pad_visible": true,
             "position": [
-                -3750000,
-                -1250000
+                10000000,
+                -5000000
             ]
         },
         "30b88144-f254-429f-831f-5de2646d43e0": {
@@ -82,10 +82,10 @@
             "length": 2500000,
             "name_orientation": "in_line",
             "name_visible": true,
-            "orientation": "up",
+            "orientation": "left",
             "pad_visible": true,
             "position": [
-                -2500000,
+                -10000000,
                 -5000000
             ]
         },
@@ -99,11 +99,11 @@
             "length": 2500000,
             "name_orientation": "in_line",
             "name_visible": true,
-            "orientation": "right",
+            "orientation": "left",
             "pad_visible": true,
             "position": [
-                -3750000,
-                3750000
+                -10000000,
+                5000000
             ]
         },
         "d6f33a21-4a8c-4ff6-b17f-d5890712bcdd": {
@@ -116,11 +116,11 @@
             "length": 2500000,
             "name_orientation": "in_line",
             "name_visible": true,
-            "orientation": "right",
+            "orientation": "left",
             "pad_visible": true,
             "position": [
-                -3750000,
-                -3750000
+                -10000000,
+                2500000
             ]
         },
         "e4f480dd-37d2-411d-9ca5-54a6a14d5eeb": {
@@ -133,11 +133,11 @@
             "length": 2500000,
             "name_orientation": "in_line",
             "name_visible": true,
-            "orientation": "left",
+            "orientation": "right",
             "pad_visible": true,
             "position": [
-                3750000,
-                3750000
+                10000000,
+                0
             ]
         },
         "f9d44852-0811-4173-a171-8c3761063aa2": {
@@ -150,18 +150,18 @@
             "length": 2500000,
             "name_orientation": "in_line",
             "name_visible": true,
-            "orientation": "left",
+            "orientation": "right",
             "pad_visible": true,
             "position": [
-                3750000,
-                -3750000
+                10000000,
+                5000000
             ]
         }
     },
     "polygons": {},
     "text_placements": {},
     "texts": {
-        "0d53bd1f-f048-4005-b5bb-3803c1069643": {
+        "139c0ac9-c93e-4ad9-ab7d-9153155c47d5": {
             "font": "simplex",
             "from_smash": false,
             "layer": 0,
@@ -170,15 +170,15 @@
                 "angle": 0,
                 "mirror": false,
                 "shift": [
-                    -1250000,
-                    -6250000
+                    -7500000,
+                    -8750000
                 ]
             },
             "size": 1500000,
             "text": "$VALUE",
             "width": 0
         },
-        "14dac3aa-4997-4d21-b219-43330fac373b": {
+        "d75873f5-09d1-4749-be14-5b674a4f8f30": {
             "font": "simplex",
             "from_smash": false,
             "layer": 0,
@@ -187,8 +187,8 @@
                 "angle": 0,
                 "mirror": false,
                 "shift": [
-                    -3750000,
-                    6250000
+                    -7500000,
+                    8750000
                 ]
             },
             "size": 1500000,

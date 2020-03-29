@@ -1,0 +1,34 @@
+{
+    "MPN": [
+        false,
+        "base 1206 capacitor"
+    ],
+    "entity": "ca83a84f-6183-4088-84b6-5d79b2a119d4",
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "package": "965e812c-7750-4e7d-ac60-8c38102fcec9",
+    "pad_map": {
+        "af633f04-39de-4605-b33a-2010e8795070": {
+            "gate": "9bfcf213-2a7e-444e-8312-ce57209fc9ec",
+            "pin": "852f1fe6-06dc-4661-8a14-61a9a6ebb26a"
+        },
+        "dea5a138-9f86-4a13-a99d-2c1253f285f2": {
+            "gate": "9bfcf213-2a7e-444e-8312-ce57209fc9ec",
+            "pin": "29995253-b4b1-4c7c-a049-b6db2713ca7c"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "capacitor",
+        "passive"
+    ],
+    "type": "part",
+    "uuid": "7537f389-14a5-43a6-9b2a-100266cd51d8",
+    "value": [
+        false,
+        ""
+    ]
+}

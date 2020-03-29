@@ -12,13 +12,16 @@
         "2A Peak Sink/Source DDR Termination Regulator with VTTREF Buffered Reference for DDR2/3/3L/4"
     ],
     "entity": "c5548bc3-dc4a-4004-9a5b-218d7fab20ee",
-    "inherit_model": true,
+    "inherit_model": false,
     "inherit_tags": false,
     "manufacturer": [
         false,
         "Texas Instruments"
     ],
-    "model": "00000000-0000-0000-0000-000000000000",
+    "model": "f0f51252-bf94-4ffd-acff-eb661e0955c2",
+    "orderable_MPNs": {
+        "4fdadafa-151d-46ac-8ca0-93ad49f16c00": "TPS51206DSQT"
+    },
     "package": "7e4cc868-c173-40de-9144-eba30dc7b2ce",
     "pad_map": {
         "1cd8dbde-fa22-456a-9589-eca19472e7d8": {
