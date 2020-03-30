@@ -1,0 +1,35 @@
+{
+    "MPN": [
+        false,
+        "ECS-MPIL0530-2R2MC"
+    ],
+    "base": "09ab40d2-3ec0-4d51-9395-4fbdf15926e7",
+    "datasheet": [
+        true,
+        "https://www.ecsxtal.com/store/pdf/ECS-MPIL0530-SMD-POWER-INDUCTOR.pdf"
+    ],
+    "description": [
+        true,
+        "SMD power inductor"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        "ECS"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "parametric": {
+        "dcr": "0.035",
+        "idc": "5.5",
+        "table": "inductors",
+        "value": "2.2e-06"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "52dea288-14b0-4fc2-a357-21e00afc7f29",
+    "value": [
+        false,
+        "2.2 µH"
+    ]
+}

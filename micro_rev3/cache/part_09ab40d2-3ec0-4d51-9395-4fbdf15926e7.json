@@ -1,0 +1,49 @@
+{
+    "MPN": [
+        false,
+        "ECS-MPIL0530-R68MC"
+    ],
+    "datasheet": [
+        false,
+        "https://www.ecsxtal.com/store/pdf/ECS-MPIL0530-SMD-POWER-INDUCTOR.pdf"
+    ],
+    "description": [
+        false,
+        "SMD power inductor"
+    ],
+    "entity": "1d534e1d-704a-4d44-a6e6-c6106a2827ab",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "ECS"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "78b1fb28-9253-4d4e-9941-a31728ea366f",
+    "pad_map": {
+        "3a78b8f9-cbba-4c44-a343-d6123c4e94d0": {
+            "gate": "48af78e5-730e-44eb-977a-cf188e4fcb39",
+            "pin": "dda0ec99-5d70-4fbe-a8db-897542e7554e"
+        },
+        "e245922f-1416-4f4c-a410-d3046611c72d": {
+            "gate": "48af78e5-730e-44eb-977a-cf188e4fcb39",
+            "pin": "6a44037c-65e2-4876-9359-42890048841d"
+        }
+    },
+    "parametric": {
+        "dcr": "0.012",
+        "idc": "8.5",
+        "table": "inductors",
+        "value": "6.8e-07"
+    },
+    "tags": [
+        "inductor",
+        "smd"
+    ],
+    "type": "part",
+    "uuid": "09ab40d2-3ec0-4d51-9395-4fbdf15926e7",
+    "value": [
+        false,
+        "0.68 µH"
+    ]
+}

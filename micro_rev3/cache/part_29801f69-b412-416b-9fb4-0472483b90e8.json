@@ -1,0 +1,36 @@
+{
+    "MPN": [
+        false,
+        "C1005C0G1H681J050BE"
+    ],
+    "base": "58b92388-cb19-4e12-9c56-4cb3bf795304",
+    "datasheet": [
+        false,
+        "https://product.tdk.com/info/en/documents/chara_sheet/C1005C0G1H681J050BE.pdf"
+    ],
+    "description": [
+        false,
+        "Ceramic Capacitor 680 pF 50 V C0G/NP0"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        ""
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "parametric": {
+        "table": "capacitors",
+        "tolerance": "5",
+        "type": "C0G/NP0",
+        "value": "6.8000e-10",
+        "wvdc": "50.0"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "29801f69-b412-416b-9fb4-0472483b90e8",
+    "value": [
+        false,
+        "680 pF"
+    ]
+}

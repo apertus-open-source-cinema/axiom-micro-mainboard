@@ -1,0 +1,36 @@
+{
+    "MPN": [
+        false,
+        "C1005NP01H220J050BA"
+    ],
+    "base": "58b92388-cb19-4e12-9c56-4cb3bf795304",
+    "datasheet": [
+        false,
+        "https://product.tdk.com/info/en/documents/chara_sheet/C1005NP01H220J050BA.pdf"
+    ],
+    "description": [
+        false,
+        "Ceramic Capacitor 22 pF 50 V C0G/NP0"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        ""
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "parametric": {
+        "table": "capacitors",
+        "tolerance": "5",
+        "type": "C0G/NP0",
+        "value": "2.2000e-11",
+        "wvdc": "50.0"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "7c677391-92e6-44e5-9627-b2e7bafdf4d4",
+    "value": [
+        false,
+        "22 pF"
+    ]
+}
