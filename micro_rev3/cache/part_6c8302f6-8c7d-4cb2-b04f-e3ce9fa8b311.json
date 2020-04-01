@@ -1,0 +1,30 @@
+{
+    "MPN": [
+        false,
+        "CC 0402 Capacitor Base Part"
+    ],
+    "base": "29043bfd-c944-47cb-ae49-8dc6e1cf7257",
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        true,
+        ""
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "Yageo"
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "6c8302f6-8c7d-4cb2-b04f-e3ce9fa8b311",
+    "value": [
+        true,
+        "base 0402 capacitor"
+    ]
+}
