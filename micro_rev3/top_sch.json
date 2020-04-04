@@ -11077,16 +11077,16 @@
                         228750000
                     ]
                 },
+                "02c48047-f190-40e1-92dc-88980287b998": {
+                    "position": [
+                        212500000,
+                        231250000
+                    ]
+                },
                 "03471fb0-4128-4382-938a-231fc00f8a8f": {
                     "position": [
                         215000000,
                         162500000
-                    ]
-                },
-                "053773d3-13a0-486b-8be0-1bcb03f5cfe2": {
-                    "position": [
-                        212500000,
-                        231250000
                     ]
                 },
                 "05d19b06-7c92-4070-869a-cf7435025d5a": {
@@ -11753,8 +11753,8 @@
             "lines": {},
             "name": "power fixed",
             "net_labels": {
-                "36be18c0-1838-4e47-9754-bca1857aa44c": {
-                    "junction": "053773d3-13a0-486b-8be0-1bcb03f5cfe2",
+                "968f9807-8848-468d-8122-deb7783bcbe9": {
+                    "junction": "02c48047-f190-40e1-92dc-88980287b998",
                     "offsheet_refs": true,
                     "orientation": "left",
                     "size": 1500000
@@ -12493,18 +12493,6 @@
                         "pin": null
                     }
                 },
-                "3ba1f9b2-b8f6-41ce-9631-3c04fe61641f": {
-                    "from": {
-                        "bus_ripper": null,
-                        "junc": null,
-                        "pin": "b1662cc6-4afb-4562-a1ed-7b553d30e6b6/d6f33a21-4a8c-4ff6-b17f-d5890712bcdd"
-                    },
-                    "to": {
-                        "bus_ripper": null,
-                        "junc": "053773d3-13a0-486b-8be0-1bcb03f5cfe2",
-                        "pin": null
-                    }
-                },
                 "3c9c09f4-e951-40d0-acf3-3ea19c14afb9": {
                     "from": {
                         "bus_ripper": null,
@@ -12850,6 +12838,18 @@
                     "to": {
                         "bus_ripper": null,
                         "junc": "59fb9130-e0d4-48a9-8f33-30acbdc10b27",
+                        "pin": null
+                    }
+                },
+                "5b998f4e-386a-4275-b07c-e97ddf7795cc": {
+                    "from": {
+                        "bus_ripper": null,
+                        "junc": null,
+                        "pin": "b1662cc6-4afb-4562-a1ed-7b553d30e6b6/d6f33a21-4a8c-4ff6-b17f-d5890712bcdd"
+                    },
+                    "to": {
+                        "bus_ripper": null,
+                        "junc": "02c48047-f190-40e1-92dc-88980287b998",
                         "pin": null
                     }
                 },

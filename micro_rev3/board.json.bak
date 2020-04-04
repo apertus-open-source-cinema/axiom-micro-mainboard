@@ -13,7 +13,18 @@
             "r": 0.20000000298023224
         }
     },
-    "connection_lines": {},
+    "connection_lines": {
+        "4dd72c6d-b68d-4f2f-aee1-0f1dbf9147dc": {
+            "from": {
+                "junc": null,
+                "pad": "881427d3-ef78-41c3-98e5-7cce27612fbe/bfd6aa3f-c1a6-48d2-a7bd-740147f0e595"
+            },
+            "to": {
+                "junc": null,
+                "pad": "881427d3-ef78-41c3-98e5-7cce27612fbe/bfd6aa3f-c1a6-48d2-a7bd-740147f0e595"
+            }
+        }
+    },
     "dimensions": {},
     "fab_output_settings": {
         "drill_mode": "merged",
@@ -519,6 +530,22 @@
             "smashed": false,
             "texts": []
         },
+        "29711c1a-2490-4cc4-8563-7220e69cbb37": {
+            "component": "30296012-f400-412d-8475-8fd623a76dbe",
+            "fixed": false,
+            "flip": false,
+            "omit_silkscreen": false,
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    1600000,
+                    9530000
+                ]
+            },
+            "smashed": false,
+            "texts": []
+        },
         "2c704b1a-f195-4466-8dbc-b288f5adee43": {
             "component": "4c92c7c2-458c-40b4-a2ea-3b16f8d847f8",
             "fixed": false,
@@ -695,6 +722,22 @@
             "smashed": false,
             "texts": []
         },
+        "39034fcd-e60f-4396-93cb-ee7f76daae08": {
+            "component": "662a551d-ea9b-443d-9cdc-2fed4086476b",
+            "fixed": false,
+            "flip": false,
+            "omit_silkscreen": false,
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    39830000,
+                    -19760000
+                ]
+            },
+            "smashed": false,
+            "texts": []
+        },
         "3c600e85-435a-4187-b821-0e56691d0bf3": {
             "component": "d09a39e3-6278-4255-8a60-11d68e8aed41",
             "fixed": false,
@@ -834,6 +877,22 @@
                 "shift": [
                     -13680000,
                     7240000
+                ]
+            },
+            "smashed": false,
+            "texts": []
+        },
+        "46961960-b48f-4d54-b68d-253d261f2974": {
+            "component": "884d7735-c9f0-49f5-b4d0-bd7f17bbba43",
+            "fixed": false,
+            "flip": false,
+            "omit_silkscreen": false,
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    1850000,
+                    21060000
                 ]
             },
             "smashed": false,
@@ -1074,6 +1133,22 @@
                 "shift": [
                     20340000,
                     -5060000
+                ]
+            },
+            "smashed": false,
+            "texts": []
+        },
+        "57041d4a-bdcb-4ad8-814f-336e2e4be7f2": {
+            "component": "cdeb7abf-e4d8-4855-9ae1-f9e702d392c1",
+            "fixed": false,
+            "flip": false,
+            "omit_silkscreen": false,
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    35990000,
+                    -19070000
                 ]
             },
             "smashed": false,
@@ -3285,7 +3360,7 @@
         }
     },
     "step_export_settings": {
-        "filename": "/data/projects/axiom/μ/mechanical/pcbs/r3.step",
+        "filename": "",
         "include_3d_models": true,
         "prefix": ""
     },
