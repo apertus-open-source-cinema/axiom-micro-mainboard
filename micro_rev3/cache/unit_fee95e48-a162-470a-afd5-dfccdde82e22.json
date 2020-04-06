@@ -1,0 +1,168 @@
+{
+    "manufacturer": "Lattice",
+    "name": "LFE5UM5G-45F-8BG381C Bank 8",
+    "pins": {
+        "083e1b56-4002-4f91-813b-8ab2dc48db79": {
+            "direction": "bidirectional",
+            "names": [
+                "MCLK/SCK"
+            ],
+            "primary_name": "CCLK",
+            "swap_group": 0
+        },
+        "0ea67180-6275-417d-8f8a-9a20f2f1e81e": {
+            "direction": "bidirectional",
+            "names": [
+                "D1/MISO/IO1"
+            ],
+            "primary_name": "PB11A",
+            "swap_group": 0
+        },
+        "32784c04-8c33-4964-80b8-f0a6defa2eea": {
+            "direction": "bidirectional",
+            "names": [
+                "D5/MISO2/IO5"
+            ],
+            "primary_name": "PB6A",
+            "swap_group": 0
+        },
+        "3cb8c133-5d03-4583-a02a-ccc15029f3e4": {
+            "direction": "bidirectional",
+            "names": [
+                "D6/IO6"
+            ],
+            "primary_name": "PB4B",
+            "swap_group": 0
+        },
+        "45beddbf-194b-4f6f-8af1-bd89d12e5958": {
+            "direction": "bidirectional",
+            "names": [
+                "WRITEN"
+            ],
+            "primary_name": "PB18A",
+            "swap_group": 0
+        },
+        "46e5eb54-aece-4266-b942-86de16f99515": {
+            "direction": "bidirectional",
+            "names": [
+                "D4/MOSI2/IO4"
+            ],
+            "primary_name": "PB6B",
+            "swap_group": 0
+        },
+        "6b5ff462-c524-4933-b0fe-7a6966a8bf6f": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "DONE",
+            "swap_group": 0
+        },
+        "7eae59eb-baf5-4bbc-bba1-cbdd30f1d071": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "CFG_1",
+            "swap_group": 0
+        },
+        "8aaa5245-74f6-4e49-bb87-6385033e4e2e": {
+            "direction": "bidirectional",
+            "names": [
+                "D2/IO2"
+            ],
+            "primary_name": "PB9B",
+            "swap_group": 0
+        },
+        "8f106a92-237b-4a74-8216-15932c79576c": {
+            "direction": "bidirectional",
+            "names": [
+                "HOLDN/DI/BUSY/CSSPIN/CEN"
+            ],
+            "primary_name": "PB15A",
+            "swap_group": 0
+        },
+        "9caa46bb-413a-463c-851d-9247ddadc333": {
+            "direction": "bidirectional",
+            "names": [
+                "CS1N"
+            ],
+            "primary_name": "PB13B",
+            "swap_group": 0
+        },
+        "9dd2929a-2e02-4c43-a584-18dd72e8ffa8": {
+            "direction": "bidirectional",
+            "names": [
+                "SN/CSN"
+            ],
+            "primary_name": "PB13A",
+            "swap_group": 0
+        },
+        "a6508f5e-b123-44ec-a45a-e42db5b8f114": {
+            "direction": "not_connected",
+            "names": [],
+            "primary_name": "NC",
+            "swap_group": 0
+        },
+        "a71c288b-0273-4124-ae5a-0d9c04022591": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "CFG_2",
+            "swap_group": 0
+        },
+        "b9b29121-379a-4283-a8ca-e399749dc333": {
+            "direction": "bidirectional",
+            "names": [
+                "D7/IO7"
+            ],
+            "primary_name": "PB4A",
+            "swap_group": 0
+        },
+        "bd271c22-0fa4-41b2-83df-a612147ca43f": {
+            "direction": "bidirectional",
+            "names": [
+                "DOUT/CSON"
+            ],
+            "primary_name": "PB15B",
+            "swap_group": 0
+        },
+        "c37056cb-cb6a-4bee-9225-182c41d2e628": {
+            "direction": "bidirectional",
+            "names": [
+                "D0/MOSI/IO0"
+            ],
+            "primary_name": "PB11B",
+            "swap_group": 0
+        },
+        "caf2783a-cec5-4618-a8a6-dd8b6de9436b": {
+            "direction": "bidirectional",
+            "names": [
+                "D3/IO3"
+            ],
+            "primary_name": "PB9A",
+            "swap_group": 0
+        },
+        "d0ca0d25-9518-4a52-bd27-2f8da84cbf31": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "PROGRAMN",
+            "swap_group": 0
+        },
+        "d7116aba-dfa6-4645-a6fa-88a357e5bf57": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "INITN",
+            "swap_group": 0
+        },
+        "fdec1b5d-28b7-4c9f-99ba-1c9e38e424dc": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "CFG_0",
+            "swap_group": 0
+        },
+        "ff5995bb-a164-466e-bc4c-41db15522b99": {
+            "direction": "not_connected",
+            "names": [],
+            "primary_name": "RESERVED",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "fee95e48-a162-470a-afd5-dfccdde82e22"
+}

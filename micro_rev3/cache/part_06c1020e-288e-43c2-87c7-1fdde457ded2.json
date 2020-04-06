@@ -1,0 +1,69 @@
+{
+    "MPN": [
+        false,
+        "W25Q16JVSSIQ "
+    ],
+    "datasheet": [
+        false,
+        "https://datasheet.octopart.com/W25Q16JVSSIQ-Winbond-datasheet-81825120.pdf"
+    ],
+    "description": [
+        false,
+        "16Mbit (Dual-; Quad-) SPI Flash"
+    ],
+    "entity": "8ff18622-65d1-47b6-b2d8-d88eded0e5d9",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Winbond"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "0932e22e-0cf7-46dc-b09c-4cc761a67608",
+    "pad_map": {
+        "17341892-a120-44e2-97ea-6e4f8e3d7da5": {
+            "gate": "290ea056-2d25-4411-a668-05c7e49eb1d9",
+            "pin": "724e581e-c01b-4bf8-a8a3-4df93ad312cb"
+        },
+        "29f18ab8-6cea-44fc-9bf5-4fb888f5245b": {
+            "gate": "290ea056-2d25-4411-a668-05c7e49eb1d9",
+            "pin": "999f6472-7c8c-4c72-82b8-85aa697dced1"
+        },
+        "3d725e25-0d60-46cb-a21f-82462d3ce156": {
+            "gate": "290ea056-2d25-4411-a668-05c7e49eb1d9",
+            "pin": "c0b85d0e-f386-4a7b-bef3-bc563657c037"
+        },
+        "51d7c05f-acae-46d5-9c26-2ea9d17bf7a8": {
+            "gate": "290ea056-2d25-4411-a668-05c7e49eb1d9",
+            "pin": "ff543b49-6a37-421a-b48f-a8415023f905"
+        },
+        "68b17b6f-ab52-4c2b-9389-c36d3c06eeef": {
+            "gate": "290ea056-2d25-4411-a668-05c7e49eb1d9",
+            "pin": "28140e38-ee13-4a8b-b177-073394bf2e64"
+        },
+        "6f82c7c4-9578-4cb0-a92c-8b09534d5dc9": {
+            "gate": "290ea056-2d25-4411-a668-05c7e49eb1d9",
+            "pin": "b288584a-c8a8-466a-baee-d4a22338d04c"
+        },
+        "82d773fb-4473-4bd9-a879-a6ca2756055c": {
+            "gate": "290ea056-2d25-4411-a668-05c7e49eb1d9",
+            "pin": "afe59983-6380-4044-b691-378481eb2af7"
+        },
+        "b9ad4acf-f78d-438d-8b7b-e83ee0f9cc19": {
+            "gate": "290ea056-2d25-4411-a668-05c7e49eb1d9",
+            "pin": "ce1d786c-a9ee-4a9b-839d-4d326c345b60"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "flash",
+        "ic",
+        "memory"
+    ],
+    "type": "part",
+    "uuid": "06c1020e-288e-43c2-87c7-1fdde457ded2",
+    "value": [
+        false,
+        ""
+    ]
+}

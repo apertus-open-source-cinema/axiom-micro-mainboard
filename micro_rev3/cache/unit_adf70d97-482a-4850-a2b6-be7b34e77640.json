@@ -1,0 +1,140 @@
+{
+    "manufacturer": "Lattice",
+    "name": "LFE5UM5G-45F-8BG381C Power",
+    "pins": {
+        "06863677-57a2-4439-a6fa-036ed4a6fe6e": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCCIO1",
+            "swap_group": 0
+        },
+        "49933254-eb07-46fa-8783-085fa834329a": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCCHTX0_D1CH0",
+            "swap_group": 0
+        },
+        "6217b8c3-edfb-4d57-86ea-f058f8c758fe": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCCHTX1_D0CH1",
+            "swap_group": 0
+        },
+        "62334d8c-097a-4351-89fa-ce58a6ea7e79": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCCAUXA0",
+            "swap_group": 0
+        },
+        "64c87688-8256-41dd-9e2b-bc374e0aa654": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCCHRX0_D0CH0",
+            "swap_group": 0
+        },
+        "6ec3f6a5-0b7c-41cd-bab5-f91df94eadb7": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCCHRX1_D1CH1",
+            "swap_group": 0
+        },
+        "6fe2c5ce-2bc6-497e-a28f-0e76cf1f37d7": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCC",
+            "swap_group": 0
+        },
+        "80231cb3-9445-4a81-9e29-65bcac55d7e3": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCCHRX0_D1CH0",
+            "swap_group": 0
+        },
+        "825ad1e1-7230-494f-b5a6-05557536f841": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCCIO7",
+            "swap_group": 0
+        },
+        "86b2e25e-0aa8-4db6-8791-cbe1dceeb921": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCCA1",
+            "swap_group": 0
+        },
+        "8851b370-9709-4beb-9e40-ea0d0ab3fb81": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCCA0",
+            "swap_group": 0
+        },
+        "891a27b8-a7bd-4bf2-b7bd-458489e062a1": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCCIO8",
+            "swap_group": 0
+        },
+        "901bac36-2098-4624-8915-44759577719d": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "9cebd264-f423-45a9-aa1b-843a12b11bd9": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCCHRX1_D0CH1",
+            "swap_group": 0
+        },
+        "a94e2235-45c5-484b-9d9c-d7f65e867c22": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCCIO2",
+            "swap_group": 0
+        },
+        "aea7e847-c905-480c-a777-40d165c59019": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCCAUX",
+            "swap_group": 0
+        },
+        "b603c663-dbc7-4a73-ba6f-d1991820f52e": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCCIO0",
+            "swap_group": 0
+        },
+        "cd9dd2ee-aa77-43f0-877c-a6b21f1a5f17": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCCIO3",
+            "swap_group": 0
+        },
+        "d565e01b-300e-4285-b8dc-86ec62e306a8": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCCAUXA1",
+            "swap_group": 0
+        },
+        "da67003a-b562-4236-bad3-22d63209c054": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCCHTX1_D1CH1",
+            "swap_group": 0
+        },
+        "e01f4201-f8f7-4a9c-8ab3-fe0f814c3fbe": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCCIO6",
+            "swap_group": 0
+        },
+        "e847f729-dda4-4123-aa69-5fa80120773e": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCCHTX0_D0CH0",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "adf70d97-482a-4850-a2b6-be7b34e77640"
+}

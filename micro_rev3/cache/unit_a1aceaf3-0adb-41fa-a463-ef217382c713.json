@@ -1,0 +1,60 @@
+{
+    "manufacturer": "Winbond",
+    "name": "W25Q16JVSSIQ ",
+    "pins": {
+        "28140e38-ee13-4a8b-b177-073394bf2e64": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "IO2",
+            "swap_group": 0
+        },
+        "724e581e-c01b-4bf8-a8a3-4df93ad312cb": {
+            "direction": "bidirectional",
+            "names": [
+                "IO1"
+            ],
+            "primary_name": "DO",
+            "swap_group": 0
+        },
+        "999f6472-7c8c-4c72-82b8-85aa697dced1": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "afe59983-6380-4044-b691-378481eb2af7": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "CLK",
+            "swap_group": 0
+        },
+        "b288584a-c8a8-466a-baee-d4a22338d04c": {
+            "direction": "bidirectional",
+            "names": [
+                "IO0"
+            ],
+            "primary_name": "DI",
+            "swap_group": 0
+        },
+        "c0b85d0e-f386-4a7b-bef3-bc563657c037": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "IO3",
+            "swap_group": 0
+        },
+        "ce1d786c-a9ee-4a9b-839d-4d326c345b60": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCC",
+            "swap_group": 0
+        },
+        "ff543b49-6a37-421a-b48f-a8415023f905": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "CS#",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "a1aceaf3-0adb-41fa-a463-ef217382c713"
+}

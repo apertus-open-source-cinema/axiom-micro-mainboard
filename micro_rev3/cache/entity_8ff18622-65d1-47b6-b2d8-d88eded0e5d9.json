@@ -1,0 +1,16 @@
+{
+    "gates": {
+        "290ea056-2d25-4411-a668-05c7e49eb1d9": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "a1aceaf3-0adb-41fa-a463-ef217382c713"
+        }
+    },
+    "manufacturer": "Winbond",
+    "name": "W25Q16JVSSIQ ",
+    "prefix": "U",
+    "tags": [],
+    "type": "entity",
+    "uuid": "8ff18622-65d1-47b6-b2d8-d88eded0e5d9"
+}

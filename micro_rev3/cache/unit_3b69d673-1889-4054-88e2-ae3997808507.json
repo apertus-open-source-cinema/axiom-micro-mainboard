@@ -1,0 +1,32 @@
+{
+    "manufacturer": "Lattice",
+    "name": "LFE5UM5G-45F-8BG381C Bank 40",
+    "pins": {
+        "41aa4d61-1102-4cc0-8da3-0d3cb4967d04": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "TDO",
+            "swap_group": 0
+        },
+        "8a11fdf4-6872-44ae-ae4c-830cf359815c": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "TDI",
+            "swap_group": 0
+        },
+        "c895e5b5-34e7-4b05-8fbb-c964dc44e905": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "TMS",
+            "swap_group": 0
+        },
+        "f346698d-7c13-4171-8f1a-b03f5300605a": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "TCK",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "3b69d673-1889-4054-88e2-ae3997808507"
+}

@@ -1,0 +1,222 @@
+{
+    "manufacturer": "Lattice",
+    "name": "LFE5UM5G-45F-8BG381C Bank 1",
+    "pins": {
+        "0149527e-7483-4e9f-bb18-59a349a9a944": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PT71A",
+            "swap_group": 0
+        },
+        "2540b493-9b88-448c-9605-45a5ce45979d": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PT80B",
+            "swap_group": 0
+        },
+        "2a2da986-dc0e-4cdd-9b1a-180db4f6c278": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PT83B",
+            "swap_group": 0
+        },
+        "2b8e3705-e7cb-4332-80a6-a119b0f9287c": {
+            "direction": "bidirectional",
+            "names": [
+                "GR_PCLK1_1"
+            ],
+            "primary_name": "PT47B",
+            "swap_group": 0
+        },
+        "30aeb8f2-5b84-4be6-bf58-e2f6a562bfb2": {
+            "direction": "bidirectional",
+            "names": [
+                "PCLKC1_0"
+            ],
+            "primary_name": "PT44B",
+            "swap_group": 0
+        },
+        "3377b388-6b4f-4625-b026-0ef6e7eb61a5": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PT69A",
+            "swap_group": 0
+        },
+        "3b074b36-e61f-44ab-88ba-ebd173ac0e33": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PT58B",
+            "swap_group": 0
+        },
+        "3cf4d7fc-4063-4b7c-9f8c-c945888344b7": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PT49B",
+            "swap_group": 0
+        },
+        "4d15ab81-c6ab-41a5-bafc-dcc77efe3277": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PT83A",
+            "swap_group": 0
+        },
+        "536a5982-34a3-4b1a-9936-d36145af4ba8": {
+            "direction": "bidirectional",
+            "names": [
+                "URC_GPLL1T_IN"
+            ],
+            "primary_name": "PT85A",
+            "swap_group": 0
+        },
+        "5f86eff1-19d5-4643-9a32-3cccacc5beae": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PT49A",
+            "swap_group": 0
+        },
+        "6a46ab82-747b-4b97-b5d6-4be9cc527b24": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PT53A",
+            "swap_group": 0
+        },
+        "73faabca-1be9-4845-abf1-13ffdeb721a0": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PT58A",
+            "swap_group": 0
+        },
+        "78ffc28b-faa5-4b92-9ccd-14ca98159c8a": {
+            "direction": "bidirectional",
+            "names": [
+                "URC_GPLL1C_IN"
+            ],
+            "primary_name": "PT85B",
+            "swap_group": 0
+        },
+        "79acb90c-6ff2-4718-a46b-547581c68f89": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PT71B",
+            "swap_group": 0
+        },
+        "7e92a252-2cd7-4706-9843-99104657ca33": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PT51A",
+            "swap_group": 0
+        },
+        "8046d125-37e7-48fa-a64f-b007d041d7e8": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PT78A",
+            "swap_group": 0
+        },
+        "8a8cef77-7765-4f2d-9034-47dd9dcbfc73": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PT56A",
+            "swap_group": 0
+        },
+        "8c267f69-a09a-49a3-9354-6075f1421d26": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PT78B",
+            "swap_group": 0
+        },
+        "971c8fed-3cf2-4c71-a80b-c6afb852026a": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PT56B",
+            "swap_group": 0
+        },
+        "98e685c0-703d-446c-b959-3b6abc9da33e": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PT74A",
+            "swap_group": 0
+        },
+        "9f8e5f1d-d3ad-462a-9607-c0a52a1801f6": {
+            "direction": "bidirectional",
+            "names": [
+                "PCLKC1_1"
+            ],
+            "primary_name": "PT42B",
+            "swap_group": 0
+        },
+        "a9a2f67d-e723-45c6-99eb-dd61c77b5e82": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PT76A",
+            "swap_group": 0
+        },
+        "abd04bde-cbe4-4fa6-b319-2250367b5c8a": {
+            "direction": "bidirectional",
+            "names": [
+                "PCLKT1_0"
+            ],
+            "primary_name": "PT44A",
+            "swap_group": 0
+        },
+        "ad032078-f9e4-45c2-ae53-c47f4c47d841": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PT80A",
+            "swap_group": 0
+        },
+        "ae5d488d-3cc6-4eb9-a013-d640021772db": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PT51B",
+            "swap_group": 0
+        },
+        "b2b900b9-21ab-4658-916c-c5938ca411a1": {
+            "direction": "bidirectional",
+            "names": [
+                "GR_PCLK1_0"
+            ],
+            "primary_name": "PT47A",
+            "swap_group": 0
+        },
+        "c49a2c2a-350f-4ec3-9a49-2d8f74dced11": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PT74B",
+            "swap_group": 0
+        },
+        "e0d3ad9c-fd41-456d-be98-e891c1444027": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PT67A",
+            "swap_group": 0
+        },
+        "eb04d0fc-cf02-4de0-963b-dc67eba0de21": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PT69B",
+            "swap_group": 0
+        },
+        "ee10f2ac-4842-4a98-baa8-a68c8530a2d5": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PT53B",
+            "swap_group": 0
+        },
+        "ef5dd2ad-f87f-48a9-aa03-fe0c3655773e": {
+            "direction": "bidirectional",
+            "names": [
+                "PCLKT1_1"
+            ],
+            "primary_name": "PT42A",
+            "swap_group": 0
+        },
+        "f89153cc-3260-461a-9215-1c3481050b8f": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PT76B",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "3b2a3a18-2960-4609-8846-96accece77ff"
+}

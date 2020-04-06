@@ -1,0 +1,16 @@
+{
+    "gates": {
+        "47bbd6f4-eec5-4491-a2e2-bf2a176434ae": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "9eb5f5c6-7b6a-4a14-904a-abf427004bd1"
+        }
+    },
+    "manufacturer": "CPL",
+    "name": "three-way-jumper",
+    "prefix": "JP",
+    "tags": [],
+    "type": "entity",
+    "uuid": "96f450de-0eb4-4994-9f6e-212425f90720"
+}

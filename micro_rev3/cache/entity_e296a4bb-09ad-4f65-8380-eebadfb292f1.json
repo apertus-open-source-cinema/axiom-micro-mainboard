@@ -1,0 +1,79 @@
+{
+    "gates": {
+        "01c38ebe-438d-4c9a-a708-b05f228a92f0": {
+            "name": "Bank 7",
+            "suffix": "Bank 7",
+            "swap_group": 0,
+            "unit": "3eb66d80-89cc-4dc5-a25b-20de135072fe"
+        },
+        "02433750-44ab-4693-ab15-1ec950061a3a": {
+            "name": "Bank 3",
+            "suffix": "Bank 3",
+            "swap_group": 0,
+            "unit": "7a5157cf-9c7e-4912-befa-cb94c110b5cb"
+        },
+        "0fa04f50-37c7-432b-8690-a69e70e3917d": {
+            "name": "Bank 6",
+            "suffix": "Bank 6",
+            "swap_group": 0,
+            "unit": "a56e9d21-de05-4c79-891a-d6147d52d05c"
+        },
+        "2d38ebfe-6ace-4f4d-b5f0-018bcbc258b5": {
+            "name": "Bank 8",
+            "suffix": "Bank 8",
+            "swap_group": 0,
+            "unit": "fee95e48-a162-470a-afd5-dfccdde82e22"
+        },
+        "3de1f7e9-d600-4c79-8f88-2fdc4afe04e4": {
+            "name": "Bank 1",
+            "suffix": "Bank 1",
+            "swap_group": 0,
+            "unit": "3b2a3a18-2960-4609-8846-96accece77ff"
+        },
+        "4b2d567f-1e9b-44f0-b0d3-0fc5bbf1e735": {
+            "name": "Bank 40",
+            "suffix": "Bank 40",
+            "swap_group": 0,
+            "unit": "3b69d673-1889-4054-88e2-ae3997808507"
+        },
+        "a30b7166-25dd-4840-b031-9c52a45cf4ce": {
+            "name": "Power",
+            "suffix": "Power",
+            "swap_group": 0,
+            "unit": "adf70d97-482a-4850-a2b6-be7b34e77640"
+        },
+        "c9d9eb00-352a-43a4-8a28-271a17322a41": {
+            "name": "Bank 2",
+            "suffix": "Bank 2",
+            "swap_group": 0,
+            "unit": "86f776b6-f0ae-4d2b-99fc-639e88e9b853"
+        },
+        "e7711495-c8a1-4f8d-b2ed-8c322245fc44": {
+            "name": "Bank 50",
+            "suffix": "Bank 50",
+            "swap_group": 0,
+            "unit": "20e1a03c-2781-4b08-b0e7-48489cc2c442"
+        },
+        "ee2e9049-1be4-4a21-852a-d86cf9c63515": {
+            "name": "Bank 51",
+            "suffix": "Bank 51",
+            "swap_group": 0,
+            "unit": "f2dbc0be-24f8-4272-8e61-1d2fda5fd9be"
+        },
+        "f17fc457-ff83-4710-ad37-6ff5ae53461e": {
+            "name": "Bank 0",
+            "suffix": "Bank 0",
+            "swap_group": 0,
+            "unit": "9ab4dad4-40f6-4e4b-a2cf-3d4260272fe9"
+        }
+    },
+    "manufacturer": "Lattice",
+    "name": "LFE5UM5G-45F-8BG381C",
+    "prefix": "U",
+    "tags": [
+        "fpga",
+        "ic"
+    ],
+    "type": "entity",
+    "uuid": "e296a4bb-09ad-4f65-8380-eebadfb292f1"
+}

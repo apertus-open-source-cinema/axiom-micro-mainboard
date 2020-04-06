@@ -1,0 +1,48 @@
+{
+    "MPN": [
+        false,
+        "three-way-jumper"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "Three way jumper 0603"
+    ],
+    "entity": "96f450de-0eb4-4994-9f6e-212425f90720",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "CPL"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "3bded62d-95db-4b46-8439-6111a3074e9b",
+    "pad_map": {
+        "0ea3d515-5cc0-4eac-986c-8df9bc238813": {
+            "gate": "47bbd6f4-eec5-4491-a2e2-bf2a176434ae",
+            "pin": "a3fe033c-c53e-42ee-a141-208ef81b7d58"
+        },
+        "23cf674b-3da4-4b99-8503-a3b8a9b4aacf": {
+            "gate": "47bbd6f4-eec5-4491-a2e2-bf2a176434ae",
+            "pin": "71954e2d-45ea-4ce5-846c-763de4e0ab4d"
+        },
+        "83c9e0f5-0ac3-427b-a661-9684b65ed9a5": {
+            "gate": "47bbd6f4-eec5-4491-a2e2-bf2a176434ae",
+            "pin": "bfb0aabb-f6ad-4e34-a856-fad58697d35e"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "cpl",
+        "generic"
+    ],
+    "type": "part",
+    "uuid": "be1a71c9-a81e-4bdb-81fc-60df216fd220",
+    "value": [
+        false,
+        ""
+    ]
+}

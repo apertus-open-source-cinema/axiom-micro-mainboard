@@ -1,0 +1,27 @@
+{
+    "MPN": [
+        false,
+        "CPL-RES-0402-10K-0.063W"
+    ],
+    "base": "44fe0594-19d5-403e-9ae8-7c4c59c3668f",
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "CPL"
+    ],
+    "parametric": {
+        "pmax": "0.063",
+        "table": "resistors",
+        "value": "10000.0",
+        "tolerance": "1.0"
+    },
+    "tags": [
+        "cpl"
+    ],
+    "type": "part",
+    "uuid": "dea3597b-c64d-42da-af39-a2d7b91d0a5b",
+    "value": [
+        false,
+        "10 k\u03a9"
+    ]
+}

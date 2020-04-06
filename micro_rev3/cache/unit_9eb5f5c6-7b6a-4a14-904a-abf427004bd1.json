@@ -1,0 +1,26 @@
+{
+    "manufacturer": "CPL",
+    "name": "three-way-jumper",
+    "pins": {
+        "71954e2d-45ea-4ce5-846c-763de4e0ab4d": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "I2",
+            "swap_group": 0
+        },
+        "a3fe033c-c53e-42ee-a141-208ef81b7d58": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "I1",
+            "swap_group": 0
+        },
+        "bfb0aabb-f6ad-4e34-a856-fad58697d35e": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "O",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "9eb5f5c6-7b6a-4a14-904a-abf427004bd1"
+}
