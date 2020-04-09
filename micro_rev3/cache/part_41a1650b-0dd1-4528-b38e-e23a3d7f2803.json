@@ -1,0 +1,27 @@
+{
+    "MPN": [
+        false,
+        "CPL-CAP-X5R-0402-1UF-6.3V"
+    ],
+    "base": "29043bfd-c944-47cb-ae49-8dc6e1cf7257",
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "CPL"
+    ],
+    "parametric": {
+        "table": "capacitors",
+        "value": "1.000000e-06",
+        "wvdc": "6.3",
+        "type": "X5R"
+    },
+    "tags": [
+        "cpl"
+    ],
+    "type": "part",
+    "uuid": "41a1650b-0dd1-4528-b38e-e23a3d7f2803",
+    "value": [
+        false,
+        "1 \u00b5F"
+    ]
+}

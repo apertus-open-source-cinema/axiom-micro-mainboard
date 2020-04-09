@@ -1,0 +1,16 @@
+{
+    "gates": {
+        "3659abee-bcc9-42d9-abf1-16c1f70b3d56": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "8596df15-2ec4-4988-a44b-9a250943c926"
+        }
+    },
+    "manufacturer": "Micron",
+    "name": "MT41K512M16HA",
+    "prefix": "U",
+    "tags": [],
+    "type": "entity",
+    "uuid": "eba67847-1f33-409a-aab7-afe6da5be39a"
+}

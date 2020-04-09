@@ -1,0 +1,30 @@
+{
+    "MPN": [
+        false,
+        "CRCW0402xC"
+    ],
+    "base": "44fe0594-19d5-403e-9ae8-7c4c59c3668f",
+    "datasheet": [
+        false,
+        "http://www.vishay.com/docs/28773/crcwce3.pdf"
+    ],
+    "description": [
+        false,
+        "Thick Film Chip Resistor"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "Vishay"
+    ],
+    "model": "85fb3d9c-ad2a-4bf3-b2e1-adc2e2287a0b",
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "847545e1-6513-4cf3-9d53-94b0afa0da28",
+    "value": [
+        false,
+        ""
+    ]
+}

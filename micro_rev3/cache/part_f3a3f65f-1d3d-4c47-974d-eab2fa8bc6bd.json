@@ -1,0 +1,36 @@
+{
+    "MPN": [
+        false,
+        "C1005X7R1H103K050BE"
+    ],
+    "base": "58b92388-cb19-4e12-9c56-4cb3bf795304",
+    "datasheet": [
+        false,
+        "https://product.tdk.com/info/en/documents/chara_sheet/C1005X7R1H103K050BE.pdf"
+    ],
+    "description": [
+        false,
+        "Ceramic Capacitor 10 nF 50 V X7R"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        ""
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "parametric": {
+        "table": "capacitors",
+        "tolerance": "10",
+        "type": "X7R",
+        "value": "1.0000e-08",
+        "wvdc": "50.0"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "f3a3f65f-1d3d-4c47-974d-eab2fa8bc6bd",
+    "value": [
+        false,
+        "10 nF"
+    ]
+}
