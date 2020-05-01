@@ -1,0 +1,16 @@
+{
+    "gates": {
+        "bdd134af-7147-444b-888e-78598a6e645c": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "893c38ff-3ece-4856-9839-255e2126b00f"
+        }
+    },
+    "manufacturer": "",
+    "name": "axiom_shield_south",
+    "prefix": "A",
+    "tags": [],
+    "type": "entity",
+    "uuid": "77f0e9af-c64e-4fd6-9882-235bf81b346d"
+}

@@ -1,0 +1,81 @@
+{
+    "MPN": [
+        false,
+        "PTN5150AHX"
+    ],
+    "datasheet": [
+        false,
+        "https://www.nxp.com/docs/en/data-sheet/PTN5150A.pdf"
+    ],
+    "description": [
+        false,
+        "CC logic for USB Type-C applications"
+    ],
+    "entity": "ecce676c-6ba1-4bb2-bd25-065b664df0ff",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "NXP"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "018e67ed-daf5-47c4-8d31-3608f7668df5",
+    "pad_map": {
+        "3624babd-bed6-48f6-a2ea-4c57e5b2fa13": {
+            "gate": "1ac9ccdf-d644-4bc1-90d7-41797692b05b",
+            "pin": "be39fce0-d523-484d-932e-ce8f959d9553"
+        },
+        "3c755826-cee8-4a86-99f1-4d79d097f5eb": {
+            "gate": "1ac9ccdf-d644-4bc1-90d7-41797692b05b",
+            "pin": "a585621e-5918-4009-9167-70920d0440f7"
+        },
+        "483e3ca2-378c-488a-88bc-f7b0aba459e7": {
+            "gate": "1ac9ccdf-d644-4bc1-90d7-41797692b05b",
+            "pin": "ae4d5517-d2f2-4417-88bd-fb4f2b55d96d"
+        },
+        "56c0ab11-8813-42ca-859b-5b47b7d0f835": {
+            "gate": "1ac9ccdf-d644-4bc1-90d7-41797692b05b",
+            "pin": "e19d452c-bbc3-4f88-9d90-0b6e5fc85100"
+        },
+        "5b84d819-9864-4bbe-aa0b-370267599b20": {
+            "gate": "1ac9ccdf-d644-4bc1-90d7-41797692b05b",
+            "pin": "3d94904e-7c7a-496c-bb5e-d590ec2fb2d1"
+        },
+        "7551057b-a830-4027-9f36-f2f948625d3d": {
+            "gate": "1ac9ccdf-d644-4bc1-90d7-41797692b05b",
+            "pin": "d1113b02-b954-4e68-9211-8371f475e12e"
+        },
+        "78aa0df4-cc40-4fa1-a3a4-84a51d6ad380": {
+            "gate": "1ac9ccdf-d644-4bc1-90d7-41797692b05b",
+            "pin": "51daa822-f631-43e8-9de7-cabcd8ad8daf"
+        },
+        "83ad0525-3c0b-4b81-97e3-6b47e5ca3582": {
+            "gate": "1ac9ccdf-d644-4bc1-90d7-41797692b05b",
+            "pin": "d2a5b7b6-1b91-4ead-89fa-4febf2785dc6"
+        },
+        "93fe438f-4a58-4628-8a6e-d1968de45efd": {
+            "gate": "1ac9ccdf-d644-4bc1-90d7-41797692b05b",
+            "pin": "13655c70-a776-4e14-9883-3057f0df768b"
+        },
+        "c23b8c92-5fb2-405b-8d19-393da5780d73": {
+            "gate": "1ac9ccdf-d644-4bc1-90d7-41797692b05b",
+            "pin": "6f49cef2-b34b-432d-8521-68495aff606d"
+        },
+        "dcb8549d-09a6-48c3-b803-fd69294aea55": {
+            "gate": "1ac9ccdf-d644-4bc1-90d7-41797692b05b",
+            "pin": "f8b67e8e-bb9e-4074-8efa-3d451e0b7bd1"
+        },
+        "e7f2eb2c-e7f9-424c-806b-b4710c7625e3": {
+            "gate": "1ac9ccdf-d644-4bc1-90d7-41797692b05b",
+            "pin": "a3d4e109-b5d3-4877-8381-8bdc943c0b30"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "3e1ab493-29bd-42d9-9ab6-d9ea4bbae9ff",
+    "value": [
+        false,
+        ""
+    ]
+}

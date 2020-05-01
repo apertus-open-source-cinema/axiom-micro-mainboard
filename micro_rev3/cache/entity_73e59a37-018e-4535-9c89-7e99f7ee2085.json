@@ -1,0 +1,16 @@
+{
+    "gates": {
+        "50df369d-2e1e-4917-bbcf-79d9210f18cb": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "c903e010-00b0-4d95-b027-fe2aaa9c52e6"
+        }
+    },
+    "manufacturer": "",
+    "name": "axiom_micro_r3_image_sensor",
+    "prefix": "A",
+    "tags": [],
+    "type": "entity",
+    "uuid": "73e59a37-018e-4535-9c89-7e99f7ee2085"
+}

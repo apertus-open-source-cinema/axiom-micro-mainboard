@@ -1,0 +1,176 @@
+{
+    "manufacturer": "",
+    "name": "axiom_micro_r3_image_sensor",
+    "pins": {
+        "00034f86-aa3e-4e6b-84f5-9602ed471afc": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "O_0N",
+            "swap_group": 0
+        },
+        "02df50bb-3536-4dab-8a40-0084c869fafb": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "O_2N",
+            "swap_group": 0
+        },
+        "0c660367-35fe-4243-bc44-57ca27946974": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "GPIO1",
+            "swap_group": 0
+        },
+        "1261f7cc-1ce7-43b3-9e91-65a7cde1e5b5": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "GPIO0",
+            "swap_group": 0
+        },
+        "298e80b8-fd9d-4519-b582-56b501df6c58": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "I_0P",
+            "swap_group": 0
+        },
+        "2a2dce40-2da0-49aa-b669-3384ba43174f": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "O_5P",
+            "swap_group": 0
+        },
+        "37c94b6a-8b0c-4319-ab47-b61340e8fce8": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "I_0N",
+            "swap_group": 0
+        },
+        "38ae956f-f9c5-4c71-943f-cf3ac02678ac": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "O_1P",
+            "swap_group": 0
+        },
+        "4d8fdfaa-c6a0-4efb-883c-5420a3f1fdbe": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "SCL",
+            "swap_group": 0
+        },
+        "501d23a4-4b48-4387-9c5e-767658358f77": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "O_2P",
+            "swap_group": 0
+        },
+        "58073abc-feb3-4ab5-933d-a196e7ad6eec": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "SDA",
+            "swap_group": 0
+        },
+        "5836fed2-7862-43bc-af6d-0c936d001ad8": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "O_1N",
+            "swap_group": 0
+        },
+        "5928a1a3-e044-424e-8ddb-44aeb42f884f": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCC",
+            "swap_group": 0
+        },
+        "5e5e0662-56cb-4c15-be34-cb05d10a6272": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "O_6P",
+            "swap_group": 0
+        },
+        "7004dc2b-5124-4357-85c1-592305be4308": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "I_1N",
+            "swap_group": 0
+        },
+        "77467b30-1742-49a9-b6ba-592da68fd681": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "I_1P",
+            "swap_group": 0
+        },
+        "8badaa79-4053-4f80-9eed-66cdac616b42": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "5V",
+            "swap_group": 0
+        },
+        "943def12-6853-4b44-ad08-de929dafd142": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "O_0P",
+            "swap_group": 0
+        },
+        "a23fb228-770f-4529-8665-fc846546f18a": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "acd93321-ee31-493f-a282-76c9fb4dbd0f": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "O_3N",
+            "swap_group": 0
+        },
+        "acea70ac-82b5-4028-bcf4-33d2ced2a311": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCCIO",
+            "swap_group": 0
+        },
+        "b15f6d62-6f62-431b-8598-6a5d98278f24": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "O_4P",
+            "swap_group": 0
+        },
+        "b2b68a1b-52a1-4c05-bcaa-2f7750926b68": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "O_7N",
+            "swap_group": 0
+        },
+        "c2030bd0-9caa-433a-9d1a-9d205ba54b1a": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "O_4N",
+            "swap_group": 0
+        },
+        "d7fd9bfc-eb6c-457b-9836-868cdee450f8": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "O_7P",
+            "swap_group": 0
+        },
+        "dab5da89-f2f3-4e93-9e04-252807e87492": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "O_6N",
+            "swap_group": 0
+        },
+        "e8e388e3-590e-4ee4-af86-d18a0b507f9a": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "O_5N",
+            "swap_group": 0
+        },
+        "ec7a9e7c-ea9e-454f-8c9a-26102882c415": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "O_3P",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "c903e010-00b0-4d95-b027-fe2aaa9c52e6"
+}

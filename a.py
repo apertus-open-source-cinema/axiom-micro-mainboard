@@ -21,7 +21,7 @@ with open("./ECP5UM5G-45Pinout.csv") as f:
         if parts[2].isdigit():
            parts[2] = "Bank " + str(parts[2])
         if re.match(r"^P.*\d[ABCD]$", parts[1]):
-            print(parts[1], parts[2])
+            # print(parts[1], parts[2])
             dir = "bidirectional"
         if re.match(r"^REFCLK.*\d$", parts[1]):
             dir = "input"
@@ -62,6 +62,6 @@ with open("./ECP5UM5G-45Pinout.csv") as f:
 
 
 
-#        print(",".join([parts[-2], parts[1], dir, parts[2], parts[3]]))
+        print(",".join([parts[-2], parts[1], dir, parts[2], parts[3]]))
         # PAD,Pin/Ball Function,Bank,Dual Function,Differential,High Speed,DQS,CABGA381,CSFBGA285
         # pad,pin,direction,gate,alt1,alt2,..

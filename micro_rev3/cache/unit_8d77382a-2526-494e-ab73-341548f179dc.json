@@ -1,0 +1,88 @@
+{
+    "manufacturer": "NXP",
+    "name": "PTN5150AHX",
+    "pins": {
+        "13655c70-a776-4e14-9883-3057f0df768b": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "CC1",
+            "swap_group": 0
+        },
+        "3d94904e-7c7a-496c-bb5e-d590ec2fb2d1": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "CC2",
+            "swap_group": 0
+        },
+        "51daa822-f631-43e8-9de7-cabcd8ad8daf": {
+            "direction": "bidirectional",
+            "names": [
+                "CON_DET"
+            ],
+            "primary_name": "ADR",
+            "swap_group": 0
+        },
+        "6f49cef2-b34b-432d-8521-68495aff606d": {
+            "direction": "bidirectional",
+            "names": [
+                "OUT2"
+            ],
+            "primary_name": "SCL",
+            "swap_group": 0
+        },
+        "a3d4e109-b5d3-4877-8381-8bdc943c0b30": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "ID",
+            "swap_group": 0
+        },
+        "a585621e-5918-4009-9167-70920d0440f7": {
+            "direction": "output",
+            "names": [
+                "OUT3"
+            ],
+            "primary_name": "INTB",
+            "swap_group": 0
+        },
+        "ae4d5517-d2f2-4417-88bd-fb4f2b55d96d": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "EXT_SEL",
+            "swap_group": 0
+        },
+        "be39fce0-d523-484d-932e-ce8f959d9553": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "d1113b02-b954-4e68-9211-8371f475e12e": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "VBUS_DET",
+            "swap_group": 0
+        },
+        "d2a5b7b6-1b91-4ead-89fa-4febf2785dc6": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "PORT",
+            "swap_group": 0
+        },
+        "e19d452c-bbc3-4f88-9d90-0b6e5fc85100": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDD",
+            "swap_group": 0
+        },
+        "f8b67e8e-bb9e-4074-8efa-3d451e0b7bd1": {
+            "direction": "bidirectional",
+            "names": [
+                "OUT1"
+            ],
+            "primary_name": "SDA",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "8d77382a-2526-494e-ab73-341548f179dc"
+}
