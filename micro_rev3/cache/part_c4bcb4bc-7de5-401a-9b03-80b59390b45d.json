@@ -1,0 +1,57 @@
+{
+    "MPN": [
+        false,
+        "FPF1048BUCX"
+    ],
+    "datasheet": [
+        false,
+        "https://www.onsemi.com/pub/Collateral/FPF1048-D.pdf"
+    ],
+    "description": [
+        false,
+        "3 A-Capable, Slew-Rate-Controlled Load Switch with True Reverse Current Blocking"
+    ],
+    "entity": "04486afe-f487-44de-9302-bc9e27aba391",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "ON Semiconductor"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "1c13370d-451b-49b8-8197-36ff71e4d057",
+    "pad_map": {
+        "2a589f4f-216a-43ef-b025-469e16da1179": {
+            "gate": "931537e3-fb1b-409e-9c35-3907c85d3f2c",
+            "pin": "4f33c4f1-a2db-4338-a9b7-3174cfde65b1"
+        },
+        "2e8e40aa-1eb9-4723-b848-05e2cf66cc9f": {
+            "gate": "931537e3-fb1b-409e-9c35-3907c85d3f2c",
+            "pin": "f952349b-e1cf-44f0-8f4f-d36b5456c7e3"
+        },
+        "395ad9b5-f900-4bb0-bfb3-1f659aa44023": {
+            "gate": "931537e3-fb1b-409e-9c35-3907c85d3f2c",
+            "pin": "2e4d6295-9fee-4443-9bc3-bb9fc91678e4"
+        },
+        "60d98a4c-c354-4acd-ab5f-a96f5f9f4dbd": {
+            "gate": "931537e3-fb1b-409e-9c35-3907c85d3f2c",
+            "pin": "2e4d6295-9fee-4443-9bc3-bb9fc91678e4"
+        },
+        "bac60ee5-4eb9-4fcb-9553-69ae7fc76368": {
+            "gate": "931537e3-fb1b-409e-9c35-3907c85d3f2c",
+            "pin": "4f33c4f1-a2db-4338-a9b7-3174cfde65b1"
+        },
+        "e1c221f8-dc98-4ab5-85d6-f8f121d8d154": {
+            "gate": "931537e3-fb1b-409e-9c35-3907c85d3f2c",
+            "pin": "a783d73d-c5b1-4291-aed2-1b709f05c799"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "c4bcb4bc-7de5-401a-9b03-80b59390b45d",
+    "value": [
+        false,
+        ""
+    ]
+}

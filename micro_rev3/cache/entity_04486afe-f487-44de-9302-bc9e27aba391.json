@@ -1,0 +1,16 @@
+{
+    "gates": {
+        "931537e3-fb1b-409e-9c35-3907c85d3f2c": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "59e7b4cf-ed1d-4bd3-87ac-e35309e16c30"
+        }
+    },
+    "manufacturer": "ON Semiconductor",
+    "name": "FPF1048BUCX",
+    "prefix": "U",
+    "tags": [],
+    "type": "entity",
+    "uuid": "04486afe-f487-44de-9302-bc9e27aba391"
+}

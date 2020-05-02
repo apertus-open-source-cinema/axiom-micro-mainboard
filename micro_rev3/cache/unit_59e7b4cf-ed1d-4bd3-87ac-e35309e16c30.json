@@ -1,0 +1,32 @@
+{
+    "manufacturer": "ON Semiconductor",
+    "name": "FPF1048BUCX",
+    "pins": {
+        "2e4d6295-9fee-4443-9bc3-bb9fc91678e4": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "VOUT",
+            "swap_group": 0
+        },
+        "4f33c4f1-a2db-4338-a9b7-3174cfde65b1": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VIN",
+            "swap_group": 0
+        },
+        "a783d73d-c5b1-4291-aed2-1b709f05c799": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "f952349b-e1cf-44f0-8f4f-d36b5456c7e3": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "ON",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "59e7b4cf-ed1d-4bd3-87ac-e35309e16c30"
+}
