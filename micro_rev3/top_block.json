@@ -2202,7 +2202,7 @@
                     "net": "675a609b-62fd-4bc5-8126-fe560ff2b1df"
                 },
                 "f17fc457-ff83-4710-ad37-6ff5ae53461e/1ff4573a-8b68-4b1c-a2ab-447f92e32d11": {
-                    "net": "cb983ad3-8c22-4ee2-bc1e-9feb8a4985f3"
+                    "net": "2f25edd4-26b8-47c3-8b92-4f563ab73852"
                 },
                 "f17fc457-ff83-4710-ad37-6ff5ae53461e/31643ba6-e76b-41df-9cac-6b7ecae0e1ea": {
                     "net": "0d57b506-0cfa-4bf9-ae8a-cc93686d3f95"
@@ -3394,6 +3394,24 @@
             "pin_names": {},
             "refdes": "FB411",
             "tag": "e97b552f-d98a-41fa-a588-8f788fece5cf",
+            "value": ""
+        },
+        "38eeae26-ffd7-4220-b91b-6e658e9a70e3": {
+            "connections": {
+                "48af78e5-730e-44eb-977a-cf188e4fcb39/6a44037c-65e2-4876-9359-42890048841d": {
+                    "net": "5026b78c-c7fd-4620-a46a-b74aaf6219a5"
+                },
+                "48af78e5-730e-44eb-977a-cf188e4fcb39/dda0ec99-5d70-4fbe-a8db-897542e7554e": {
+                    "net": "24b73ae8-d7e7-47de-a438-823c876c802e"
+                }
+            },
+            "custom_pin_names": {},
+            "entity": "3ce770af-7be0-4f72-b2af-2c8010911aaf",
+            "group": "00000000-0000-0000-0000-000000000000",
+            "part": "dea3597b-c64d-42da-af39-a2d7b91d0a5b",
+            "pin_names": {},
+            "refdes": "R?",
+            "tag": "8f7e0d47-1258-4c74-b0fd-00a9600ccbb3",
             "value": ""
         },
         "3a4d5854-c943-4e24-8d01-97ebf480d559": {
@@ -4645,7 +4663,20 @@
             "value": ""
         },
         "6e46382a-851b-4371-ab95-599dc1dc0c45": {
-            "connections": {},
+            "connections": {
+                "df864358-ebd7-46ef-89e8-ccc999e10127/68e3fdf4-4cbc-4fd8-80c6-d3c030c10cfb": {
+                    "net": "34515ccc-94a5-44ae-85dd-f6c9fea0c97d"
+                },
+                "df864358-ebd7-46ef-89e8-ccc999e10127/a7f1181c-ad76-43e6-9bb8-d6ace733fb0c": {
+                    "net": "24b73ae8-d7e7-47de-a438-823c876c802e"
+                },
+                "df864358-ebd7-46ef-89e8-ccc999e10127/ed183799-5a07-417e-8f42-c8dff5937953": {
+                    "net": "2f25edd4-26b8-47c3-8b92-4f563ab73852"
+                },
+                "df864358-ebd7-46ef-89e8-ccc999e10127/f5295032-03de-4f17-9b65-14686a646746": {
+                    "net": "5026b78c-c7fd-4620-a46a-b74aaf6219a5"
+                }
+            },
             "custom_pin_names": {},
             "entity": "7c49dbfb-32ec-42b0-b08a-05d8f58e05a1",
             "group": "00000000-0000-0000-0000-000000000000",
@@ -5659,6 +5690,24 @@
             "tag": "dfa175b6-66c8-4c7e-ada5-5322ea66620f",
             "value": ""
         },
+        "8cf77e07-ddde-4a32-a51c-1a18d99ab635": {
+            "connections": {
+                "9bfcf213-2a7e-444e-8312-ce57209fc9ec/29995253-b4b1-4c7c-a049-b6db2713ca7c": {
+                    "net": "34515ccc-94a5-44ae-85dd-f6c9fea0c97d"
+                },
+                "9bfcf213-2a7e-444e-8312-ce57209fc9ec/852f1fe6-06dc-4661-8a14-61a9a6ebb26a": {
+                    "net": "5026b78c-c7fd-4620-a46a-b74aaf6219a5"
+                }
+            },
+            "custom_pin_names": {},
+            "entity": "ca83a84f-6183-4088-84b6-5d79b2a119d4",
+            "group": "00000000-0000-0000-0000-000000000000",
+            "part": "24eec3f0-adb0-4702-8ac9-13321082c45e",
+            "pin_names": {},
+            "refdes": "C?",
+            "tag": "04050d55-c4fa-4717-9a75-95c45fe872fc",
+            "value": ""
+        },
         "8e1a8dda-0283-4310-92ff-158f88f33e32": {
             "connections": {
                 "9bfcf213-2a7e-444e-8312-ce57209fc9ec/29995253-b4b1-4c7c-a049-b6db2713ca7c": {
@@ -6515,6 +6564,24 @@
             "pin_names": {},
             "refdes": "C711",
             "tag": "e029067b-02b5-41c7-b6bc-73426c79300e",
+            "value": ""
+        },
+        "a789062f-a76f-4d23-b0bd-26a781882250": {
+            "connections": {
+                "48af78e5-730e-44eb-977a-cf188e4fcb39/6a44037c-65e2-4876-9359-42890048841d": {
+                    "net": "24b73ae8-d7e7-47de-a438-823c876c802e"
+                },
+                "48af78e5-730e-44eb-977a-cf188e4fcb39/dda0ec99-5d70-4fbe-a8db-897542e7554e": {
+                    "net": "34515ccc-94a5-44ae-85dd-f6c9fea0c97d"
+                }
+            },
+            "custom_pin_names": {},
+            "entity": "3ce770af-7be0-4f72-b2af-2c8010911aaf",
+            "group": "00000000-0000-0000-0000-000000000000",
+            "part": "dea3597b-c64d-42da-af39-a2d7b91d0a5b",
+            "pin_names": {},
+            "refdes": "R?",
+            "tag": "8f7e0d47-1258-4c74-b0fd-00a9600ccbb3",
             "value": ""
         },
         "a792fd9b-d35d-48ed-82ae-f7cad13191c4": {
@@ -9738,6 +9805,13 @@
             "power_symbol_name_visible": true,
             "power_symbol_style": "gnd"
         },
+        "24b73ae8-d7e7-47de-a438-823c876c802e": {
+            "is_power": false,
+            "name": "",
+            "net_class": "bfde78d3-fdc8-4a70-9a18-8c05d6df3c67",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "gnd"
+        },
         "24fe4826-5a69-453b-9130-178d31caa4b1": {
             "is_power": false,
             "name": "",
@@ -9853,6 +9927,13 @@
         "2f044418-ebb5-4d4d-b2bf-dd91dcc2be20": {
             "is_power": false,
             "name": "DDR_S3",
+            "net_class": "bfde78d3-fdc8-4a70-9a18-8c05d6df3c67",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "gnd"
+        },
+        "2f25edd4-26b8-47c3-8b92-4f563ab73852": {
+            "is_power": false,
+            "name": "ECP_CLK25",
             "net_class": "bfde78d3-fdc8-4a70-9a18-8c05d6df3c67",
             "power_symbol_name_visible": true,
             "power_symbol_style": "gnd"
@@ -11638,13 +11719,6 @@
         "cb71a43a-5c23-499c-8315-57a9b4bda94e": {
             "is_power": false,
             "name": "Z_LVDS_1P",
-            "net_class": "bfde78d3-fdc8-4a70-9a18-8c05d6df3c67",
-            "power_symbol_name_visible": true,
-            "power_symbol_style": "gnd"
-        },
-        "cb983ad3-8c22-4ee2-bc1e-9feb8a4985f3": {
-            "is_power": false,
-            "name": "",
             "net_class": "bfde78d3-fdc8-4a70-9a18-8c05d6df3c67",
             "power_symbol_name_visible": true,
             "power_symbol_style": "gnd"
