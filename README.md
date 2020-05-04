@@ -4,7 +4,7 @@
 
 r3 is a complete redesign of the previous revisions, with massively extended capabilities and complexity :)
 
-With reduced functionality (no LVDS connections to the plugin modules and shield) it is usable even without the Z-turn lite board.
+With reduced functionality (no LVDS connections to the plugin modules and shield) it is usable even without the Z-turn lite board. If the Z-turn lite is connected the plugin module slots become functional.
 
 The pcb is designed using [horizon](https://github.com/horizon-eda/horizon), most parts used by us are located in [our fork](https://github.com/apertus-open-source-cinema/horizon-pool) of the horizon pool.
 
