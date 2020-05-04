@@ -12,7 +12,7 @@
         "axiom micro r3 image sensor board"
     ],
     "entity": "73e59a37-018e-4535-9c89-7e99f7ee2085",
-    "inherit_model": true,
+    "inherit_model": false,
     "inherit_tags": false,
     "manufacturer": [
         false,
@@ -35,7 +35,7 @@
         },
         "18c14e1c-1efc-495f-b3a2-04222d1075e3": {
             "gate": "50df369d-2e1e-4917-bbcf-79d9210f18cb",
-            "pin": "5928a1a3-e044-424e-8ddb-44aeb42f884f"
+            "pin": "8badaa79-4053-4f80-9eed-66cdac616b42"
         },
         "2064f4d0-455a-420e-9baa-02eebdde051a": {
             "gate": "50df369d-2e1e-4917-bbcf-79d9210f18cb",
@@ -43,7 +43,7 @@
         },
         "2291a901-d24d-4568-b68b-31814b26a056": {
             "gate": "50df369d-2e1e-4917-bbcf-79d9210f18cb",
-            "pin": "8badaa79-4053-4f80-9eed-66cdac616b42"
+            "pin": "a23fb228-770f-4529-8665-fc846546f18a"
         },
         "2f69e2be-9a37-42c5-876a-a47da7b24bf6": {
             "gate": "50df369d-2e1e-4917-bbcf-79d9210f18cb",
@@ -95,7 +95,7 @@
         },
         "90f3aefa-b273-4c7b-a1ed-431a7f55dd7e": {
             "gate": "50df369d-2e1e-4917-bbcf-79d9210f18cb",
-            "pin": "5928a1a3-e044-424e-8ddb-44aeb42f884f"
+            "pin": "8badaa79-4053-4f80-9eed-66cdac616b42"
         },
         "940a992c-c211-403e-9f8e-f99aa3bdf864": {
             "gate": "50df369d-2e1e-4917-bbcf-79d9210f18cb",
@@ -155,11 +155,11 @@
         },
         "c60f08d1-3db2-4293-9846-f562dae0be75": {
             "gate": "50df369d-2e1e-4917-bbcf-79d9210f18cb",
-            "pin": "8badaa79-4053-4f80-9eed-66cdac616b42"
+            "pin": "a23fb228-770f-4529-8665-fc846546f18a"
         },
         "c724f166-48df-4ae7-9e5c-a6bc66b42266": {
             "gate": "50df369d-2e1e-4917-bbcf-79d9210f18cb",
-            "pin": "acea70ac-82b5-4028-bcf4-33d2ced2a311"
+            "pin": "5928a1a3-e044-424e-8ddb-44aeb42f884f"
         },
         "cf0ea3dd-f8c3-462e-aed2-fc1f64410789": {
             "gate": "50df369d-2e1e-4917-bbcf-79d9210f18cb",
