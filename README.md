@@ -1,4 +1,4 @@
-# AXIOM micro
+# AXIOM micro (revision 2)
 A cheap open source camera.
 
 While deveolping code for the AXIOM Beta, we wanted to have a cheap, working development
