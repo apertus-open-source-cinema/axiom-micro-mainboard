@@ -1,0 +1,99 @@
+{
+    "arcs": {},
+    "can_expand": false,
+    "junctions": {
+        "58611c04-5645-4592-916e-44f9755eb542": {
+            "position": [
+                -1250000,
+                0
+            ]
+        },
+        "8c35ba33-f1f1-4bbf-9947-586e8f21b8dc": {
+            "position": [
+                -3750000,
+                0
+            ]
+        },
+        "b0e31a34-f52e-4412-a110-137afb6943da": {
+            "position": [
+                1250000,
+                1250000
+            ]
+        },
+        "e3585424-a3b0-4291-8edd-22dfe2b02782": {
+            "position": [
+                3750000,
+                0
+            ]
+        },
+        "fc245e89-7376-44eb-9e58-88e69881b27f": {
+            "position": [
+                1250000,
+                0
+            ]
+        }
+    },
+    "lines": {
+        "3f3fc3c9-ed94-4053-9f4e-15c19f52ae68": {
+            "from": "fc245e89-7376-44eb-9e58-88e69881b27f",
+            "layer": 0,
+            "to": "e3585424-a3b0-4291-8edd-22dfe2b02782",
+            "width": 0
+        },
+        "6a11a190-1723-4466-9a6c-2e9420c53a6b": {
+            "from": "8c35ba33-f1f1-4bbf-9947-586e8f21b8dc",
+            "layer": 0,
+            "to": "58611c04-5645-4592-916e-44f9755eb542",
+            "width": 0
+        },
+        "7e8e1bbd-35b6-4596-b4b2-8e9d9fedcf4e": {
+            "from": "58611c04-5645-4592-916e-44f9755eb542",
+            "layer": 0,
+            "to": "b0e31a34-f52e-4412-a110-137afb6943da",
+            "width": 0
+        }
+    },
+    "name": "TS-1187A-C-E-B",
+    "pins": {
+        "31cf0421-4672-4ada-a761-5d5863f8369c": {
+            "decoration": {
+                "clock": false,
+                "dot": false,
+                "driver": "default",
+                "schmitt": false
+            },
+            "length": 2500000,
+            "name_orientation": "in_line",
+            "name_visible": false,
+            "orientation": "right",
+            "pad_visible": false,
+            "position": [
+                3750000,
+                0
+            ]
+        },
+        "7487aa21-185d-4b74-836a-62a84eb3fd39": {
+            "decoration": {
+                "clock": false,
+                "dot": false,
+                "driver": "default",
+                "schmitt": false
+            },
+            "length": 2500000,
+            "name_orientation": "in_line",
+            "name_visible": false,
+            "orientation": "left",
+            "pad_visible": false,
+            "position": [
+                -3750000,
+                0
+            ]
+        }
+    },
+    "polygons": {},
+    "text_placements": {},
+    "texts": {},
+    "type": "symbol",
+    "unit": "7008208d-a82a-411a-8af3-41e26ec5b46e",
+    "uuid": "58b12157-e9d5-4912-b889-cd3e61581fc8"
+}

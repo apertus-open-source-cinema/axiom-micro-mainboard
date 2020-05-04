@@ -1,0 +1,16 @@
+{
+    "gates": {
+        "c5734809-2f0c-4859-ba4f-6a6d0b7b6551": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "7008208d-a82a-411a-8af3-41e26ec5b46e"
+        }
+    },
+    "manufacturer": "XKB",
+    "name": "TS-1187A-C-E-B",
+    "prefix": "U",
+    "tags": [],
+    "type": "entity",
+    "uuid": "cee7a604-9c0e-41c8-bfb7-22b95a2eb65f"
+}

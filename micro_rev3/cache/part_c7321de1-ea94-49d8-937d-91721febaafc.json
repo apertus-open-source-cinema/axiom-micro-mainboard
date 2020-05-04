@@ -1,0 +1,52 @@
+{
+    "MPN": [
+        false,
+        "Generic Pin header 1×4, 2.54mm pitch, vertical"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        ""
+    ],
+    "entity": "64ffe153-20d8-4902-9321-1f18027cb84d",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "c7321de1-ea94-49d8-937d-91721febaafc",
+    "pad_map": {
+        "37ad2e38-76ac-4a0b-adf3-2500e30336a0": {
+            "gate": "a96a662e-2077-467f-9853-a01865f76ad6",
+            "pin": "aab503ca-26da-43ff-a268-cf0db0698910"
+        },
+        "7bc2147a-0234-41f6-ab65-444e57a43ce5": {
+            "gate": "a96a662e-2077-467f-9853-a01865f76ad6",
+            "pin": "423d0d6c-4330-417f-a6f0-267741d4c770"
+        },
+        "7de8ad61-d839-4bad-85e8-5b3d093d4d6c": {
+            "gate": "a96a662e-2077-467f-9853-a01865f76ad6",
+            "pin": "9c153b03-fb7b-4f99-a5ed-ca45d3ae512e"
+        },
+        "f4f2991b-d46c-492e-b2b6-beacc3120e00": {
+            "gate": "a96a662e-2077-467f-9853-a01865f76ad6",
+            "pin": "4b3e1234-17b7-41dc-af26-90574ec82303"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "generic",
+        "header"
+    ],
+    "type": "part",
+    "uuid": "c7321de1-ea94-49d8-937d-91721febaafc",
+    "value": [
+        false,
+        ""
+    ]
+}

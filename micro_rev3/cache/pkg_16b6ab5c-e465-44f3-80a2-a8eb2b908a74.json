@@ -1,0 +1,141 @@
+{
+    "arcs": {},
+    "default_model": "00000000-0000-0000-0000-000000000000",
+    "dimensions": {
+        "9e8b6a86-ff11-4d94-802f-58cd34ef7e62": {
+            "label_distance": 4000000,
+            "label_size": 1500000,
+            "mode": "distance",
+            "p0": [
+                3500000,
+                2250000
+            ],
+            "p1": [
+                3500000,
+                -2250000
+            ]
+        },
+        "a6bca0cd-33e3-4be8-b824-d4aecd8b2601": {
+            "label_distance": 4500000,
+            "label_size": 1500000,
+            "mode": "distance",
+            "p0": [
+                -3500000,
+                2250000
+            ],
+            "p1": [
+                3500000,
+                2250000
+            ]
+        },
+        "c877fede-80aa-43c5-a05f-ab932fe1cdf9": {
+            "label_distance": 1750000,
+            "label_size": 1500000,
+            "mode": "distance",
+            "p0": [
+                3500000,
+                1500000
+            ],
+            "p1": [
+                3500000,
+                -1500000
+            ]
+        },
+        "dd3a5f00-d52a-4d36-90a3-6c3b02addd32": {
+            "label_distance": 2500000,
+            "label_size": 1500000,
+            "mode": "distance",
+            "p0": [
+                -2500000,
+                2250000
+            ],
+            "p1": [
+                2500000,
+                2250000
+            ]
+        }
+    },
+    "junctions": {},
+    "keepouts": {},
+    "lines": {},
+    "manufacturer": "XKB",
+    "models": {},
+    "name": "TS-1187A",
+    "pads": {
+        "29b007c9-0634-4f25-a30b-dd394266b36e": {
+            "name": "C",
+            "padstack": "8e762581-e1b1-4fb4-81d3-7f8a1cabb97f",
+            "parameter_set": {
+                "corner_radius": 100000,
+                "pad_height": 750000,
+                "pad_width": 1000000
+            },
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -3000000,
+                    -1875000
+                ]
+            }
+        },
+        "6125812a-d61e-4d28-b103-a4e4f08a39fb": {
+            "name": "B",
+            "padstack": "8e762581-e1b1-4fb4-81d3-7f8a1cabb97f",
+            "parameter_set": {
+                "corner_radius": 100000,
+                "pad_height": 750000,
+                "pad_width": 1000000
+            },
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    3000000,
+                    1875000
+                ]
+            }
+        },
+        "9ec4e69b-334d-424b-90d3-c6b65d59151a": {
+            "name": "D",
+            "padstack": "8e762581-e1b1-4fb4-81d3-7f8a1cabb97f",
+            "parameter_set": {
+                "corner_radius": 100000,
+                "pad_height": 750000,
+                "pad_width": 1000000
+            },
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    3000000,
+                    -1875000
+                ]
+            }
+        },
+        "c1249600-154f-4311-ab15-273a6b2d1aa0": {
+            "name": "A",
+            "padstack": "8e762581-e1b1-4fb4-81d3-7f8a1cabb97f",
+            "parameter_set": {
+                "corner_radius": 100000,
+                "pad_height": 750000,
+                "pad_width": 1000000
+            },
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -3000000,
+                    1875000
+                ]
+            }
+        }
+    },
+    "parameter_program": "",
+    "parameter_set": {},
+    "polygons": {},
+    "tags": [],
+    "texts": {},
+    "type": "package",
+    "uuid": "16b6ab5c-e465-44f3-80a2-a8eb2b908a74"
+}

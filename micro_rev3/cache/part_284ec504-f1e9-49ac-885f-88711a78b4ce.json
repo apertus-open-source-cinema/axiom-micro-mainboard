@@ -1,0 +1,49 @@
+{
+    "MPN": [
+        false,
+        "TS-1187A-C-E-B"
+    ],
+    "datasheet": [
+        false,
+        "https://datasheet.lcsc.com/szlcsc/XKB-TS-1187A-C-E-A_C318887.pdf"
+    ],
+    "description": [
+        false,
+        "tactile switch"
+    ],
+    "entity": "cee7a604-9c0e-41c8-bfb7-22b95a2eb65f",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "XKB"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "16b6ab5c-e465-44f3-80a2-a8eb2b908a74",
+    "pad_map": {
+        "29b007c9-0634-4f25-a30b-dd394266b36e": {
+            "gate": "c5734809-2f0c-4859-ba4f-6a6d0b7b6551",
+            "pin": "31cf0421-4672-4ada-a761-5d5863f8369c"
+        },
+        "6125812a-d61e-4d28-b103-a4e4f08a39fb": {
+            "gate": "c5734809-2f0c-4859-ba4f-6a6d0b7b6551",
+            "pin": "7487aa21-185d-4b74-836a-62a84eb3fd39"
+        },
+        "9ec4e69b-334d-424b-90d3-c6b65d59151a": {
+            "gate": "c5734809-2f0c-4859-ba4f-6a6d0b7b6551",
+            "pin": "31cf0421-4672-4ada-a761-5d5863f8369c"
+        },
+        "c1249600-154f-4311-ab15-273a6b2d1aa0": {
+            "gate": "c5734809-2f0c-4859-ba4f-6a6d0b7b6551",
+            "pin": "7487aa21-185d-4b74-836a-62a84eb3fd39"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "284ec504-f1e9-49ac-885f-88711a78b4ce",
+    "value": [
+        false,
+        ""
+    ]
+}

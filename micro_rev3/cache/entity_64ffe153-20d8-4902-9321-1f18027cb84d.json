@@ -1,0 +1,1 @@
+{"type": "entity", "manufacturer": "", "prefix": "J", "name": "Generic 4 pin connector", "tags": ["connector", "generic"], "uuid": "64ffe153-20d8-4902-9321-1f18027cb84d", "gates": {"a96a662e-2077-467f-9853-a01865f76ad6": {"name": "Main", "suffix": "", "swap_group": 0, "unit": "14171785-b1b1-4e41-b673-df15164a2ed6"}}}

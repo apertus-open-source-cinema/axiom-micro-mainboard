@@ -1,0 +1,20 @@
+{
+    "manufacturer": "XKB",
+    "name": "TS-1187A-C-E-B",
+    "pins": {
+        "31cf0421-4672-4ada-a761-5d5863f8369c": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "B",
+            "swap_group": 0
+        },
+        "7487aa21-185d-4b74-836a-62a84eb3fd39": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "A",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "7008208d-a82a-411a-8af3-41e26ec5b46e"
+}
