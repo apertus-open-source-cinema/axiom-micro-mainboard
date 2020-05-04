@@ -1,0 +1,32 @@
+{
+    "MPN": [
+        false,
+        "150060GS75000"
+    ],
+    "base": "86ca09b4-ea0c-45a7-81d2-f9129d94a122",
+    "datasheet": [
+        false,
+        "http://katalog.we-online.de/led/datasheet/150060GS75000.pdf"
+    ],
+    "description": [
+        false,
+        "LED green clear 0603 SMD "
+    ],
+    "inherit_model": false,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "Würth Elektronik"
+    ],
+    "model": "4aa5e1f7-312d-4fc9-bfee-0d6048b581f1",
+    "parametric": {},
+    "tags": [
+        "green"
+    ],
+    "type": "part",
+    "uuid": "e027a60c-1830-4466-b1df-17cf70fac3d6",
+    "value": [
+        true,
+        "base 0603 led"
+    ]
+}
