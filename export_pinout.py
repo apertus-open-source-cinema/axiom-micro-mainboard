@@ -1,5 +1,6 @@
 import json
 from glob import glob
+from collections import defaultdict
 
 def load_from_cache(prefix):
     ret = {}
@@ -25,15 +26,27 @@ units = load_from_cache("unit")
 padstacks = load_from_cache("ps")
 
 
-for net_id, net in list(block["nets"].items())[:1]:
-    print(net_id)
-    print(net)
+# for net_id, net in list(block["nets"].items())[:1]:
+#     print(net_id)
+#     print(net)
 
-for component_id, component in list(block["components"].items())[:1]:
-    print(component_id)
-    print(component)
+zturn_name = "MYS-7Z010-L-C-S"
+plugin_module_name = "Axiom plugin module"
+image_sensor_name = "axiom_micro_r3_image_sensor"
+ecp_name = "LFE5UM5G-45F-8BG381C"
 
-for c in component["connections"]:
-    gate, pin = c.split("/")
-    unit = entities[component["entity"]]["gates"][gate]["unit"]
-    print(units[unit]["pins"][pin])
+nets = defaultdict([])
+
+for component_id, component in list(block["components"].items()):
+    entity = entities[component["entity"]]
+    # print("Component")
+    # print(component)
+    # print("Entity")
+    # print(entity)
+
+    print("Name:", entity["name"])
+    for connection_id, connection in component["connections"].items():
+        gate, pin = connection_id.split("/")
+        unit = entity["gates"][gate]["unit"]
+        print(units[unit]["pins"][pin])
+        print(connection)
