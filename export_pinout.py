@@ -27,11 +27,6 @@ units = load_from_cache("unit")
 packages = load_from_cache("pkg")
 padstacks = load_from_cache("ps")
 
-
-# for net_id, net in list(block["nets"].items())[:1]:
-#     print(net_id)
-#     print(net)
-
 zturn_name = "MYS-7Z010-L-C-S"
 plugin_module_name = "Axiom plugin module"
 image_sensor_name = "axiom_micro_r3_image_sensor"
@@ -57,16 +52,7 @@ for component_id, component in list(block["components"].items()):
     package = packages[part["package"]]
 
 
-    # print("Component")
-    # print(component)
-    # print("Entity")
-    # print(entity)
-    # print("Part")
-    # print(part)
-    # print("Package")
-    # print(package["pads"].keys())
-
-    # print("Name:", entity["name"])
+    pin_to_pad_map = { pad_map["pin"] : pad for pad, pad_map in part["pad_map"].items() }
 
     for connection_id, connection in component["connections"].items():
         net = connection["net"]
@@ -76,25 +62,5 @@ for component_id, component in list(block["components"].items()):
 
         gate, pin = connection_id.split("/")
         unit = entity["gates"][gate]["unit"]
-        # pin = units[unit]["pins"][pin]
-
-        for pad, pad_map in part["pad_map"].items():
-            if pin == pad_map["pin"]:
-                break
-
-        # print(connection)
-        # print(net)
-        # print(pad)
-
+        pad = pin_to_pad_map[pin]
         print(block["nets"][net]["name"], package["pads"][pad]["name"])
-
-        # print(entity["gates"][gate])
-        # print(units[unit])
-
-
-        # net_connection = {}
-        # net_connection["name"] = pin["primary_name"]
-        # nets[connection["net"]].append()
-
-        # print(units[unit]["pins"][pin])
-        # print(connection)
