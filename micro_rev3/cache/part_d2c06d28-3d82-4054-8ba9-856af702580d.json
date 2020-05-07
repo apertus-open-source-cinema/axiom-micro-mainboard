@@ -1,0 +1,41 @@
+{
+    "MPN": [
+        false,
+        "TPD1E10B06"
+    ],
+    "datasheet": [
+        false,
+        "http://www.ti.com/lit/gpn/tpd1e10b06"
+    ],
+    "description": [
+        false,
+        "Single-Channel ESD Protection Diode in 0402 Package"
+    ],
+    "entity": "2b5dc5af-6acc-4e6e-8342-5da1c08b6e29",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Texas Instruments"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "63746edb-1910-4378-b252-8d4d9bf34cd8",
+    "pad_map": {
+        "22a50871-a878-4f01-a634-1b19eb8db967": {
+            "gate": "5ab6b3cd-1ff3-4f8c-9743-dbcb5010bfbf",
+            "pin": "ffa8d022-70a7-4e62-9f82-9595da68a4a3"
+        },
+        "bf083993-7d71-4906-b476-7a027fcf5d2d": {
+            "gate": "5ab6b3cd-1ff3-4f8c-9743-dbcb5010bfbf",
+            "pin": "9228a270-6508-4b79-a91c-45c0ec99d4bd"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "d2c06d28-3d82-4054-8ba9-856af702580d",
+    "value": [
+        false,
+        ""
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "MPN": [
+        false,
+        "C1608JB0J226M080AC"
+    ],
+    "base": "1f7d1953-3796-4530-951b-ed671d8d36a0",
+    "datasheet": [
+        false,
+        "https://product.tdk.com/info/en/documents/chara_sheet/C1608JB0J226M080AC.pdf"
+    ],
+    "description": [
+        false,
+        "Ceramic Capacitor 22 \u00b5F 6.3 V X5R"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        ""
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "parametric": {
+        "table": "capacitors",
+        "tolerance": "20",
+        "type": "X5R",
+        "value": "2.2000e-05",
+        "wvdc": "6.3"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "c65d42f7-16db-46c1-b8f2-5e22e57e71b4",
+    "value": [
+        false,
+        "22 \u00b5F"
+    ]
+}

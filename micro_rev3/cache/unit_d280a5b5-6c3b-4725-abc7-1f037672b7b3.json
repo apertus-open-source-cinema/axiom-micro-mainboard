@@ -1,0 +1,20 @@
+{
+    "manufacturer": "Texas Instruments",
+    "name": "TPD1E10B06",
+    "pins": {
+        "9228a270-6508-4b79-a91c-45c0ec99d4bd": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "A",
+            "swap_group": 0
+        },
+        "ffa8d022-70a7-4e62-9f82-9595da68a4a3": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "B",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "d280a5b5-6c3b-4725-abc7-1f037672b7b3"
+}

@@ -1,0 +1,38 @@
+{
+    "manufacturer": "Texas Instruments",
+    "name": "TPD4E02B042",
+    "pins": {
+        "0242981e-4b77-46af-84f5-e17e03dccebb": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "IO2",
+            "swap_group": 0
+        },
+        "0daa5b4f-1317-41d1-8291-e2d69f87d9c6": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "IO3",
+            "swap_group": 0
+        },
+        "9d3fd815-0c8a-40ff-a819-af589915f27f": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "cf8b8430-5f54-48c8-8c57-2a258c26cfe1": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "IO1",
+            "swap_group": 0
+        },
+        "f7e4a597-fa57-419e-80b1-43ba220328c2": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "IO4",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "f04653fc-abb9-4f1a-9323-f190b485a095"
+}

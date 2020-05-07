@@ -1,0 +1,30 @@
+{
+    "MPN": [
+        false,
+        "CL 0603 Capacitor Base Part"
+    ],
+    "base": "436da8ee-a0a4-4ab4-ae41-10323bb580e5",
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        true,
+        ""
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "Samsung"
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "80ca3c5b-c9cd-4412-bd87-cde4b7bf0b7f",
+    "value": [
+        true,
+        "base 0402 capacitor"
+    ]
+}

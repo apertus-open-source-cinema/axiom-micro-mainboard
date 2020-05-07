@@ -1,0 +1,16 @@
+{
+    "gates": {
+        "5ab6b3cd-1ff3-4f8c-9743-dbcb5010bfbf": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "d280a5b5-6c3b-4725-abc7-1f037672b7b3"
+        }
+    },
+    "manufacturer": "Texas Instruments",
+    "name": "TPD1E10B06",
+    "prefix": "D",
+    "tags": [],
+    "type": "entity",
+    "uuid": "2b5dc5af-6acc-4e6e-8342-5da1c08b6e29"
+}

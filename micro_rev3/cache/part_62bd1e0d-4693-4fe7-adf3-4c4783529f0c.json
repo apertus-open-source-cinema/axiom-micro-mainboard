@@ -1,0 +1,57 @@
+{
+    "MPN": [
+        false,
+        "TPD4E02B042"
+    ],
+    "datasheet": [
+        false,
+        "http://www.ti.com/lit/gpn/tpd4e02b04"
+    ],
+    "description": [
+        false,
+        "4-Channel ESD Protection Diode for USB Type-C and HDMI 2.0"
+    ],
+    "entity": "6b1c667c-2c5b-44dd-ac3b-891894cab485",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Texas Instruments"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "7d761167-2769-4d7b-8a09-f77964843785",
+    "pad_map": {
+        "1b249347-ef1c-47cb-bc3a-c2eebfc519ed": {
+            "gate": "f42f085e-ab49-4ea3-8aee-874538330972",
+            "pin": "f7e4a597-fa57-419e-80b1-43ba220328c2"
+        },
+        "48d69548-8d01-4897-8640-12a0813f6af5": {
+            "gate": "f42f085e-ab49-4ea3-8aee-874538330972",
+            "pin": "0242981e-4b77-46af-84f5-e17e03dccebb"
+        },
+        "81462178-3554-446c-a859-e636b3d26af9": {
+            "gate": "f42f085e-ab49-4ea3-8aee-874538330972",
+            "pin": "9d3fd815-0c8a-40ff-a819-af589915f27f"
+        },
+        "9e8e5255-aa16-4367-93a0-96006ae8c17f": {
+            "gate": "f42f085e-ab49-4ea3-8aee-874538330972",
+            "pin": "0daa5b4f-1317-41d1-8291-e2d69f87d9c6"
+        },
+        "b3239931-294b-47af-ad3c-cb5e09fe0e11": {
+            "gate": "f42f085e-ab49-4ea3-8aee-874538330972",
+            "pin": "cf8b8430-5f54-48c8-8c57-2a258c26cfe1"
+        },
+        "bf3a9e95-820d-49d2-9b50-18e4f85d4b25": {
+            "gate": "f42f085e-ab49-4ea3-8aee-874538330972",
+            "pin": "9d3fd815-0c8a-40ff-a819-af589915f27f"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "62bd1e0d-4693-4fe7-adf3-4c4783529f0c",
+    "value": [
+        false,
+        ""
+    ]
+}

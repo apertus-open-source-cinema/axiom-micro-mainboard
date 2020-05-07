@@ -1,0 +1,43 @@
+{
+    "MPN": [
+        false,
+        "CL10A226MQ8NRN"
+    ],
+    "base": "80ca3c5b-c9cd-4412-bd87-cde4b7bf0b7f",
+    "datasheet": [
+        false,
+        "http://www.samsungsem.com/kr/support/product-search/mlcc/CL10A226MQ8NRND.jsp"
+    ],
+    "description": [
+        false,
+        "Ceramic Capacitor 22 \u00b5F 6.3 V X5R"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        ""
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "orderable_MPNs": {
+        "1dcaa88f-524b-45dc-9d83-381279a9ca5e": "CL10A226MQ8NRNE",
+        "32e571b3-5c17-4df4-b027-c1d756769b6d": "CL10A226MQ8NRNL",
+        "5e727813-ca8f-4835-ab1b-3ec2b28d31d6": "CL10A226MQ8NRNF",
+        "848cabb0-7646-494a-97a6-1de55b3175d7": "CL10A226MQ8NRNC",
+        "c457d662-ffa3-4526-b3d9-b3208c1b9ed8": "CL10A226MQ8NRND"
+    },
+    "parametric": {
+        "table": "capacitors",
+        "tolerance": "20",
+        "type": "X5R",
+        "value": "2.2000e-05",
+        "wvdc": "6.3"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "e5dbad9a-929e-48bf-b602-ca181c5c41f2",
+    "value": [
+        false,
+        "22 \u00b5F"
+    ]
+}
