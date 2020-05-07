@@ -1,0 +1,30 @@
+{
+    "MPN": [
+        false,
+        "CL 0402 Capacitor Base Part"
+    ],
+    "base": "29043bfd-c944-47cb-ae49-8dc6e1cf7257",
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        true,
+        ""
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "Samsung"
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "5f11876f-0433-45dc-a306-8f7d0f24e00c",
+    "value": [
+        true,
+        "base 0402 capacitor"
+    ]
+}

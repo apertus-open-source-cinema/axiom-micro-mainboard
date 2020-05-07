@@ -1,0 +1,41 @@
+{
+    "MPN": [
+        false,
+        "CL05B104KO5NNN"
+    ],
+    "base": "5f11876f-0433-45dc-a306-8f7d0f24e00c",
+    "datasheet": [
+        false,
+        "http://www.samsungsem.com/kr/support/product-search/mlcc/CL05B104KO5NNNC.jsp"
+    ],
+    "description": [
+        false,
+        "Ceramic Capacitor 100 nF 16 V X7R"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        ""
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "orderable_MPNs": {
+        "4c69301a-fcf8-4913-99d8-068e1636c8ef": "CL05B104KO5NNNC",
+        "73717b79-a770-458c-bfbc-1a660f5379fd": "CL05B104KO5NNNL",
+        "c00ae8e3-0235-4dee-9c96-f7dc420b38eb": "CL05B104KO5NNND"
+    },
+    "parametric": {
+        "table": "capacitors",
+        "tolerance": "10",
+        "type": "X7R",
+        "value": "1.0000e-07",
+        "wvdc": "16.0"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "d2660839-d26a-4b7d-8644-adf651a9826c",
+    "value": [
+        false,
+        "100 nF"
+    ]
+}

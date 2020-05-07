@@ -31529,6 +31529,25 @@
                     "symbol": "1f176305-dbe6-4349-a3c0-fe0927faaec4",
                     "texts": []
                 },
+                "88af0957-7e00-4520-8ab7-b8993000ab59": {
+                    "component": "8afda16e-4ab6-4cb3-bdaa-183c827e9025",
+                    "display_all_pads": false,
+                    "display_directions": false,
+                    "expand": 0,
+                    "gate": "9bfcf213-2a7e-444e-8312-ce57209fc9ec",
+                    "pin_display_mode": "selected_only",
+                    "placement": {
+                        "angle": 0,
+                        "mirror": false,
+                        "shift": [
+                            15000000,
+                            190000000
+                        ]
+                    },
+                    "smashed": false,
+                    "symbol": "1f176305-dbe6-4349-a3c0-fe0927faaec4",
+                    "texts": []
+                },
                 "8a32443b-a526-4c56-982b-d1c9c7606ef0": {
                     "component": "2f78d2c2-0492-42a5-b31e-d3b58a5e824a",
                     "display_all_pads": false,

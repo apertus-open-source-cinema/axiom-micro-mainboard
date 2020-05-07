@@ -1,0 +1,41 @@
+{
+    "MPN": [
+        false,
+        "CL05B103KB5NNN"
+    ],
+    "base": "5f11876f-0433-45dc-a306-8f7d0f24e00c",
+    "datasheet": [
+        false,
+        "http://www.samsungsem.com/kr/support/product-search/mlcc/CL05B103KB5NNND.jsp"
+    ],
+    "description": [
+        false,
+        "Ceramic Capacitor 10 nF 50 V X7R"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        ""
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "orderable_MPNs": {
+        "931f856f-a7cf-4e6c-b4e1-b86ce990e51b": "CL05B103KB5NNNC",
+        "96780989-fe33-4dde-a99c-2598af28b265": "CL05B103KB5NNN2",
+        "a4765463-aa8d-4284-8a2b-e61407d16b49": "CL05B103KB5NNND"
+    },
+    "parametric": {
+        "table": "capacitors",
+        "tolerance": "10",
+        "type": "X7R",
+        "value": "1.0000e-08",
+        "wvdc": "50.0"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "168c28aa-ebee-4ea6-92a5-b39708200d01",
+    "value": [
+        false,
+        "10 nF"
+    ]
+}
