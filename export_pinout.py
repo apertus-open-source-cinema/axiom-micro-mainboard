@@ -1,23 +1,9 @@
 import json
 from glob import glob
 from collections import defaultdict
+from horizon_util import load_schematic, load_from_cache
 
-def load_from_cache(prefix):
-    ret = {}
-
-    for f in glob("micro_rev3/cache/{}_*.json".format(prefix)):
-        obj = json.load(open(f))
-        ret[obj["uuid"]] = obj
-
-    return ret
-
-
-with open("micro_rev3/top_block.json") as f:
-    block = json.load(f)
-
-with open("micro_rev3/top_sch.json") as f:
-    sch = json.load(f)
-
+block, sch = load_schematic()
 
 entities = load_from_cache("entity")
 frames = load_from_cache("frame")

@@ -31586,25 +31586,6 @@
                     "symbol": "f9a76abf-a5e3-4213-84af-698643c95f8f",
                     "texts": []
                 },
-                "e0e93178-3d52-44d0-a265-590f40006483": {
-                    "component": "355391bb-6f57-457b-9258-e12b45eb27be",
-                    "display_all_pads": false,
-                    "display_directions": false,
-                    "expand": 0,
-                    "gate": "9bfcf213-2a7e-444e-8312-ce57209fc9ec",
-                    "pin_display_mode": "selected_only",
-                    "placement": {
-                        "angle": 0,
-                        "mirror": false,
-                        "shift": [
-                            113750000,
-                            168750000
-                        ]
-                    },
-                    "smashed": false,
-                    "symbol": "1f176305-dbe6-4349-a3c0-fe0927faaec4",
-                    "texts": []
-                },
                 "f6414487-0ce0-4e67-bb85-30057aeba2e4": {
                     "component": "2f78d2c2-0492-42a5-b31e-d3b58a5e824a",
                     "display_all_pads": false,
