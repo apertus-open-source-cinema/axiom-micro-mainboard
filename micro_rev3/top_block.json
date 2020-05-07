@@ -4684,6 +4684,48 @@
             "tag": "e719025a-3010-4be8-9ebb-fff215d65f98",
             "value": ""
         },
+        "4a18ac5b-e21f-499b-81d3-a252ff289dca": {
+            "connections": {
+                "7836f6da-f1cf-4d3f-a237-dd21f0fe92ff/1ce74c63-dad8-4bcc-bdae-6411dc232f5f": {
+                    "net": "34515ccc-94a5-44ae-85dd-f6c9fea0c97d"
+                },
+                "7836f6da-f1cf-4d3f-a237-dd21f0fe92ff/246f1395-7ce9-4382-92dc-d7542a370cfb": {
+                    "net": "34515ccc-94a5-44ae-85dd-f6c9fea0c97d"
+                },
+                "7836f6da-f1cf-4d3f-a237-dd21f0fe92ff/2c30ce0a-34d8-4f9f-baf3-fe9be3e46b01": {
+                    "net": "34515ccc-94a5-44ae-85dd-f6c9fea0c97d"
+                },
+                "7836f6da-f1cf-4d3f-a237-dd21f0fe92ff/3f99e449-dff8-4a6c-975c-0e04b340fba9": {
+                    "net": "88983b38-40ff-4b6f-b277-ec113ec24236"
+                },
+                "7836f6da-f1cf-4d3f-a237-dd21f0fe92ff/696f6464-33af-4904-875b-89b363dcd946": {
+                    "net": "fc9885e7-27bd-433a-b56f-2cb07257fa0e"
+                },
+                "7836f6da-f1cf-4d3f-a237-dd21f0fe92ff/75d3021d-c240-4852-a190-b42d169fd5f8": {
+                    "net": "ff21305f-3252-402d-b9ac-449d4d06573d"
+                },
+                "7836f6da-f1cf-4d3f-a237-dd21f0fe92ff/8607abba-2253-4c5c-9076-0ba6696ae4cc": {
+                    "net": "f3355a38-79c4-4dfa-8723-f89c18a4307b"
+                },
+                "7836f6da-f1cf-4d3f-a237-dd21f0fe92ff/b2a51b4c-77fa-40c4-b1d6-d6dae59fb542": {
+                    "net": "be4d1ca1-8cd9-499d-96c4-ef17e226ea21"
+                },
+                "7836f6da-f1cf-4d3f-a237-dd21f0fe92ff/ee6f673e-7fec-4a0a-b891-8c9701088138": {
+                    "net": "34515ccc-94a5-44ae-85dd-f6c9fea0c97d"
+                },
+                "7836f6da-f1cf-4d3f-a237-dd21f0fe92ff/fb24f9df-acf9-4f89-abc1-a2081e9a64fd": {
+                    "net": "5026b78c-c7fd-4620-a46a-b74aaf6219a5"
+                }
+            },
+            "custom_pin_names": {},
+            "entity": "45b75ac8-c03e-4fb3-99ff-6945399bd9e2",
+            "group": "00000000-0000-0000-0000-000000000000",
+            "part": "6c43f155-a4ea-4a62-92bc-7a0f51bee0ff",
+            "pin_names": {},
+            "refdes": "J302",
+            "tag": "fe5ead80-aad4-4964-9ba7-9dc5171c6102",
+            "value": ""
+        },
         "4aa94c4f-a724-4dc0-be4e-aa8ef1681359": {
             "connections": {
                 "9bfcf213-2a7e-444e-8312-ce57209fc9ec/29995253-b4b1-4c7c-a049-b6db2713ca7c": {
@@ -8290,30 +8332,6 @@
             "pin_names": {},
             "refdes": "C445",
             "tag": "9ab86ab8-49e1-4f2e-b2bd-4a20c3cdde82",
-            "value": ""
-        },
-        "a8260415-49bf-41d8-bad1-775201fa73bb": {
-            "connections": {
-                "a96a662e-2077-467f-9853-a01865f76ad6/423d0d6c-4330-417f-a6f0-267741d4c770": {
-                    "net": "fc9885e7-27bd-433a-b56f-2cb07257fa0e"
-                },
-                "a96a662e-2077-467f-9853-a01865f76ad6/4b3e1234-17b7-41dc-af26-90574ec82303": {
-                    "net": "88983b38-40ff-4b6f-b277-ec113ec24236"
-                },
-                "a96a662e-2077-467f-9853-a01865f76ad6/9c153b03-fb7b-4f99-a5ed-ca45d3ae512e": {
-                    "net": "f3355a38-79c4-4dfa-8723-f89c18a4307b"
-                },
-                "a96a662e-2077-467f-9853-a01865f76ad6/aab503ca-26da-43ff-a268-cf0db0698910": {
-                    "net": "ff21305f-3252-402d-b9ac-449d4d06573d"
-                }
-            },
-            "custom_pin_names": {},
-            "entity": "64ffe153-20d8-4902-9321-1f18027cb84d",
-            "group": "00000000-0000-0000-0000-000000000000",
-            "part": "c7321de1-ea94-49d8-937d-91721febaafc",
-            "pin_names": {},
-            "refdes": "J302",
-            "tag": "88b04750-515c-4190-b9ff-9ee576ace6b9",
             "value": ""
         },
         "a872f7cd-9223-42a5-b3cc-5ea97c21aee2": {
@@ -15026,7 +15044,8 @@
         "ed295a12-8d1f-4256-a92f-250324bf0e8b": "32",
         "f0131002-bb0c-4905-a0f2-d97ea4adeb1e": "62",
         "f49715ed-a66f-4acd-b65f-da5989a09069": "93",
-        "f7c685bc-32e7-445c-a6f5-c43f9cd37e1e": "4"
+        "f7c685bc-32e7-445c-a6f5-c43f9cd37e1e": "4",
+        "fe5ead80-aad4-4964-9ba7-9dc5171c6102": "90"
     },
     "uuid": "f051a8f6-38ab-4bb7-b28e-08462eb3be8e"
 }

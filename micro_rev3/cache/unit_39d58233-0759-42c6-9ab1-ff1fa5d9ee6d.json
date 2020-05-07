@@ -1,0 +1,68 @@
+{
+    "manufacturer": "",
+    "name": "Generic 2x5 1.27mm IDC header",
+    "pins": {
+        "1ce74c63-dad8-4bcc-bdae-6411dc232f5f": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "5",
+            "swap_group": 0
+        },
+        "246f1395-7ce9-4382-92dc-d7542a370cfb": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "3",
+            "swap_group": 0
+        },
+        "2c30ce0a-34d8-4f9f-baf3-fe9be3e46b01": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "7",
+            "swap_group": 0
+        },
+        "3f99e449-dff8-4a6c-975c-0e04b340fba9": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "6",
+            "swap_group": 0
+        },
+        "696f6464-33af-4904-875b-89b363dcd946": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "2",
+            "swap_group": 0
+        },
+        "75d3021d-c240-4852-a190-b42d169fd5f8": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "8",
+            "swap_group": 0
+        },
+        "8607abba-2253-4c5c-9076-0ba6696ae4cc": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "4",
+            "swap_group": 0
+        },
+        "b2a51b4c-77fa-40c4-b1d6-d6dae59fb542": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "10",
+            "swap_group": 0
+        },
+        "ee6f673e-7fec-4a0a-b891-8c9701088138": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "9",
+            "swap_group": 0
+        },
+        "fb24f9df-acf9-4f89-abc1-a2081e9a64fd": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "1",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "39d58233-0759-42c6-9ab1-ff1fa5d9ee6d"
+}

@@ -1,0 +1,16 @@
+{
+    "gates": {
+        "7836f6da-f1cf-4d3f-a237-dd21f0fe92ff": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "39d58233-0759-42c6-9ab1-ff1fa5d9ee6d"
+        }
+    },
+    "manufacturer": "",
+    "name": "Generic 2x5 1.27mm IDC header",
+    "prefix": "J",
+    "tags": [],
+    "type": "entity",
+    "uuid": "45b75ac8-c03e-4fb3-99ff-6945399bd9e2"
+}
