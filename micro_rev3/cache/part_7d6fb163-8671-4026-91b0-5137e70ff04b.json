@@ -1,0 +1,32 @@
+{
+    "MPN": [
+        false,
+        "RC 0603 Resistor Base Part"
+    ],
+    "base": "cbeda48c-7fb0-4cfb-a4de-d9672e8cc190",
+    "datasheet": [
+        false,
+        "http://www.samsungsem.com/kr/support/product-search/chip-resistor/__icsFiles/afieldfile/2019/01/21/RC_Spec_Sheet(1901).pdf"
+    ],
+    "description": [
+        false,
+        "Thick Film Chip Resistor"
+    ],
+    "entity": "3ce770af-7be0-4f72-b2af-2c8010911aaf",
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "Samsung"
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "package": "5267224e-79d4-4ff6-afe5-ee24f02f36a3",
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "7d6fb163-8671-4026-91b0-5137e70ff04b",
+    "value": [
+        true,
+        "base 0402 resistor"
+    ]
+}

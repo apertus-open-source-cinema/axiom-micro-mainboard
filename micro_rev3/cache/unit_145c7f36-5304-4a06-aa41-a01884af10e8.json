@@ -1,0 +1,38 @@
+{
+    "manufacturer": "Infineon",
+    "name": "IRPS5401MTRPBF LDO",
+    "pins": {
+        "1e4e9e48-dcaf-4b64-8f9a-0b478d10c157": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "FB_L",
+            "swap_group": 0
+        },
+        "538766ba-0de1-4fd2-8cc5-2fd467ee08ab": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "VO_LDO",
+            "swap_group": 0
+        },
+        "5d090394-488a-4bb1-96a3-5476b5b899c9": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "PG_L",
+            "swap_group": 0
+        },
+        "6e15d38f-b44f-4dfb-b814-1c12d0c9f90f": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "EN_L",
+            "swap_group": 0
+        },
+        "fc442b31-43ea-4f85-9025-a658e1873b3b": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VIN_LDO",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "145c7f36-5304-4a06-aa41-a01884af10e8"
+}

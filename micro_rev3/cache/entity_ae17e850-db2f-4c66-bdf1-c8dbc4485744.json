@@ -1,0 +1,46 @@
+{
+    "gates": {
+        "40ebac31-7c15-4d94-9f1e-d2004bdf49ce": {
+            "name": "Switcher A",
+            "suffix": "SWA",
+            "swap_group": 0,
+            "unit": "7af8ef0f-31a8-4f74-993c-ad0c813aa0c3"
+        },
+        "6975c38c-76f0-4d58-b9ef-03f09347da21": {
+            "name": "Switcher B",
+            "suffix": "SWB",
+            "swap_group": 0,
+            "unit": "c348f67f-b9bd-44f2-9334-1b46fb1c9257"
+        },
+        "a97720d4-7df6-4b8e-8a47-f8cab3a17c8c": {
+            "name": "Switcher D",
+            "suffix": "SWD",
+            "swap_group": 0,
+            "unit": "7d5d0eb6-8ef2-42a7-b9b9-c9a25edf56a2"
+        },
+        "b2173491-e29e-42ea-9ba2-298c4ad365be": {
+            "name": "LDO",
+            "suffix": "LDO",
+            "swap_group": 0,
+            "unit": "145c7f36-5304-4a06-aa41-a01884af10e8"
+        },
+        "eeadbbbb-bf10-457a-b308-156bff5d792c": {
+            "name": "Main",
+            "suffix": "MAIN",
+            "swap_group": 0,
+            "unit": "150a7c87-236b-4a3d-8cca-aa29528001ac"
+        },
+        "fc08a8e9-5003-4d38-8a31-552f81eefcb4": {
+            "name": "Switcher C",
+            "suffix": "SWC",
+            "swap_group": 0,
+            "unit": "f8cd6aa7-458c-45b8-87f2-996adcfa8f91"
+        }
+    },
+    "manufacturer": "Infineon",
+    "name": "IRPS5401MTRPBF",
+    "prefix": "U",
+    "tags": [],
+    "type": "entity",
+    "uuid": "ae17e850-db2f-4c66-bdf1-c8dbc4485744"
+}

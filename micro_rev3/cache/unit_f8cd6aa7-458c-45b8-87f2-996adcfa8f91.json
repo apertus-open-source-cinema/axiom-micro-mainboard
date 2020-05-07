@@ -1,0 +1,44 @@
+{
+    "manufacturer": "Infineon",
+    "name": "IRPS5401MTRPBF SWC",
+    "pins": {
+        "3b53500c-cb8e-48b5-927c-cac311bb1cc3": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "PG_C",
+            "swap_group": 0
+        },
+        "63c7e43d-322f-4bc6-90a1-bfc8c6ba31f9": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "BOOT_C",
+            "swap_group": 0
+        },
+        "6f253b04-97ab-4442-becf-fd2b9f51738b": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "PHASE_C",
+            "swap_group": 0
+        },
+        "a621dff8-4d71-490b-979a-81af81acb4ef": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "FB_C",
+            "swap_group": 0
+        },
+        "b52b26ac-1f9b-47cc-b487-1c2057ecb383": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "EN_C",
+            "swap_group": 0
+        },
+        "b9e0975e-a320-452b-b3db-f81e77520604": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VIN_C",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "f8cd6aa7-458c-45b8-87f2-996adcfa8f91"
+}

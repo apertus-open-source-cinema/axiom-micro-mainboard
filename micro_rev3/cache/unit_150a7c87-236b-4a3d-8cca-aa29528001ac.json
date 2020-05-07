@@ -1,0 +1,92 @@
+{
+    "manufacturer": "Infineon",
+    "name": "IRPS5401MTRPBF MAIN",
+    "pins": {
+        "096f64df-9da1-4ef3-94ba-136fc8dc79be": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "DATA",
+            "swap_group": 0
+        },
+        "0adcd99a-6b89-436e-95d4-d1f017c0e8ef": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "148b1ac3-64bb-42e7-b75b-4882387e189d": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "VDRV",
+            "swap_group": 0
+        },
+        "2eded71c-17fe-4354-be33-b23e2fc06a6d": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SYNC_CLK",
+            "swap_group": 0
+        },
+        "659b567c-34a6-4aee-93f4-2e37022eff05": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDDIO",
+            "swap_group": 0
+        },
+        "69a4c674-69b3-46f7-b724-a3ce8348e48f": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSUPPLY",
+            "swap_group": 0
+        },
+        "b8c99141-d5d2-4c1f-ba3f-f1e2d0e3fc3b": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "1V8",
+            "swap_group": 0
+        },
+        "c3184fcb-89a7-4809-918e-5b34239043b2": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "CLK",
+            "swap_group": 0
+        },
+        "cb5d2d60-765d-41ec-accd-543bcf6d1992": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "ADDR_PROT",
+            "swap_group": 0
+        },
+        "d1b656ee-be59-4d1f-bdd6-187045424c09": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "MTP",
+            "swap_group": 0
+        },
+        "d3ea0587-349d-4a5f-bc08-a70f69863bef": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "VCC",
+            "swap_group": 0
+        },
+        "defcc85e-4bc1-4919-88d1-a41f82a77d11": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "ALERT#",
+            "swap_group": 0
+        },
+        "eb2513d6-554f-44fa-929f-ddf0554497d9": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "AGND",
+            "swap_group": 0
+        },
+        "ed8aebc7-ddd4-4a66-a186-9479b7e1d014": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SLEEP#",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "150a7c87-236b-4a3d-8cca-aa29528001ac"
+}

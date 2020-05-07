@@ -1,0 +1,38 @@
+{
+    "MPN": [
+        false,
+        "ERJ-2RKF2400"
+    ],
+    "base": "7f3cde91-d80e-4fd9-9053-b6cbe78f31fd",
+    "datasheet": [
+        false,
+        "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C304.pdf"
+    ],
+    "description": [
+        false,
+        "Chip Resistor 240 \u2126 1% 0.1W"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        ""
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "orderable_MPNs": {
+        "f4082b3e-8f4d-4b81-a01b-be22346fce74": "ERJ-2RKF2400X"
+    },
+    "parametric": {
+        "pmax": "0.1",
+        "table": "resistors",
+        "tolerance": "1.0",
+        "value": "240.0"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "eac3d48b-8a35-4e97-8e8e-a2ce173fe40f",
+    "value": [
+        false,
+        "240 \u2126"
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "manufacturer": "Infineon",
+    "name": "IRPS5401MTRPBF SWD",
+    "pins": {
+        "370b32cd-dcc3-4a3b-84ad-6c10588294be": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "PHASE_D",
+            "swap_group": 0
+        },
+        "502bed52-dfcf-453a-a2ab-cc605710a080": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "PG_D",
+            "swap_group": 0
+        },
+        "5cd743bb-691c-4db1-97dd-777e53f1a8a5": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "EN_D",
+            "swap_group": 0
+        },
+        "6c427452-07ad-44bc-a0ef-dc36cc0dd784": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "FB_D",
+            "swap_group": 0
+        },
+        "7b11f80b-6872-4758-afa3-e85d62422cc5": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VIN_D",
+            "swap_group": 0
+        },
+        "e9dd5147-c3d3-48a8-9744-846e3e86fa1b": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "BOOT_D",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "7d5d0eb6-8ef2-42a7-b9b9-c9a25edf56a2"
+}
