@@ -690,22 +690,6 @@
             "smashed": false,
             "texts": []
         },
-        "149dc3a0-e219-401b-b2d0-3b0094ddaa78": {
-            "component": "8afda16e-4ab6-4cb3-bdaa-183c827e9025",
-            "fixed": false,
-            "flip": false,
-            "omit_silkscreen": false,
-            "placement": {
-                "angle": 0,
-                "mirror": false,
-                "shift": [
-                    56260000,
-                    -18200000
-                ]
-            },
-            "smashed": false,
-            "texts": []
-        },
         "1637f7ed-87c3-47c6-b52c-573c16bfd23a": {
             "component": "a9efd205-b71a-4451-bcf6-b94b94fb277c",
             "fixed": false,
@@ -1080,11 +1064,11 @@
             "flip": false,
             "omit_silkscreen": false,
             "placement": {
-                "angle": 49152,
+                "angle": 32768,
                 "mirror": false,
                 "shift": [
-                    14780000,
-                    -54070000
+                    12850000,
+                    -59510000
                 ]
             },
             "smashed": false,
@@ -1979,8 +1963,8 @@
                 "angle": 49152,
                 "mirror": false,
                 "shift": [
-                    20780000,
-                    -46070000
+                    20480000,
+                    -46140000
                 ]
             },
             "smashed": false,
@@ -2859,8 +2843,8 @@
                 "angle": 49152,
                 "mirror": false,
                 "shift": [
-                    15040000,
-                    -58310000
+                    12900000,
+                    -58180000
                 ]
             },
             "smashed": false,
@@ -4413,22 +4397,6 @@
                 "shift": [
                     67800000,
                     7920000
-                ]
-            },
-            "smashed": false,
-            "texts": []
-        },
-        "852be002-f313-4db8-8fb3-51d5fd940e8d": {
-            "component": "a2576054-257d-4263-b879-88a4c398f66d",
-            "fixed": false,
-            "flip": false,
-            "omit_silkscreen": false,
-            "placement": {
-                "angle": 0,
-                "mirror": false,
-                "shift": [
-                    86540000,
-                    -9630000
                 ]
             },
             "smashed": false,
@@ -7211,8 +7179,8 @@
                 "angle": 49152,
                 "mirror": false,
                 "shift": [
-                    17260000,
-                    -46380000
+                    17660000,
+                    -46160000
                 ]
             },
             "smashed": false,
@@ -7531,8 +7499,8 @@
                 "angle": 0,
                 "mirror": false,
                 "shift": [
-                    37413900,
-                    6754400
+                    33663900,
+                    7264400
                 ]
             },
             "smashed": false,
@@ -7883,8 +7851,8 @@
                 "angle": 49152,
                 "mirror": false,
                 "shift": [
-                    22790000,
-                    -58450000
+                    15430000,
+                    -57170000
                 ]
             },
             "smashed": false,
@@ -8663,7 +8631,7 @@
         "filename_bottom": "",
         "filename_merged": "",
         "filename_top": "",
-        "mode": "merged",
+        "mode": "individual",
         "output_directory": ""
     },
     "polygons": {

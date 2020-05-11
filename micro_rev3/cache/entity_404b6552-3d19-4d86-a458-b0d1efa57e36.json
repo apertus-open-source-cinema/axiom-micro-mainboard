@@ -1,0 +1,16 @@
+{
+    "gates": {
+        "001ed082-600b-4f0c-98a0-74f651aee2b9": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "a5209073-f69f-4662-9f8d-de648efd2189"
+        }
+    },
+    "manufacturer": "ST",
+    "name": "LD1117S12TR",
+    "prefix": "U",
+    "tags": [],
+    "type": "entity",
+    "uuid": "404b6552-3d19-4d86-a458-b0d1efa57e36"
+}
