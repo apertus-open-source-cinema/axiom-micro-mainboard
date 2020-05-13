@@ -1,0 +1,54 @@
+{
+    "MPN": [
+        false,
+        "SG5032"
+    ],
+    "datasheet": [
+        false,
+        "https://support.epson.biz/td/api/doc_check.php?dl=brief_SG3225EAN_en.pdf"
+    ],
+    "description": [
+        false,
+        "Crystal Oscillator"
+    ],
+    "entity": "5df48289-1fe0-4947-9799-01cf2353eec3",
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "EPSON"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "adcf3838-986a-4c3c-a324-b062cb1f9c61",
+    "pad_map": {
+        "0e7e8be0-aebc-4fad-b3ee-fa131da2cfc1": {
+            "gate": "42bff908-0dea-423c-9dab-e7d999becaa3",
+            "pin": "4af91d9c-b058-4f76-a063-de1f20273ac8"
+        },
+        "16e87464-e54c-471e-a227-052f788b1240": {
+            "gate": "42bff908-0dea-423c-9dab-e7d999becaa3",
+            "pin": "523ec775-e07b-4165-91c8-2ba3ece1d4b4"
+        },
+        "4fcdcfec-be2d-494a-8aa1-e2763816784c": {
+            "gate": "42bff908-0dea-423c-9dab-e7d999becaa3",
+            "pin": "37fe7855-2e8b-47e4-bf64-6bc0b3c3e619"
+        },
+        "5cd3dc98-30e9-433c-87e0-578c586db418": {
+            "gate": "42bff908-0dea-423c-9dab-e7d999becaa3",
+            "pin": "b481ccc7-46dc-4746-8387-dfdeaf819707"
+        },
+        "f704b7b9-0129-4ff5-8e07-714c9cf9daef": {
+            "gate": "42bff908-0dea-423c-9dab-e7d999becaa3",
+            "pin": "025e3810-290c-4f20-96ef-7e5445e4273b"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "oscillator"
+    ],
+    "type": "part",
+    "uuid": "fd88c547-2407-4be1-ad8f-ad799bebd61a",
+    "value": [
+        false,
+        ""
+    ]
+}

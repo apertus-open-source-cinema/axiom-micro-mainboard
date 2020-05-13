@@ -1,0 +1,18 @@
+{
+    "gates": {
+        "42bff908-0dea-423c-9dab-e7d999becaa3": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "f9022d8a-1cb4-4353-b244-72663758fe6b"
+        }
+    },
+    "manufacturer": "",
+    "name": "Oscillator with differential output and output enable",
+    "prefix": "U",
+    "tags": [
+        "oscillator"
+    ],
+    "type": "entity",
+    "uuid": "5df48289-1fe0-4947-9799-01cf2353eec3"
+}

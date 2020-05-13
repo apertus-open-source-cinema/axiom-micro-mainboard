@@ -1,0 +1,41 @@
+{
+    "MPN": [
+        false,
+        "CL10A225KO8NNN"
+    ],
+    "base": "80ca3c5b-c9cd-4412-bd87-cde4b7bf0b7f",
+    "datasheet": [
+        false,
+        "http://www.samsungsem.com/kr/support/product-search/mlcc/CL10A225KO8NNNC.jsp"
+    ],
+    "description": [
+        false,
+        "Ceramic Capacitor 2.2 \u00b5F 16 V X5R"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        ""
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "orderable_MPNs": {
+        "da37fadb-b2a4-40a6-8ab8-b7ee0a0baf1e": "CL10A225KO8NNNL",
+        "de8df113-6452-404d-8617-c80a585c34c2": "CL10A225KO8NNND",
+        "e5e0fcf5-2da6-4bfe-b13a-c5169c61000f": "CL10A225KO8NNNC"
+    },
+    "parametric": {
+        "table": "capacitors",
+        "tolerance": "10",
+        "type": "X5R",
+        "value": "2.2000e-06",
+        "wvdc": "16.0"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "147da013-b612-45cc-aa1c-c2a8b78a6765",
+    "value": [
+        false,
+        "2.2 \u00b5F"
+    ]
+}

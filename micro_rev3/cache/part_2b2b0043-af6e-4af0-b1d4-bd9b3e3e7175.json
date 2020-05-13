@@ -1,0 +1,36 @@
+{
+    "MPN": [
+        false,
+        "0402CG470J500NT"
+    ],
+    "base": "358d010d-72df-4b22-9b16-a7eab1672a04",
+    "datasheet": [
+        true,
+        "https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-0402B102K500NT_C1523.pdf"
+    ],
+    "description": [
+        true,
+        ""
+    ],
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        true,
+        "GUANGDONG FENGHUA"
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "parametric": {
+        "table": "capacitors",
+        "tolerance": "0.003",
+        "type": "C0G/NP0",
+        "value": "4.7e-11",
+        "wvdc": "50"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "2b2b0043-af6e-4af0-b1d4-bd9b3e3e7175",
+    "value": [
+        false,
+        "47 pF"
+    ]
+}

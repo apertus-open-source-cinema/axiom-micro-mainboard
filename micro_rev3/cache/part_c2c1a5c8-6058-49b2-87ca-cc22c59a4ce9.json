@@ -1,0 +1,40 @@
+{
+    "MPN": [
+        false,
+        "CL05B224KO5NNN"
+    ],
+    "base": "5f11876f-0433-45dc-a306-8f7d0f24e00c",
+    "datasheet": [
+        false,
+        "http://www.samsungsem.com/kr/support/product-search/mlcc/CL05B224KO5NNND.jsp"
+    ],
+    "description": [
+        false,
+        "Ceramic Capacitor 220 nF 16 V X7R"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        ""
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "orderable_MPNs": {
+        "a1f6e9e6-cbf4-4287-8f06-4a8ad0c75a9d": "CL05B224KO5NNNC",
+        "eb6edb22-51cc-43bd-b769-0fd3ae88757b": "CL05B224KO5NNND"
+    },
+    "parametric": {
+        "table": "capacitors",
+        "tolerance": "10",
+        "type": "X7R",
+        "value": "2.2000e-07",
+        "wvdc": "16.0"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "c2c1a5c8-6058-49b2-87ca-cc22c59a4ce9",
+    "value": [
+        false,
+        "220 nF"
+    ]
+}

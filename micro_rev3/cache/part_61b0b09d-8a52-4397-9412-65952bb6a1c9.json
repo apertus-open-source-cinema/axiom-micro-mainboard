@@ -1,0 +1,32 @@
+{
+    "MPN": [
+        false,
+        "SG5032VAN 200.000000M-KEGA3"
+    ],
+    "base": "fd88c547-2407-4be1-ad8f-ad799bebd61a",
+    "datasheet": [
+        true,
+        ""
+    ],
+    "description": [
+        false,
+        "Crystal Oscillator 100 MHz LVDS output"
+    ],
+    "entity": "5df48289-1fe0-4947-9799-01cf2353eec3",
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        "EPSON"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "adcf3838-986a-4c3c-a324-b062cb1f9c61",
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "61b0b09d-8a52-4397-9412-65952bb6a1c9",
+    "value": [
+        true,
+        "SG5032"
+    ]
+}
