@@ -1,0 +1,35 @@
+{
+    "MPN": [
+        false,
+        "0603WAF2400T5E"
+    ],
+    "base": "805c8823-4055-4b88-899e-67e1ba34898a",
+    "datasheet": [
+        true,
+        "https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF1102T5E_C25950.pdf"
+    ],
+    "description": [
+        false,
+        "CHIP RESISTOR - SURFACE MOUNT 240OHMS ±1% 1/10W 0603 ROHS"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        "Uniroyal Elec"
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "parametric": {
+        "pmax": "0.1",
+        "table": "resistors",
+        "tolerance": "1",
+        "value": "240"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "8d77855a-1949-4565-af4f-da644fb0c6e9",
+    "value": [
+        false,
+        "240"
+    ]
+}

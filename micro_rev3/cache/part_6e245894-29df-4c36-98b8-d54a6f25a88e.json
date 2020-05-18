@@ -1,0 +1,35 @@
+{
+    "MPN": [
+        false,
+        "0402WGF4701TCE"
+    ],
+    "base": "bfea7db9-7c05-4671-b6a2-dd73bf3f600e",
+    "datasheet": [
+        true,
+        "https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0402WGF100JTCE_C25077.pdf"
+    ],
+    "description": [
+        false,
+        "CHIP RESISTOR - SURFACE MOUNT 4.7KOHMS ±1% 1/16W 0402 ROHS"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        "Uniroyal Elec"
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "parametric": {
+        "pmax": "0.0625",
+        "table": "resistors",
+        "tolerance": "1",
+        "value": "4700"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "6e245894-29df-4c36-98b8-d54a6f25a88e",
+    "value": [
+        false,
+        "4.7k"
+    ]
+}

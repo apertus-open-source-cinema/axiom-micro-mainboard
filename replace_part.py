@@ -25,7 +25,22 @@ from horizon_util import load_schematic, save_schematic, load_from_cache
 # from_id = ["25bca914-4df8-415c-8614-ecec0326b359"]
 
 # 2.2uF 0603 tdk
-from_id = ["f6e8e98a-a1ea-4ec5-98ca-1e9f3fd34826"]
+# from_id = ["f6e8e98a-a1ea-4ec5-98ca-1e9f3fd34826"]
+
+# 10k 0402 cpl
+# from_id = ["dea3597b-c64d-42da-af39-a2d7b91d0a5b"]
+
+# 10 Ω 0402 cpl
+# from_id = ["cf763849-18eb-4794-a886-7c812a705b15"]
+
+# 4.7k Ω 0402 cpl
+# from_id = ["20a2e70d-cf2b-4a81-bb5f-7628c239d679"]
+
+# 50 Ω 0402 vishay
+# from_id = ["7bef321c-d7ca-403a-90cb-0da315755f28"]
+
+# 2k Ω 0402 cpl
+from_id = ["d026fa60-628e-4514-bccb-4ce990fa72f7"]
 
 
 # 22 uF 0603 jlcpcb basic part
@@ -56,7 +71,24 @@ from_id = ["f6e8e98a-a1ea-4ec5-98ca-1e9f3fd34826"]
 # to_id = "c2c1a5c8-6058-49b2-87ca-cc22c59a4ce9"
 
 # 2.2uF 0603 jlcpcb basic part
-to_id = "147da013-b612-45cc-aa1c-c2a8b78a6765"
+# to_id = "147da013-b612-45cc-aa1c-c2a8b78a6765"
+
+# 10k 0402 jlcpcb basic part
+# to_id = "c06ba2d4-07f3-4eba-95ae-24a17f46c932"
+
+# 10 Ω 0402 jlcpcb basic part
+# to_id = "c0bbd0e7-7ddc-4ad2-9f97-e234d450b49c"
+
+# 4.7k Ω 0402 jlcpcb basic part
+# to_id = "6e245894-29df-4c36-98b8-d54a6f25a88e"
+
+# 49.9 Ω 0402 jlcpcb basic part
+# to_id = "b85cb7b4-0a19-4cbb-955b-0c79358d52f4"
+
+# 2k Ω 0402 jlcpcb basic part
+to_id = "feb9031c-0fc8-4624-8755-c4ab3ec9c303"
+
+
 
 dump_parts = False
 

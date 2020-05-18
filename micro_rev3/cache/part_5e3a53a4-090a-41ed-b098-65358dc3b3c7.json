@@ -1,0 +1,35 @@
+{
+    "MPN": [
+        false,
+        "0402WGF2202TCE"
+    ],
+    "base": "bfea7db9-7c05-4671-b6a2-dd73bf3f600e",
+    "datasheet": [
+        true,
+        "https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0402WGF100JTCE_C25077.pdf"
+    ],
+    "description": [
+        false,
+        "CHIP RESISTOR - SURFACE MOUNT 22KOHMS ±1% 1/16W 0402 ROHS"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        "Uniroyal Elec"
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "parametric": {
+        "pmax": "0.0625",
+        "table": "resistors",
+        "tolerance": "1",
+        "value": "22000"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "5e3a53a4-090a-41ed-b098-65358dc3b3c7",
+    "value": [
+        false,
+        "22k"
+    ]
+}

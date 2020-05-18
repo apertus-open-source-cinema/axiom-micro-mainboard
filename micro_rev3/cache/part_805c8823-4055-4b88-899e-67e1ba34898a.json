@@ -1,0 +1,32 @@
+{
+    "MPN": [
+        false,
+        "base 0603 resistor uniroyal"
+    ],
+    "base": "cbeda48c-7fb0-4cfb-a4de-d9672e8cc190",
+    "datasheet": [
+        false,
+        "https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF1102T5E_C25950.pdf"
+    ],
+    "description": [
+        true,
+        ""
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "Uniroyal Elec"
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "parametric": {},
+    "tags": [
+        "jlcbasic"
+    ],
+    "type": "part",
+    "uuid": "805c8823-4055-4b88-899e-67e1ba34898a",
+    "value": [
+        true,
+        "base 0603 resistor"
+    ]
+}

@@ -5,20 +5,20 @@
     ],
     "datasheet": [
         false,
-        "http://www.ti.com/lit/ds/symlink/tps54302.pdfhttp://www.ti.com/lit/ds/symlink/tps54302.pdf"
+        "https://www.ti.com/lit/ds/symlink/tps54302.pdf"
     ],
     "description": [
         false,
         "3A step down converter"
     ],
     "entity": "da10444e-0b66-47d9-821f-02f4181c6e7f",
-    "inherit_model": true,
+    "inherit_model": false,
     "inherit_tags": false,
     "manufacturer": [
         false,
         "Texas Instruments"
     ],
-    "model": "00000000-0000-0000-0000-000000000000",
+    "model": "acce9f8f-3840-437a-a49a-2f19acbee7a4",
     "package": "0642774f-c15a-4aa7-8a7a-e80ce8139147",
     "pad_map": {
         "0d91fb20-5b7a-4b59-bb9b-6cf125e49b81": {
