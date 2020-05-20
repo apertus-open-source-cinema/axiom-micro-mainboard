@@ -1,0 +1,32 @@
+{
+    "MPN": [
+        false,
+        "C2290"
+    ],
+    "base": "86ca09b4-ea0c-45a7-81d2-f9129d94a122",
+    "datasheet": [
+        false,
+        "https://datasheet.lcsc.com/szlcsc/1809041711_Hubei-KENTO-Elec-C2290_C2290.pdf"
+    ],
+    "description": [
+        false,
+        "White 0603 Light Emitting Diodes (LED) RoHS"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "Hubei KENTO Elec"
+    ],
+    "model": "4aa5e1f7-312d-4fc9-bfee-0d6048b581f1",
+    "parametric": {},
+    "tags": [
+        "jlcbasic"
+    ],
+    "type": "part",
+    "uuid": "5bdd9e6b-574a-4ad0-8142-8a58b6a3804e",
+    "value": [
+        true,
+        "base 0603 led"
+    ]
+}

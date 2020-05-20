@@ -1,0 +1,37 @@
+{
+    "MPN": [
+        false,
+        "0805W8F100MT5E"
+    ],
+    "base": "e373e828-655e-45e5-a37e-6d35242037f6",
+    "datasheet": [
+        false,
+        "https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0805W8F100MT5E_C127699.pdf"
+    ],
+    "description": [
+        false,
+        "LOW RESISTORS & CURRENT SENSE RESISTORS - SURFACE MOUNT 0.01OHMS ±1% 1/8W 0805 ROHS"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        "Uniroyal Elec"
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "parametric": {
+        "pmax": "0.125",
+        "table": "resistors",
+        "tolerance": "1",
+        "value": "0.01"
+    },
+    "tags": [
+        "jlcextended"
+    ],
+    "type": "part",
+    "uuid": "76d4dcf9-4e8f-4876-89ac-50a766382b65",
+    "value": [
+        false,
+        "0.01"
+    ]
+}

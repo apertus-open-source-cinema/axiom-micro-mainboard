@@ -1,0 +1,49 @@
+{
+    "MPN": [
+        false,
+        "MWSA0518S-2R2MT"
+    ],
+    "datasheet": [
+        false,
+        "https://datasheet.lcsc.com/szlcsc/1912111437_Sunlord-MWSA0518S-2R2MT_C408345.pdf"
+    ],
+    "description": [
+        false,
+        "2.2uH ±20% 5A 35mΩ SMD,5.2x5.4x1.8mm Power Inductors RoHS"
+    ],
+    "entity": "1d534e1d-704a-4d44-a6e6-c6106a2827ab",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Sunlord"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "a02c9e2c-7c3d-4be6-ae6e-0697d6e32323",
+    "pad_map": {
+        "3a78b8f9-cbba-4c44-a343-d6123c4e94d0": {
+            "gate": "48af78e5-730e-44eb-977a-cf188e4fcb39",
+            "pin": "dda0ec99-5d70-4fbe-a8db-897542e7554e"
+        },
+        "e245922f-1416-4f4c-a410-d3046611c72d": {
+            "gate": "48af78e5-730e-44eb-977a-cf188e4fcb39",
+            "pin": "6a44037c-65e2-4876-9359-42890048841d"
+        }
+    },
+    "parametric": {
+        "dcr": "0.035",
+        "idc": "5",
+        "table": "inductors",
+        "value": "2.2e-06"
+    },
+    "tags": [
+        "inductor",
+        "smd"
+    ],
+    "type": "part",
+    "uuid": "ba2e30d0-12e5-44d2-a4cc-c3c6f3d6bd16",
+    "value": [
+        false,
+        "2.2 µH"
+    ]
+}

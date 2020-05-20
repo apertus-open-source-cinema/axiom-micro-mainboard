@@ -1,0 +1,30 @@
+{
+    "MPN": [
+        false,
+        "base 0805 resistor uniroyal"
+    ],
+    "base": "0aaa5955-e860-49fa-9b04-c3fe2d4bc010",
+    "datasheet": [
+        true,
+        ""
+    ],
+    "description": [
+        true,
+        ""
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "Uniroyal Elec"
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "e373e828-655e-45e5-a37e-6d35242037f6",
+    "value": [
+        true,
+        "base 0805 resistor"
+    ]
+}

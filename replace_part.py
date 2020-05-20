@@ -40,7 +40,10 @@ from horizon_util import load_schematic, save_schematic, load_from_cache
 # from_id = ["7bef321c-d7ca-403a-90cb-0da315755f28"]
 
 # 2k Ω 0402 cpl
-from_id = ["d026fa60-628e-4514-bccb-4ce990fa72f7"]
+# from_id = ["d026fa60-628e-4514-bccb-4ce990fa72f7"]
+
+# 1k Ω 0402 cpl
+from_id = ["57259079-4e81-4937-83ea-da05364bbbfc"]
 
 
 # 22 uF 0603 jlcpcb basic part
@@ -86,7 +89,10 @@ from_id = ["d026fa60-628e-4514-bccb-4ce990fa72f7"]
 # to_id = "b85cb7b4-0a19-4cbb-955b-0c79358d52f4"
 
 # 2k Ω 0402 jlcpcb basic part
-to_id = "feb9031c-0fc8-4624-8755-c4ab3ec9c303"
+# to_id = "feb9031c-0fc8-4624-8755-c4ab3ec9c303"
+
+# 1k Ω 0402 jlcpcb basic part
+to_id = "756b1e87-4b56-4a14-9cc5-2b272004a628"
 
 
 

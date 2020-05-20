@@ -1,0 +1,21 @@
+MPN,QTY,Ref. Des.,Value,Manufacturer,Description,Datasheet,Package
+MYS-7Z010-L-C-S,1,A101,MYS-7Z010-L-C-S,MYIR,Z-turn Lite Zynq 7010 devboard,http://www.myirtech.com/soft.asp?id=927,BTH-060-01-F-D-A
+Axiom plugin module,2,"A601, A602",Axiom plugin module,"",Plugin module slot of axiom cameras,"",PCIE-036-02-F-D-TH
+axiom_shield_north,1,A603,axiom_shield_north,"","","",2x8_female
+axiom_shield_south,1,A604,axiom_shield_south,"","","",2x8_female
+axiom_micro_r3_image_sensor,2,"A1101, A1102",axiom_micro_r3_image_sensor,"",axiom micro r3 image sensor board,"",528850474
+TPD4E02B042,6,"D701, D702, D703, D704, D705, D706",TPD4E02B042,Texas Instruments,4-Channel ESD Protection Diode for USB Type-C and HDMI 2.0,http://www.ti.com/lit/gpn/tpd4e02b04,USON-10
+TPD1E10B06,2,"D707, D708",TPD1E10B06,Texas Instruments,Single-Channel ESD Protection Diode in 0402 Package,http://www.ti.com/lit/gpn/tpd1e10b06,D0402
+"Generic Pin header 1×4, 2.54mm pitch, vertical",2,"J301, J1201","Generic Pin header 1×4, 2.54mm pitch, vertical","","","","Pin header 1×4, 2.54mm pitch, vertical"
+Generic 2x5 1.27mm IDC header,1,J302,Generic 2x5 1.27mm IDC header,"","","",2x5-vertical
+UJ31-CH-3-SMT-TR,2,"J701, J702",UJ31-CH-3-SMT-TR,CUI,Full USB type C connector,https://datasheet.octopart.com/UJ31-CH-3-SMT-TR-CUI-Devices-datasheet-134028398.pdf,UJ31-CH-3-SMT-TR
+three-way-jumper,3,"JP301, JP302, JP303",three-way-jumper,CPL,Three way jumper 0603,"",0603-three-way-jumper
+NLSX5014,3,"U101, U601, U704",NLSX5014,ON Semiconductor,4 bit autosense level shifter,https://datasheet.octopart.com/NLSX5014MUTAG-ON-Semiconductor-datasheet-13720281.pdf,uqfn12
+FPF1048BUCX,3,"U102, U703, U705",FPF1048BUCX,ON Semiconductor,"3 A-Capable, Slew-Rate-Controlled Load Switch with True Reverse Current Blocking",https://www.onsemi.com/pub/Collateral/FPF1048-D.pdf,wlcsp-6
+LFE5UM5G-45F-8BG381C,1,U201,LFE5UM5G-45F-8BG381C,Lattice,ECP5 fpga,https://www.latticesemi.com/view_document?document_id=50461,caBGA-381
+SG5032VAN 200.000000M-KEGA3,1,U202,SG5032VAN 200.000000M-KEGA3,EPSON,Crystal Oscillator 100 MHz LVDS output,https://support.epson.biz/td/api/doc_check.php?dl=brief_SG3225EAN_en.pdf,SG5032
+MT41K512M16HA,1,U501,MT41K512M16HA,Micron,8Gbit DDR3L RAM,https://www.mouser.de/datasheet/2/12/Micron_8Gb_DDR3_SDRAM_PartNo.MT41K512M16HA-107_125-1620705.pdf,fbga-96
+PTN5150AHX,2,"U701, U702",PTN5150AHX,NXP,CC logic for USB Type-C applications,https://www.nxp.com/docs/en/data-sheet/PTN5150A.pdf,x2qfn-12
+TPS51206DSQT,1,U802,TPS51206DSQT,Texas Instruments,2A Peak Sink/Source DDR Termination Regulator with VTTREF Buffered Reference for DDR2/3/3L/4,http://www.ti.com/lit/gpn/tps51206,wson
+PAC1934T-I/JQ,2,"U804, U806",PAC1934T-I/JQ,Microchip,Quad DC Power Monitor with Accumulation,http://ww1.microchip.com/downloads/en/DeviceDoc/PAC1931-Family-Data-Sheet-DS20005850E.pdf,uqfn16
+IRPS5401MTRPBF,2,"U901, U1001",IRPS5401MTRPBF,Infineon,4A/4A/2A/2A PMIC with additional 500mA LDO,https://www.infineon.com/dgdl/Infineon-IRPS5401M-DataSheet-v02_04-EN.pdf?fileId=5546d4625cc9456a015cd69d402139db,PQFN-56

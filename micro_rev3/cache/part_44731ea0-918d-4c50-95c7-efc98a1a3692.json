@@ -1,0 +1,30 @@
+{
+    "MPN": [
+        false,
+        "MPZ2012S101AT000"
+    ],
+    "base": "123c4927-c9e8-4407-ab29-a93eeb3edc93",
+    "datasheet": [
+        false,
+        "https://datasheet.lcsc.com/szlcsc/TDK-MPZ2012S101AT000_C15957.pdf"
+    ],
+    "description": [
+        false,
+        "100Ω @ 100MHz 4A 1 20mΩ 0805 Ferrite Beads RoHS"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "TDK"
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "44731ea0-918d-4c50-95c7-efc98a1a3692",
+    "value": [
+        true,
+        "base 0805 ferrite bead"
+    ]
+}
