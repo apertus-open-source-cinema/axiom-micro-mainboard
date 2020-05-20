@@ -21,7 +21,7 @@
             "text": true
         }
     },
-    "grid_spacing": 25000,
+    "grid_spacing": 800000,
     "layer_display": {
         "layer_opacity": 50.0,
         "layers": {
