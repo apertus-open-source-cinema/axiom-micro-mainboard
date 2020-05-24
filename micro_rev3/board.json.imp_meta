@@ -21,7 +21,7 @@
             "text": true
         }
     },
-    "grid_spacing": 800000,
+    "grid_spacing": 10000,
     "layer_display": {
         "layer_opacity": 50.0,
         "layers": {
@@ -39,11 +39,11 @@
             },
             "-120": {
                 "display_mode": "fill_only",
-                "visible": false
+                "visible": true
             },
             "-130": {
                 "display_mode": "fill",
-                "visible": false
+                "visible": true
             },
             "-140": {
                 "display_mode": "outline",
@@ -67,7 +67,7 @@
             },
             "0": {
                 "display_mode": "fill_only",
-                "visible": false
+                "visible": true
             },
             "10": {
                 "display_mode": "outline",
@@ -83,7 +83,7 @@
             },
             "20": {
                 "display_mode": "fill_only",
-                "visible": false
+                "visible": true
             },
             "200": {
                 "display_mode": "fill",
@@ -91,11 +91,11 @@
             },
             "30": {
                 "display_mode": "fill",
-                "visible": false
+                "visible": true
             },
             "40": {
                 "display_mode": "outline",
-                "visible": false
+                "visible": true
             },
             "50": {
                 "display_mode": "outline",
