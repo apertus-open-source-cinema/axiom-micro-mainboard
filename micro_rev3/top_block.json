@@ -12478,7 +12478,7 @@
         "09188683-03b3-4f30-96e4-5292d56a0137": {
             "is_power": true,
             "name": "ECP_1V2_HTX1",
-            "net_class": "bfde78d3-fdc8-4a70-9a18-8c05d6df3c67",
+            "net_class": "f21b5fe3-b441-4982-92eb-4d6d30dddf88",
             "power_symbol_name_visible": true,
             "power_symbol_style": "antenna"
         },
@@ -12551,7 +12551,7 @@
         "1318cb9a-7128-4e7d-8e9b-cb5de13fb51d": {
             "is_power": true,
             "name": "ECP_VCCIO2/3",
-            "net_class": "bfde78d3-fdc8-4a70-9a18-8c05d6df3c67",
+            "net_class": "f21b5fe3-b441-4982-92eb-4d6d30dddf88",
             "power_symbol_name_visible": true,
             "power_symbol_style": "antenna"
         },
@@ -12782,7 +12782,7 @@
         "2bd344e8-d5c0-4927-a87e-3359198c5985": {
             "is_power": true,
             "name": "ECP_VCCIO7",
-            "net_class": "bfde78d3-fdc8-4a70-9a18-8c05d6df3c67",
+            "net_class": "f21b5fe3-b441-4982-92eb-4d6d30dddf88",
             "power_symbol_name_visible": true,
             "power_symbol_style": "antenna"
         },
@@ -12863,7 +12863,7 @@
         "3373f104-c008-4cf8-9a6d-6405f8136ca8": {
             "is_power": true,
             "name": "ECP_1V2_HTX0",
-            "net_class": "bfde78d3-fdc8-4a70-9a18-8c05d6df3c67",
+            "net_class": "f21b5fe3-b441-4982-92eb-4d6d30dddf88",
             "power_symbol_name_visible": true,
             "power_symbol_style": "antenna"
         },
@@ -12886,7 +12886,7 @@
         "34515ccc-94a5-44ae-85dd-f6c9fea0c97d": {
             "is_power": true,
             "name": "GND",
-            "net_class": "bfde78d3-fdc8-4a70-9a18-8c05d6df3c67",
+            "net_class": "f21b5fe3-b441-4982-92eb-4d6d30dddf88",
             "power_symbol_name_visible": true,
             "power_symbol_style": "gnd"
         },
@@ -13586,7 +13586,7 @@
         "65c95104-25e4-4a22-942b-776cffbe38e0": {
             "is_power": true,
             "name": "ECP_1V2",
-            "net_class": "bfde78d3-fdc8-4a70-9a18-8c05d6df3c67",
+            "net_class": "f21b5fe3-b441-4982-92eb-4d6d30dddf88",
             "power_symbol_name_visible": true,
             "power_symbol_style": "antenna"
         },
@@ -14053,7 +14053,7 @@
         "8fffb6bd-5e77-4e47-8e83-de4b19b458cf": {
             "is_power": true,
             "name": "ECP_1V2_VCCA0",
-            "net_class": "bfde78d3-fdc8-4a70-9a18-8c05d6df3c67",
+            "net_class": "f21b5fe3-b441-4982-92eb-4d6d30dddf88",
             "power_symbol_name_visible": true,
             "power_symbol_style": "antenna"
         },
@@ -14285,7 +14285,7 @@
         "a450c3b3-b8f9-465f-a8ce-de54468a6a00": {
             "is_power": true,
             "name": "ECP_1V2_VCCA1",
-            "net_class": "bfde78d3-fdc8-4a70-9a18-8c05d6df3c67",
+            "net_class": "f21b5fe3-b441-4982-92eb-4d6d30dddf88",
             "power_symbol_name_visible": true,
             "power_symbol_style": "antenna"
         },
@@ -14468,7 +14468,7 @@
         "b49fb13a-9194-4b56-a247-a2623d4b3c2a": {
             "is_power": true,
             "name": "ECP_2V5",
-            "net_class": "bfde78d3-fdc8-4a70-9a18-8c05d6df3c67",
+            "net_class": "f21b5fe3-b441-4982-92eb-4d6d30dddf88",
             "power_symbol_name_visible": true,
             "power_symbol_style": "antenna"
         },
@@ -14568,7 +14568,7 @@
         "bbdbd56b-1c77-41c5-a39a-99ca9ac50728": {
             "is_power": true,
             "name": "ECP_VCCIO0/6",
-            "net_class": "bfde78d3-fdc8-4a70-9a18-8c05d6df3c67",
+            "net_class": "f21b5fe3-b441-4982-92eb-4d6d30dddf88",
             "power_symbol_name_visible": true,
             "power_symbol_style": "antenna"
         },
@@ -14668,7 +14668,7 @@
         "c21ba149-7596-424e-bce0-af3f9fb2a6a5": {
             "is_power": true,
             "name": "ECP_VCCIO1",
-            "net_class": "bfde78d3-fdc8-4a70-9a18-8c05d6df3c67",
+            "net_class": "f21b5fe3-b441-4982-92eb-4d6d30dddf88",
             "power_symbol_name_visible": true,
             "power_symbol_style": "antenna"
         },
@@ -15087,7 +15087,7 @@
         "e321e48e-4096-4bd7-a193-9a524b3d9a8d": {
             "is_power": true,
             "name": "ECP_VCCIO8",
-            "net_class": "bfde78d3-fdc8-4a70-9a18-8c05d6df3c67",
+            "net_class": "f21b5fe3-b441-4982-92eb-4d6d30dddf88",
             "power_symbol_name_visible": true,
             "power_symbol_style": "antenna"
         },

@@ -21,12 +21,12 @@
             "text": true
         }
     },
-    "grid_spacing": 10000,
+    "grid_spacing": 100000,
     "layer_display": {
         "layer_opacity": 50.0,
         "layers": {
             "-1": {
-                "display_mode": "fill",
+                "display_mode": "fill_only",
                 "visible": false
             },
             "-100": {
@@ -35,30 +35,30 @@
             },
             "-110": {
                 "display_mode": "outline",
-                "visible": true
+                "visible": false
             },
             "-120": {
                 "display_mode": "fill_only",
-                "visible": true
+                "visible": false
             },
             "-130": {
                 "display_mode": "fill",
-                "visible": true
+                "visible": false
             },
             "-140": {
                 "display_mode": "outline",
-                "visible": true
+                "visible": false
             },
             "-150": {
                 "display_mode": "outline",
-                "visible": true
+                "visible": false
             },
             "-160": {
                 "display_mode": "outline",
-                "visible": true
+                "visible": false
             },
             "-2": {
-                "display_mode": "fill",
+                "display_mode": "fill_only",
                 "visible": false
             },
             "-200": {
@@ -67,23 +67,23 @@
             },
             "0": {
                 "display_mode": "fill_only",
-                "visible": true
+                "visible": false
             },
             "10": {
                 "display_mode": "outline",
-                "visible": true
+                "visible": false
             },
             "100": {
                 "display_mode": "outline",
-                "visible": true
+                "visible": false
             },
             "110": {
                 "display_mode": "outline",
-                "visible": true
+                "visible": false
             },
             "20": {
                 "display_mode": "fill_only",
-                "visible": true
+                "visible": false
             },
             "200": {
                 "display_mode": "fill",
@@ -91,19 +91,19 @@
             },
             "30": {
                 "display_mode": "fill",
-                "visible": true
+                "visible": false
             },
             "40": {
                 "display_mode": "outline",
-                "visible": true
+                "visible": false
             },
             "50": {
                 "display_mode": "outline",
-                "visible": true
+                "visible": false
             },
             "60": {
                 "display_mode": "outline",
-                "visible": true
+                "visible": false
             }
         }
     }
