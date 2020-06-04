@@ -1,6 +1,6 @@
 {
     "arcs": {},
-    "default_model": "00000000-0000-0000-0000-000000000000",
+    "default_model": "8511e5c3-abc0-4c8b-852e-36688567dd9f",
     "dimensions": {
         "0b92d6c9-0b73-41ff-8fd5-53353ffe48ef": {
             "label_distance": 2900003,
@@ -174,7 +174,17 @@
         }
     },
     "manufacturer": "molex",
-    "models": {},
+    "models": {
+        "8511e5c3-abc0-4c8b-852e-36688567dd9f": {
+            "filename": "3d_models/connector/molex/528850474.stp",
+            "pitch": 0,
+            "roll": 49152,
+            "x": 0,
+            "y": 0,
+            "yaw": 0,
+            "z": 2000000
+        }
+    },
     "name": "528850474",
     "pads": {
         "044b2315-2f71-443c-99b4-f4ab4998d41e": {

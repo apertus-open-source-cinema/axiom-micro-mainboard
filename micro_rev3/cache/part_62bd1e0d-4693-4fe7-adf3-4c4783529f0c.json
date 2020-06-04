@@ -1,7 +1,7 @@
 {
     "MPN": [
         false,
-        "TPD4E02B042"
+        "TPD4E02B04"
     ],
     "datasheet": [
         false,
@@ -12,7 +12,7 @@
         "4-Channel ESD Protection Diode for USB Type-C and HDMI 2.0"
     ],
     "entity": "6b1c667c-2c5b-44dd-ac3b-891894cab485",
-    "inherit_model": true,
+    "inherit_model": false,
     "inherit_tags": false,
     "manufacturer": [
         false,

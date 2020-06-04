@@ -1,6 +1,6 @@
 {
     "arcs": {},
-    "default_model": "00000000-0000-0000-0000-000000000000",
+    "default_model": "41a1c9a4-08b5-4883-a2cd-e327f9879674",
     "dimensions": {
         "07fd3c6a-d61a-4734-bc0f-dc7d0c7f4b8b": {
             "label_distance": -1000000,
@@ -97,7 +97,17 @@
         }
     },
     "manufacturer": "Texas Instruments",
-    "models": {},
+    "models": {
+        "41a1c9a4-08b5-4883-a2cd-e327f9879674": {
+            "filename": "3d_models/diode/DQA0010A.stp",
+            "pitch": 0,
+            "roll": 0,
+            "x": 0,
+            "y": 0,
+            "yaw": 0,
+            "z": 0
+        }
+    },
     "name": "USON-10",
     "pads": {
         "029b26b9-e8b1-4773-8009-589623c3277d": {

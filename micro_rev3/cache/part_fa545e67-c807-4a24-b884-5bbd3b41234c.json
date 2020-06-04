@@ -1,0 +1,153 @@
+{
+    "MPN": [
+        false,
+        "2047110001"
+    ],
+    "datasheet": [
+        false,
+        "http://www.literature.molex.com/SQLImages/kelmscott/Molex/PDF_Images/987651-4081.pdf"
+    ],
+    "description": [
+        false,
+        "Universal Serial Bus (USB) Shielded I/O Receptacle, Type C, Vertical, Surface Mount, 0.76µm Gold (Au) Plating, 1.40mm Solder Tab"
+    ],
+    "entity": "f8dcaef5-e145-4401-b53c-809e0fae6d66",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "molex"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "d101e7ce-8dbb-46f3-ac98-449e8e500768",
+    "pad_map": {
+        "0349062b-f47d-4a08-afe8-28d841984218": {
+            "gate": "a9c06c34-094b-4c70-ad67-f5eeb2f4b096",
+            "pin": "75d8db4c-0991-4bbf-9814-e63f015353a6"
+        },
+        "0a7d8e1a-3889-444b-879e-04ddb5b00117": {
+            "gate": "a9c06c34-094b-4c70-ad67-f5eeb2f4b096",
+            "pin": "0af8a433-7b5e-40dd-9137-dd7df6f34db7"
+        },
+        "1acee7bb-f159-4523-be5f-a62afb3db952": {
+            "gate": "a9c06c34-094b-4c70-ad67-f5eeb2f4b096",
+            "pin": "6c2946ef-30c1-47be-ad84-d2e4f7956d1c"
+        },
+        "2516981e-1b11-4c60-8e55-c2fce0621db5": {
+            "gate": "a9c06c34-094b-4c70-ad67-f5eeb2f4b096",
+            "pin": "cca765e9-f5b7-49bd-a420-e457cbb75479"
+        },
+        "2706d606-d200-4e5b-82af-401a1f2fc112": {
+            "gate": "a9c06c34-094b-4c70-ad67-f5eeb2f4b096",
+            "pin": "4cc4a5fc-6af9-4366-899d-72d040cb095e"
+        },
+        "2737eb82-7a27-489d-be6a-56141af413ec": {
+            "gate": "a9c06c34-094b-4c70-ad67-f5eeb2f4b096",
+            "pin": "67f1bb82-d24f-4bcc-a874-ca654b5a716e"
+        },
+        "3d7af0b9-d4d0-46b3-8848-4d039ec85b11": {
+            "gate": "a9c06c34-094b-4c70-ad67-f5eeb2f4b096",
+            "pin": "7c62a921-df4a-4d59-8308-cefc935d6422"
+        },
+        "520dc84f-f7e3-4b34-b608-fd777cce174a": {
+            "gate": "a9c06c34-094b-4c70-ad67-f5eeb2f4b096",
+            "pin": "ff9245f7-e1c7-410d-aeb4-79953440cecd"
+        },
+        "58bb92c8-547d-49a4-a822-74f46226ca65": {
+            "gate": "a9c06c34-094b-4c70-ad67-f5eeb2f4b096",
+            "pin": "75d8db4c-0991-4bbf-9814-e63f015353a6"
+        },
+        "60b6a54b-a1af-4ca5-84d0-aa78c1d348c2": {
+            "gate": "a9c06c34-094b-4c70-ad67-f5eeb2f4b096",
+            "pin": "4cc4a5fc-6af9-4366-899d-72d040cb095e"
+        },
+        "68f152c7-b2a9-49a1-ae85-56eab1218d84": {
+            "gate": "a9c06c34-094b-4c70-ad67-f5eeb2f4b096",
+            "pin": "4cc4a5fc-6af9-4366-899d-72d040cb095e"
+        },
+        "7a651491-0157-4077-8df4-53854efe95f0": {
+            "gate": "a9c06c34-094b-4c70-ad67-f5eeb2f4b096",
+            "pin": "4cc4a5fc-6af9-4366-899d-72d040cb095e"
+        },
+        "7e170534-3d73-46ed-a88b-03b687df8fee": {
+            "gate": "a9c06c34-094b-4c70-ad67-f5eeb2f4b096",
+            "pin": "6c2946ef-30c1-47be-ad84-d2e4f7956d1c"
+        },
+        "82ba9d37-e5bb-465d-a1e0-e24f7aaa17ba": {
+            "gate": "a9c06c34-094b-4c70-ad67-f5eeb2f4b096",
+            "pin": "4cc4a5fc-6af9-4366-899d-72d040cb095e"
+        },
+        "832d4f1a-9c53-409c-8e62-808a30f3fc99": {
+            "gate": "a9c06c34-094b-4c70-ad67-f5eeb2f4b096",
+            "pin": "758a9fd2-fce2-4655-b8db-b2fda3a37b01"
+        },
+        "8cc7e212-03d1-48cc-8ec0-553d30250266": {
+            "gate": "a9c06c34-094b-4c70-ad67-f5eeb2f4b096",
+            "pin": "a1decccb-9892-4ad0-ac4a-6fd79881c316"
+        },
+        "9891a41a-326e-40a6-889a-fa67f694a51a": {
+            "gate": "a9c06c34-094b-4c70-ad67-f5eeb2f4b096",
+            "pin": "4cc4a5fc-6af9-4366-899d-72d040cb095e"
+        },
+        "a0adea80-316e-453d-9117-9dc352db4553": {
+            "gate": "a9c06c34-094b-4c70-ad67-f5eeb2f4b096",
+            "pin": "4cc4a5fc-6af9-4366-899d-72d040cb095e"
+        },
+        "a25b7387-cca0-4338-816c-b00e80b85c85": {
+            "gate": "a9c06c34-094b-4c70-ad67-f5eeb2f4b096",
+            "pin": "75d8db4c-0991-4bbf-9814-e63f015353a6"
+        },
+        "aad9c9ee-ec2b-46d9-bdb1-a5807dedaf33": {
+            "gate": "a9c06c34-094b-4c70-ad67-f5eeb2f4b096",
+            "pin": "eca8406b-c095-4143-b650-8412dca6e8fa"
+        },
+        "ba676f18-93c4-4827-881f-df13dbfaa6bd": {
+            "gate": "a9c06c34-094b-4c70-ad67-f5eeb2f4b096",
+            "pin": "75d8db4c-0991-4bbf-9814-e63f015353a6"
+        },
+        "cae0b1b8-e20c-47fa-af48-51f2a755ee90": {
+            "gate": "a9c06c34-094b-4c70-ad67-f5eeb2f4b096",
+            "pin": "6e0cf337-27a4-4934-bbc9-f3dbd26755c6"
+        },
+        "d3932c09-ff04-45a8-b801-921a2184c48f": {
+            "gate": "a9c06c34-094b-4c70-ad67-f5eeb2f4b096",
+            "pin": "4cc4a5fc-6af9-4366-899d-72d040cb095e"
+        },
+        "e1d28c82-8655-48f7-afe4-b0b0059cdb94": {
+            "gate": "a9c06c34-094b-4c70-ad67-f5eeb2f4b096",
+            "pin": "4cc4a5fc-6af9-4366-899d-72d040cb095e"
+        },
+        "e292a267-ab58-4608-a4d8-28e83a1b85e4": {
+            "gate": "a9c06c34-094b-4c70-ad67-f5eeb2f4b096",
+            "pin": "afd31642-573b-4519-97d7-a2e9fbad31ca"
+        },
+        "e6187ac0-9ac4-4ae3-8806-2af84887ac90": {
+            "gate": "a9c06c34-094b-4c70-ad67-f5eeb2f4b096",
+            "pin": "2dfef37f-671c-478d-aa65-fff122d22d2b"
+        },
+        "e71e928b-eaec-42c2-b8c7-4a85b0239652": {
+            "gate": "a9c06c34-094b-4c70-ad67-f5eeb2f4b096",
+            "pin": "aa11f3c3-c286-4bfb-b02a-794f12ab0246"
+        },
+        "f0b4bdf9-d50c-4430-a0e2-e29b72c82204": {
+            "gate": "a9c06c34-094b-4c70-ad67-f5eeb2f4b096",
+            "pin": "a1decccb-9892-4ad0-ac4a-6fd79881c316"
+        },
+        "f6ad32e0-bbac-4a5b-9027-92d664c0a8ed": {
+            "gate": "a9c06c34-094b-4c70-ad67-f5eeb2f4b096",
+            "pin": "d4641c19-a750-4fdc-84b2-77ebc1b81e95"
+        },
+        "fc6dfed6-1bea-42f1-84af-b9c6fa4030f8": {
+            "gate": "a9c06c34-094b-4c70-ad67-f5eeb2f4b096",
+            "pin": "4cc4a5fc-6af9-4366-899d-72d040cb095e"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "fa545e67-c807-4a24-b884-5bbd3b41234c",
+    "value": [
+        false,
+        ""
+    ]
+}

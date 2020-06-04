@@ -1,6 +1,6 @@
 {
     "arcs": {},
-    "default_model": "00000000-0000-0000-0000-000000000000",
+    "default_model": "bf6bbb3b-42ef-42f1-b42c-16194a03d67a",
     "dimensions": {},
     "junctions": {
         "2921f611-2752-46eb-8934-3d4825ca498f": {
@@ -116,7 +116,17 @@
         }
     },
     "manufacturer": "Infineon",
-    "models": {},
+    "models": {
+        "bf6bbb3b-42ef-42f1-b42c-16194a03d67a": {
+            "filename": "3d_models/ic/qfn/PG-QFN-56-7X7.STEP",
+            "pitch": 0,
+            "roll": 0,
+            "x": 0,
+            "y": 0,
+            "yaw": 0,
+            "z": 0
+        }
+    },
     "name": "PQFN-56",
     "pads": {
         "07e65f74-2704-4d11-b14f-0b26eabc825c": {

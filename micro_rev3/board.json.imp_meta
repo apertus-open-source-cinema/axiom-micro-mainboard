@@ -31,7 +31,7 @@
             },
             "-100": {
                 "display_mode": "fill_only",
-                "visible": false
+                "visible": true
             },
             "-110": {
                 "display_mode": "outline",
@@ -67,7 +67,7 @@
             },
             "0": {
                 "display_mode": "fill_only",
-                "visible": false
+                "visible": true
             },
             "10": {
                 "display_mode": "outline",
@@ -75,7 +75,7 @@
             },
             "100": {
                 "display_mode": "outline",
-                "visible": false
+                "visible": true
             },
             "110": {
                 "display_mode": "outline",

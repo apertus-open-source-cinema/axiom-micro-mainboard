@@ -1,6 +1,6 @@
 {
     "arcs": {},
-    "default_model": "00000000-0000-0000-0000-000000000000",
+    "default_model": "de875fc8-5bdf-4243-8bb0-87cd9b1d120e",
     "dimensions": {
         "3a488c35-6d66-4211-b647-b3c869dba114": {
             "label_distance": 8245000,
@@ -136,7 +136,17 @@
         }
     },
     "manufacturer": "",
-    "models": {},
+    "models": {
+        "de875fc8-5bdf-4243-8bb0-87cd9b1d120e": {
+            "filename": "3d_models/connector/wuerth/62101621821.stp",
+            "pitch": 0,
+            "roll": 0,
+            "x": 0,
+            "y": 0,
+            "yaw": 0,
+            "z": 1100000
+        }
+    },
     "name": "2x8_female",
     "pads": {
         "20c76ec7-936a-41c0-a1ef-3f388a50e131": {

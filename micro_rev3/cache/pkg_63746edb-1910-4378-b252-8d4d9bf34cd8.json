@@ -1,12 +1,22 @@
 {
     "arcs": {},
-    "default_model": "00000000-0000-0000-0000-000000000000",
+    "default_model": "6e6f5b7b-d587-4dc2-b4a6-bc9068c4fad0",
     "dimensions": {},
     "junctions": {},
     "keepouts": {},
     "lines": {},
     "manufacturer": "",
-    "models": {},
+    "models": {
+        "6e6f5b7b-d587-4dc2-b4a6-bc9068c4fad0": {
+            "filename": "3d_models/diode/DPY0002A.stp",
+            "pitch": 0,
+            "roll": 0,
+            "x": 0,
+            "y": 0,
+            "yaw": 0,
+            "z": 0
+        }
+    },
     "name": "D0402",
     "pads": {
         "22a50871-a878-4f01-a634-1b19eb8db967": {

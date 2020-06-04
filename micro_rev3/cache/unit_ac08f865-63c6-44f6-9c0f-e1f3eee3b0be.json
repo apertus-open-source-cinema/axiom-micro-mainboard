@@ -1,0 +1,104 @@
+{
+    "manufacturer": "molex",
+    "name": "2047110001",
+    "pins": {
+        "0af8a433-7b5e-40dd-9137-dd7df6f34db7": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "SBU1",
+            "swap_group": 0
+        },
+        "2dfef37f-671c-478d-aa65-fff122d22d2b": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "TX2-",
+            "swap_group": 0
+        },
+        "4cc4a5fc-6af9-4366-899d-72d040cb095e": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "67f1bb82-d24f-4bcc-a874-ca654b5a716e": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "TX2+",
+            "swap_group": 0
+        },
+        "6c2946ef-30c1-47be-ad84-d2e4f7956d1c": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "D+",
+            "swap_group": 0
+        },
+        "6e0cf337-27a4-4934-bbc9-f3dbd26755c6": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "RX2+",
+            "swap_group": 0
+        },
+        "758a9fd2-fce2-4655-b8db-b2fda3a37b01": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "CC2",
+            "swap_group": 0
+        },
+        "75d8db4c-0991-4bbf-9814-e63f015353a6": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "Vbus",
+            "swap_group": 0
+        },
+        "7c62a921-df4a-4d59-8308-cefc935d6422": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "TX1+",
+            "swap_group": 0
+        },
+        "a1decccb-9892-4ad0-ac4a-6fd79881c316": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "D-",
+            "swap_group": 0
+        },
+        "aa11f3c3-c286-4bfb-b02a-794f12ab0246": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "RX1-",
+            "swap_group": 0
+        },
+        "afd31642-573b-4519-97d7-a2e9fbad31ca": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "TX1-",
+            "swap_group": 0
+        },
+        "cca765e9-f5b7-49bd-a420-e457cbb75479": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "RX2-",
+            "swap_group": 0
+        },
+        "d4641c19-a750-4fdc-84b2-77ebc1b81e95": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "RX1+",
+            "swap_group": 0
+        },
+        "eca8406b-c095-4143-b650-8412dca6e8fa": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "CC1",
+            "swap_group": 0
+        },
+        "ff9245f7-e1c7-410d-aeb4-79953440cecd": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "SBU2",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "ac08f865-63c6-44f6-9c0f-e1f3eee3b0be"
+}

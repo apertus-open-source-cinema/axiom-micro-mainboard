@@ -1,0 +1,16 @@
+{
+    "gates": {
+        "a9c06c34-094b-4c70-ad67-f5eeb2f4b096": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "ac08f865-63c6-44f6-9c0f-e1f3eee3b0be"
+        }
+    },
+    "manufacturer": "molex",
+    "name": "2047110001",
+    "prefix": "J",
+    "tags": [],
+    "type": "entity",
+    "uuid": "f8dcaef5-e145-4401-b53c-809e0fae6d66"
+}

@@ -1,6 +1,6 @@
 {
     "arcs": {},
-    "default_model": "00000000-0000-0000-0000-000000000000",
+    "default_model": "353f4a99-323f-489e-84aa-e52f03505056",
     "dimensions": {},
     "junctions": {
         "0d96e215-3096-45ec-b3c9-e56412462853": {
@@ -110,7 +110,17 @@
         }
     },
     "manufacturer": "Sunlord",
-    "models": {},
+    "models": {
+        "353f4a99-323f-489e-84aa-e52f03505056": {
+            "filename": "3d_models/passive/inductor/MWSA0503S.step",
+            "pitch": 0,
+            "roll": 0,
+            "x": 0,
+            "y": 0,
+            "yaw": 0,
+            "z": 0
+        }
+    },
     "name": "SUNLORD-MWSA05XXS",
     "pads": {
         "3a78b8f9-cbba-4c44-a343-d6123c4e94d0": {
