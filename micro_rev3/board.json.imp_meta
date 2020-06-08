@@ -21,7 +21,7 @@
             "text": true
         }
     },
-    "grid_spacing": 100000,
+    "grid_spacing": 10000,
     "layer_display": {
         "layer_opacity": 50.0,
         "layers": {
@@ -31,7 +31,7 @@
             },
             "-100": {
                 "display_mode": "fill_only",
-                "visible": false
+                "visible": true
             },
             "-110": {
                 "display_mode": "outline",

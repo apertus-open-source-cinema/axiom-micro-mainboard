@@ -12452,6 +12452,7 @@
             "power_symbol_style": "gnd"
         },
         "0776554c-60ba-42b8-a8dc-c62a8d3e02d2": {
+            "diffpair": "2c6a27dc-c733-4087-912c-a59fa16685fc",
             "is_power": false,
             "name": "RAM_UDQS#",
             "net_class": "1d9d39a2-2c9d-46e4-a1ad-2cdfd8d8e1c2",
@@ -13202,6 +13203,7 @@
             "power_symbol_style": "gnd"
         },
         "46cc30e7-e21e-4124-acb8-ef8441ecc326": {
+            "diffpair": "58863a76-9094-4295-8bb6-a6d8a05654c1",
             "is_power": false,
             "name": "RAM_CK",
             "net_class": "1d9d39a2-2c9d-46e4-a1ad-2cdfd8d8e1c2",
@@ -13926,6 +13928,7 @@
             "power_symbol_style": "gnd"
         },
         "830453a9-74ce-4301-b558-1fe6b78be968": {
+            "diffpair": "c120eff1-6fe9-4d0c-99f2-26b0f6a13117",
             "is_power": false,
             "name": "RAM_LDQS#",
             "net_class": "1d9d39a2-2c9d-46e4-a1ad-2cdfd8d8e1c2",
