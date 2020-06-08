@@ -1,0 +1,84 @@
+{
+    "holes": {
+        "056fa8e5-8b21-454e-a805-467fd49763b6": {
+            "diameter": 400000,
+            "length": 500000,
+            "parameter_class": "hole",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    0,
+                    0
+                ]
+            },
+            "plated": true,
+            "shape": "round"
+        }
+    },
+    "name": "Circular via (tented)",
+    "padstack_type": "via",
+    "parameter_program": "get-parameter [ via_diameter ]\nset-shape [ via circle ]\n\nget-parameter [ hole_diameter ]\nset-hole [ hole round ]\n",
+    "parameter_set": {
+        "hole_diameter": 400000,
+        "via_diameter": 700000
+    },
+    "parameters_required": [
+        "hole_diameter",
+        "via_diameter"
+    ],
+    "polygons": {},
+    "shapes": {
+        "3d4a1caa-13a9-4828-aee6-4ec776b4f007": {
+            "form": "circle",
+            "layer": -1,
+            "parameter_class": "via",
+            "params": [
+                700000
+            ],
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    0,
+                    0
+                ]
+            }
+        },
+        "587492a5-d20b-4258-b1a8-04da900ea393": {
+            "form": "circle",
+            "layer": -100,
+            "parameter_class": "via",
+            "params": [
+                700000
+            ],
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    0,
+                    0
+                ]
+            }
+        },
+        "c0afc6ea-f577-42ee-8860-16eaf52721bf": {
+            "form": "circle",
+            "layer": 0,
+            "parameter_class": "via",
+            "params": [
+                700000
+            ],
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    0,
+                    0
+                ]
+            }
+        }
+    },
+    "type": "padstack",
+    "uuid": "8b6dee4b-af88-4c0f-b38b-c5364649e65e",
+    "well_known_name": ""
+}
