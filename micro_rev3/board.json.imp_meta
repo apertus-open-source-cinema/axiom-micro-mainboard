@@ -21,6 +21,14 @@
             "text": true
         }
     },
+    "grid_settings": {
+        "mode": "square",
+        "origin_x": -39600000,
+        "origin_y": -76800000,
+        "spacing_square": 10000,
+        "spacing_x": 1250000,
+        "spacing_y": 1250000
+    },
     "grid_spacing": 10000,
     "layer_display": {
         "layer_opacity": 50.0,

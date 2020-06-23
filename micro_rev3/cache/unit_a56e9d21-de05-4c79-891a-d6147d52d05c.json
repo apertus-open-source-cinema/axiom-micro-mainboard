@@ -4,40 +4,50 @@
     "pins": {
         "050c3c46-5068-456b-b037-b46d4c697def": {
             "direction": "bidirectional",
-            "names": [],
+            "names": [
+                "LDQ65"
+            ],
             "primary_name": "PL68A",
             "swap_group": 0
         },
         "0c830bdf-648b-4024-b190-0c502af70606": {
             "direction": "bidirectional",
             "names": [
-                "PCLKC6_1"
+                "PCLKC6_1,",
+                "LDQ41"
             ],
             "primary_name": "PL35B",
             "swap_group": 0
         },
         "0d339fde-d00f-410a-9843-aa5dd361bf8e": {
             "direction": "bidirectional",
-            "names": [],
+            "names": [
+                "LDQ41"
+            ],
             "primary_name": "PL44C",
             "swap_group": 0
         },
         "0e4c5f01-50be-426c-99b2-16d67d3a4cb7": {
             "direction": "bidirectional",
-            "names": [],
+            "names": [
+                "LDQ41"
+            ],
             "primary_name": "PL44A",
             "swap_group": 0
         },
         "0e5687ef-cc81-4015-928d-18cffb997814": {
             "direction": "bidirectional",
-            "names": [],
+            "names": [
+                "LDQ65"
+            ],
             "primary_name": "PL62C",
             "swap_group": 0
         },
         "2a693832-eac1-477a-af78-c6ea75e1a7ab": {
             "direction": "bidirectional",
             "names": [
-                "VREF1_6"
+                "VREF1_6,",
+                "LDQ41"
             ],
             "primary_name": "PL44B",
             "swap_group": 0
@@ -45,73 +55,91 @@
         "2f934b42-bd5b-4fb9-bdbf-0c9d49d52620": {
             "direction": "bidirectional",
             "names": [
-                "PCLKC6_0"
+                "PCLKC6_0,",
+                "LDQ41"
             ],
             "primary_name": "PL35D",
             "swap_group": 0
         },
         "36417a6a-7218-43a8-9a5d-a7fce99854c5": {
             "direction": "bidirectional",
-            "names": [],
+            "names": [
+                "LDQ41"
+            ],
             "primary_name": "PL38D",
             "swap_group": 0
         },
         "3be7c3d7-55cd-4e6c-b429-c724bca0616b": {
             "direction": "bidirectional",
-            "names": [],
+            "names": [
+                "LDQ65"
+            ],
             "primary_name": "PL59A",
             "swap_group": 0
         },
         "3cd36bfb-64f5-4d2d-ba9e-9a65947ff2c5": {
             "direction": "bidirectional",
             "names": [
-                "GR_PCLK6_0"
+                "GR_PCLK6_0,",
+                "LDQ41"
             ],
             "primary_name": "PL38A",
             "swap_group": 0
         },
         "3e756ba0-d9b1-4a10-95f9-f7d1598edf9c": {
             "direction": "bidirectional",
-            "names": [],
+            "names": [
+                "LDQ65"
+            ],
             "primary_name": "PL62D",
             "swap_group": 0
         },
         "451e8fc1-eb7b-48b6-a999-bb4374df093d": {
             "direction": "bidirectional",
-            "names": [],
+            "names": [
+                "LDQ65"
+            ],
             "primary_name": "PL62A",
             "swap_group": 0
         },
         "460aeac9-854f-46ab-ae65-11851e916563": {
             "direction": "bidirectional",
-            "names": [],
+            "names": [
+                "LDQ65"
+            ],
             "primary_name": "PL68B",
             "swap_group": 0
         },
         "4dbc4c56-dbad-442d-b001-f044c4eec026": {
             "direction": "bidirectional",
-            "names": [],
+            "names": [
+                "LDQ65"
+            ],
             "primary_name": "PL62B",
             "swap_group": 0
         },
         "56cbd1fe-673b-42e1-8a8f-b06942a5716d": {
             "direction": "bidirectional",
             "names": [
-                "PCLKT6_0"
+                "PCLKT6_0,",
+                "LDQ41"
             ],
             "primary_name": "PL35C",
             "swap_group": 0
         },
         "5712412c-8dd8-484a-acab-dc4418f036c7": {
             "direction": "bidirectional",
-            "names": [],
+            "names": [
+                "LDQ41"
+            ],
             "primary_name": "PL38B",
             "swap_group": 0
         },
         "670f37b0-3a2c-4bba-abd7-8301d1682195": {
             "direction": "bidirectional",
             "names": [
-                "LLC_GPLL0C_IN"
+                "LLC_GPLL0C_IN,",
+                "LDQ65"
             ],
             "primary_name": "PL68D",
             "swap_group": 0
@@ -126,7 +154,9 @@
         },
         "858763e9-74db-48c9-926f-2e71b24ec886": {
             "direction": "bidirectional",
-            "names": [],
+            "names": [
+                "LDQ41"
+            ],
             "primary_name": "PL41D",
             "swap_group": 0
         },
@@ -140,19 +170,25 @@
         },
         "958bbe41-52ef-4a41-8f4c-81cba7553981": {
             "direction": "bidirectional",
-            "names": [],
+            "names": [
+                "LDQ65"
+            ],
             "primary_name": "PL59C",
             "swap_group": 0
         },
         "9ed3b0ff-af3b-4494-b0ab-ec8f17e2ad44": {
             "direction": "bidirectional",
-            "names": [],
+            "names": [
+                "LDQ65"
+            ],
             "primary_name": "PL65D",
             "swap_group": 0
         },
         "a921080f-c9a4-442d-a578-53e047e9d2cf": {
             "direction": "bidirectional",
-            "names": [],
+            "names": [
+                "LDQ41"
+            ],
             "primary_name": "PL44D",
             "swap_group": 0
         },
@@ -174,14 +210,17 @@
         },
         "be298ce7-c08d-4b16-a470-5b299537becb": {
             "direction": "bidirectional",
-            "names": [],
+            "names": [
+                "LDQ65"
+            ],
             "primary_name": "PL59D",
             "swap_group": 0
         },
         "bf7dd48c-102c-4a65-917c-705dc827ba67": {
             "direction": "bidirectional",
             "names": [
-                "LLC_GPLL0T_IN"
+                "LLC_GPLL0T_IN,",
+                "LDQ65"
             ],
             "primary_name": "PL68C",
             "swap_group": 0
@@ -189,7 +228,8 @@
         "c10219e4-7637-4a9d-9aaf-b805b4de528a": {
             "direction": "bidirectional",
             "names": [
-                "PCLKT6_1"
+                "PCLKT6_1,",
+                "LDQ41"
             ],
             "primary_name": "PL35A",
             "swap_group": 0
@@ -197,20 +237,25 @@
         "c26f9885-e04c-4968-980b-fa615f3a6245": {
             "direction": "bidirectional",
             "names": [
-                "GR_PCLK6_1"
+                "GR_PCLK6_1,",
+                "LDQ41"
             ],
             "primary_name": "PL38C",
             "swap_group": 0
         },
         "c9c3cbb5-4d9e-4cb9-af12-c6ad2e1e6dce": {
             "direction": "bidirectional",
-            "names": [],
+            "names": [
+                "LDQ65"
+            ],
             "primary_name": "PL65C",
             "swap_group": 0
         },
         "d2d2e078-3bb1-4e23-b80f-e4ec70b0f28b": {
             "direction": "bidirectional",
-            "names": [],
+            "names": [
+                "LDQ41"
+            ],
             "primary_name": "PL41C",
             "swap_group": 0
         },
@@ -224,7 +269,9 @@
         },
         "f652d145-9a6a-4d94-af3f-2a896c7b57d1": {
             "direction": "bidirectional",
-            "names": [],
+            "names": [
+                "LDQ65"
+            ],
             "primary_name": "PL59B",
             "swap_group": 0
         }

@@ -1099,6 +1099,23 @@
             "size": 1000000,
             "text": "$RD",
             "width": 0
+        },
+        "e9671ffb-948e-4238-a49e-15b8f1d0dc81": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 20,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    3700000,
+                    4800000
+                ]
+            },
+            "size": 1000000,
+            "text": "$RD",
+            "width": 150000
         }
     },
     "type": "package",
