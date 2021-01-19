@@ -6,7 +6,7 @@
     (property "Value" "AR1335" (id 1) (at 0 1.27 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (id 2) (at 0 -1.27 0)
+    (property "Footprint" "ar1335:ODCSP63" (id 2) (at 0 -1.27 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 -1.27 0)

@@ -837,6 +837,10 @@
     (stroke (width 0) (type solid) (color 0 0 0 0))
   )
 
+  (text "VDDIO_35  = 2V5\nVDDIO_34 = 3V3" (at 210.82 76.2 180)
+    (effects (font (size 1.27 1.27)) (justify right bottom))
+  )
+
   (global_label "N_PLUGIN_LVDS1_P" (shape input) (at 71.755 27.305 180)    (property "Intersheet References" "${INTERSHEET_REFS}" (id 0) (at 45.4043 27.4002 0)
       (effects (font (size 1.524 1.524)) (justify right) hide)
     )
@@ -1065,13 +1069,13 @@
 
     (effects (font (size 1.524 1.524)) (justify right))
   )
-  (global_label "N_PLUGIN_LVDS5_P" (shape input) (at 121.285 27.305 0)    (property "Intersheet References" "${INTERSHEET_REFS}" (id 0) (at 147.6357 27.4002 0)
+  (global_label "N_PLUGIN_LVDS2_P" (shape input) (at 121.285 27.305 0)    (property "Intersheet References" "${INTERSHEET_REFS}" (id 0) (at 147.6357 27.2098 0)
       (effects (font (size 1.524 1.524)) (justify left) hide)
     )
 
     (effects (font (size 1.524 1.524)) (justify left))
   )
-  (global_label "N_PLUGIN_LVDS5_N" (shape input) (at 121.285 29.845 0)    (property "Intersheet References" "${INTERSHEET_REFS}" (id 0) (at 147.7083 29.9402 0)
+  (global_label "N_PLUGIN_LVDS2_N" (shape input) (at 121.285 29.845 0)    (property "Intersheet References" "${INTERSHEET_REFS}" (id 0) (at 147.7083 29.7498 0)
       (effects (font (size 1.524 1.524)) (justify left) hide)
     )
 
@@ -1107,13 +1111,13 @@
 
     (effects (font (size 1.524 1.524)) (justify left))
   )
-  (global_label "N_PLUGIN_LVDS2_P" (shape input) (at 121.285 50.165 0)    (property "Intersheet References" "${INTERSHEET_REFS}" (id 0) (at 147.6357 50.0698 0)
+  (global_label "N_PLUGIN_LVDS5_P" (shape input) (at 121.285 50.165 0)    (property "Intersheet References" "${INTERSHEET_REFS}" (id 0) (at 147.6357 50.2602 0)
       (effects (font (size 1.524 1.524)) (justify left) hide)
     )
 
     (effects (font (size 1.524 1.524)) (justify left))
   )
-  (global_label "N_PLUGIN_LVDS2_N" (shape input) (at 121.285 52.705 0)    (property "Intersheet References" "${INTERSHEET_REFS}" (id 0) (at 147.7083 52.6098 0)
+  (global_label "N_PLUGIN_LVDS5_N" (shape input) (at 121.285 52.705 0)    (property "Intersheet References" "${INTERSHEET_REFS}" (id 0) (at 147.7083 52.8002 0)
       (effects (font (size 1.524 1.524)) (justify left) hide)
     )
 
