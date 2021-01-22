@@ -591,6 +591,10 @@
     (stroke (width 0) (type solid) (color 0 0 0 0))
   )
 
+  (label "TODO: shouldnt this be VCCIO_34" (at 62.23 54.61 180)
+    (effects (font (size 1.27 1.27)) (justify right bottom))
+  )
+
   (global_label "VDDIO_35" (shape input) (at 57.15 58.42 180)    (property "Intersheet References" "${INTERSHEET_REFS}" (id 0) (at -243.84 -151.13 0)
       (effects (font (size 1.27 1.27)) hide)
     )

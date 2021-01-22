@@ -7,3 +7,9 @@
 [submodule "ccd_pcb/parts/NQBit.pretty"]
 	path = pcb/parts/NQBit.pretty
 	url = https://github.com/nqbit/nqbit.pretty
+[submodule "pcb/parts/AVR-KiCAD-Lib"]
+	path = pcb/parts/AVR-KiCAD-Lib
+	url = https://github.com/adamjvr/AVR-KiCAD-Lib
+[submodule "pcb/parts/gekkio-kicad-libs"]
+	path = pcb/parts/gekkio-kicad-libs
+	url = https://github.com/Gekkio/gekkio-kicad-libs

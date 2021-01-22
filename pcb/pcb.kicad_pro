@@ -479,6 +479,10 @@
     [
       "48301de3-d00d-4111-a858-81818d37bda7",
       "AR1335"
+    ],
+    [
+      "c09fa9b5-3605-476e-afea-8ee0a663ab11",
+      "Level Shifter"
     ]
   ],
   "text_variables": {}
