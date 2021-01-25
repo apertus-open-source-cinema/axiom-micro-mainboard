@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name "pcie-36-axiom")(type "KiCad")(uri "${KIPRJMOD}/lib_sch/pcie-36-axiom.kicad_sym")(options "")(descr ""))
+  (lib (name "z-turn-lite")(type "KiCad")(uri "${KIPRJMOD}/lib_sch/z-turn-lite.kicad_sym")(options "")(descr ""))
+  (lib (name "ic")(type "KiCad")(uri "${KIPRJMOD}/lib_sch/ic.kicad_sym")(options "")(descr ""))
+  (lib (name "image_sensor")(type "KiCad")(uri "${KIPRJMOD}/lib_sch/image_sensor.kicad_sym")(options "")(descr ""))
+)
